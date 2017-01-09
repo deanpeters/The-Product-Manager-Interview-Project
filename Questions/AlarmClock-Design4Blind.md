@@ -13,11 +13,12 @@
    * Is the customer accustomed to using an alarm regular alarm clock? If they're familiar with a regular alarm clock, is there an existing design we can expand upon?
    * Where would the alarm clock be located?
    * How is the alamr clock powered?
-3. Additionally, a very qualified candidate might go into detail in some unique design aspects that indicate the ability to quickly understand the user's need such as:
+3. Additionally, a very qualified candidate might go into detail in some unique design aspects that indicate the ability to quickly understand the User Experience related need such as:
    * A device that can be controlled via voice commands
    * Backup Braille on very large buttons
    * Weighted base so the clock isn't accidentally knocked over
    * A LED display for partners who may not be visually impaired.
+
 
 ## Core Competency Coverage
 - [x] Product Design

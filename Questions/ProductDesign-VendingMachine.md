@@ -1,6 +1,8 @@
 # Vending Machine Innovations
 > "Design a vending machine 2.0.  What are some big, innovative changes you can bring to vending machines and the vending machine industry to really disrupt the market"
+
 > Note 1: I say "innovative", "disruptive", "big" multiple times intentionally to really reinforce the idea that they should be thinking outside the box here.
+
 > Note 2: Moments of silence are ok, as is asking "OK, what else"?  They may start with some very simple things, but may blossom if you give them the space.
 
 ## Reason

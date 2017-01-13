@@ -32,6 +32,10 @@ The idea here is to treat questions and exercises like code. Here's how ... at l
 * [Ken Norton's classic "How to Hire a Product Manager"](http://bit.ly/ken-norton-how2hire-pms)
 * [Virtual PM Interview Practice tool](http://bit.ly/pm-interview-practice)
 
+## Cool Tools
+* [Dillinger.io](http://dillinger.io/) an online Markdown Editor so you can see you work
+* [PanDoc](http://pandoc.org/) a command-line tool that convert files from one  format into another, including Word (.DOCX) to Markdown (.MD) and back.
+
 ## Books 
 * [Cracking the PM Interview: How to Land a Product Manager Job in Technology](http://bit.ly/cracking-pm-interview-book)
 * [User Story Mapping: Discover the Whole Story, Build the Right Product](http://bit.ly/the-user-story-mapping-book)

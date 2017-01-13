@@ -24,6 +24,7 @@
 - [x] Product Strategy
 - [x] Analytical
 - [ ] Technical
+- [ ] Cultural Fit
 
 ## Attributions
 * [Focusing on Useful Analytics: Vanity Metrics vs. Actionable Metrics](https://litmus.com/blog/focusing-on-useful-analytics-vanity-metrics-vs-actionable-metrics)

@@ -27,6 +27,7 @@
 - [ ] Product Strategy
 - [ ] Analytical
 - [ ] Technical
+- [ ] Cultural Fit
 
 ## Attributions
 * Shannon derived this from classic Microsoft/Google questions of "Design an X".  I'm sure others have asked the same thing before - not revolutionary, but as with most questions, it's the journey that matters.

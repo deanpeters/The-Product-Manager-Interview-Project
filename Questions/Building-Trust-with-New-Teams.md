@@ -23,24 +23,10 @@ Reason
 
 ### Measure of Success/Failure
 
-1.  The successful candidate doesn’t just describe the obvious
-    differences at a superficial level, but they offer some deeper
-    insights from the vantage point of what they had to do from a
-    servant-leader point of view, and why.
-
-2.  Follow-up \#2 is particularly telling as an optimal candidate will
-    convey the situation without making things personal, and instead
-    offer observations or narrations on how they treated more resistant
-    team members with them with dignity, respect, and fairness.
-
-3.  Does the candidate describe actions that demonstrate their ability
-    to listen to others and objectively, considering the opinions of
-    others, and/or incorporating the ideas of their new teammates?
-
-4.  A candidate with exceptional experiences in an Agile context might
-    describe how they leveraged rituals such as retrospectives, or other
-    face-to-face/person-to-person exercises and opportunities to earn
-    trust.
+1.  The successful candidate doesn’t just describe the obvious differences at a superficial level, but they offer some deeper insights from the vantage point of what they had to do from a servant-leader point of view, and why.
+2.  Follow-up \#2 is particularly telling as an optimal candidate will convey the situation without making things personal, and instead offer observations or narrations on how they treated more resistant team members with them with dignity, respect, and fairness.
+3.  Does the candidate describe actions that demonstrate their ability to listen to others and objectively, considering the opinions of others, and/or incorporating the ideas of their new teammates?
+4.  A candidate with exceptional experiences in an Agile context might describe how they leveraged rituals such as retrospectives, or other face-to-face/person-to-person exercises and opportunities to earn trust.
 
 Core Competency Coverage
 -------------

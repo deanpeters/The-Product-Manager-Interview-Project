@@ -25,6 +25,8 @@
 - [ ] Product Strategy
 - [x] Analytical
 - [ ] Technical
+- [ ] Cultural Fit
+
 
 ## Attributions
 * [Career Cup: Microsoft Interview Question for Program Managers #1](https://www.careercup.com/question?id=57100)

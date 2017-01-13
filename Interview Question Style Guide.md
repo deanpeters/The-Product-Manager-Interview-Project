@@ -19,6 +19,7 @@ This can be followed by or include whatever [github markdown](https://github.com
 - [ ] Product Strategy
 - [ ] Analytical
 - [ ] Technical
+- [ ] Cultural Fit
 
 The above will be a simple cut-n-paste [task list](https://help.github.com/articles/basic-writing-and-formatting-syntax/#task-lists) of the competencies listed in the article [How to prepare for a product management interview at Google](https://www.productschool.com/blog/get-job/how-to-prepare-for-a-product-management-interview-at-google/) where one or more of the above can me checked off (- [*] ...).
 

@@ -14,6 +14,7 @@
 - [ ] Product Strategy
 - [ ] Analytical
 - [ ] Technical
+- [x] Cultural Fit
 
 ## Attributions
 * [link](#)  (you'll change this)

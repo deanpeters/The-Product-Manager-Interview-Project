@@ -21,6 +21,7 @@
 - [ ] Product Strategy
 - [ ] Analytical
 - [x] Technical
+- [ ] Cultural Fit
 
 ## Attributions
 * First encountered something like this from the guys at Reverb.  I thought it was a good idea for a base level technical competance.  If they can't get this one and it is a web related position, that should raise flags.

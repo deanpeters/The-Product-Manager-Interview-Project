@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Find a question by type, core competency, AI competency, or people-management competency. See [competency-model.md](competency-model.md), [ai-competency-model.md](ai-competency-model.md), and [people-management-competency.md](people-management-competency.md) for what each competency means, [question-bank-triage.md](question-bank-triage.md) for how each file was categorized, and [core-interview-loop.md](core-interview-loop.md) for how these 49 active cards assemble into a runnable interview loop.
+Find a question by type, core competency, AI competency, or people-management competency. See [competency-model.md](competency-model.md), [ai-competency-model.md](ai-competency-model.md), and [people-management-competency.md](people-management-competency.md) for what each competency means, [question-bank-triage.md](question-bank-triage.md) for how each file was categorized, and [core-interview-loop.md](core-interview-loop.md) for how these 52 active cards assemble into a runnable interview loop.
 
 All active cards below are **(rewritten)** — they follow the full interview-card structure in [`Questions/Interview Question Boilerplate.md`](../Questions/Interview%20Question%20Boilerplate.md). Legacy cards are preserved as historical material and are not part of the active bank. The twelve AI-competency cards and four people-management cards are optional layers — only use them for roles where they're genuinely relevant; see [ai-competency-model.md](ai-competency-model.md) and [people-management-competency.md](people-management-competency.md).
 
@@ -18,6 +18,7 @@ All active cards below are **(rewritten)** — they follow the full interview-ca
 - [Prepping for a Room You Don't Control](../Questions/behavioral/Prepping-for-a-Room-You-Dont-Control.md)
 - [The Weekend Code Drop](../Questions/behavioral/The-Weekend-Code-Drop.md)
 - [Catching Your Own Bias](../Questions/behavioral/Catching-Your-Own-Bias.md)
+- [Not Every Fix Is a Feature](../Questions/behavioral/Not-Every-Fix-Is-a-Feature.md)
 
 ### Situational — Judgment in a realistic future scenario
 
@@ -47,6 +48,8 @@ All active cards below are **(rewritten)** — they follow the full interview-ca
 - [What Your Estimate Is Actually Measuring](../Questions/judgment/What-Your-Estimate-Is-Actually-Measuring.md)
 - [Weeks for Leadership, Points for the Team](../Questions/judgment/Weeks-for-Leadership-Points-for-the-Team.md)
 - [The 21-Point Story](../Questions/judgment/The-21-Point-Story.md)
+- [Who Actually Owns This Decision](../Questions/judgment/Who-Actually-Owns-This-Decision.md)
+- [One Signal Up, Another Down](../Questions/judgment/One-Signal-Up-Another-Down.md)
 
 ### Method — Targeted craft or execution questions
 
@@ -124,6 +127,9 @@ See [competency-model.md](competency-model.md) for definitions. Most cards asses
 - [What Your Estimate Is Actually Measuring](../Questions/judgment/What-Your-Estimate-Is-Actually-Measuring.md)
 - [Weeks for Leadership, Points for the Team](../Questions/judgment/Weeks-for-Leadership-Points-for-the-Team.md)
 - [The 21-Point Story](../Questions/judgment/The-21-Point-Story.md)
+- [Who Actually Owns This Decision](../Questions/judgment/Who-Actually-Owns-This-Decision.md)
+- [One Signal Up, Another Down](../Questions/judgment/One-Signal-Up-Another-Down.md)
+- [Not Every Fix Is a Feature](../Questions/behavioral/Not-Every-Fix-Is-a-Feature.md)
 
 ### Metrics, Outcomes, And Learning
 - [Vanity Metrics vs. Actionable Analytics](../Questions/judgment/Vanity-Analytics_vs_Action-Metrics.md)
@@ -132,6 +138,7 @@ See [competency-model.md](competency-model.md) for definitions. Most cards asses
 - [The Business Case Behind the Ask](../Questions/judgment/The-Business-Case-Behind-The-Ask.md)
 - [When the Model Is Wrong](../Questions/ai/When-the-Model-Is-Wrong.md)
 - [Turning Usage Into a Better Model](../Questions/ai/Turning-Usage-Into-a-Better-Model.md)
+- [One Signal Up, Another Down](../Questions/judgment/One-Signal-Up-Another-Down.md)
 
 ### Delivery, Execution, And Ownership
 - [Dealing with Seismic Paradigm Shifts](../Questions/behavioral/Dealing-with-Seismic-Paradigm-Shifts.md)
@@ -155,6 +162,7 @@ See [competency-model.md](competency-model.md) for definitions. Most cards asses
 - [Getting a Room Full of Strangers to Care](../Questions/people-management/Getting-a-Room-Full-of-Strangers-to-Care.md)
 - [Leading Through a Bad Quarter](../Questions/people-management/Leading-Through-a-Bad-Quarter.md)
 - [Weeks for Leadership, Points for the Team](../Questions/judgment/Weeks-for-Leadership-Points-for-the-Team.md)
+- [Who Actually Owns This Decision](../Questions/judgment/Who-Actually-Owns-This-Decision.md)
 
 ### Ethics, Self-Awareness, And Responsible Decision-Making
 - [Building Trust with New Teams](../Questions/behavioral/Building-Trust-with-New-Teams.md)
@@ -198,7 +206,7 @@ See [people-management-competency.md](people-management-competency.md). Only use
 
 ## Coverage Status
 
-All six core competencies have at least one dedicated, rewritten card. Product Judgment/Strategy/Prioritization — previously the weakest-covered competency — now has the most cards of any competency, reflecting how much of the job is defending decisions under scrutiny; see [core-interview-loop.md](core-interview-loop.md) Round 2 for guidance on selecting a manageable subset per interview. All ten AI competencies also have at least one dedicated card, as an optional add-on round, with two (Human Agency, Risk & Safety) now having a second card covering a distinct angle. Six named, real-world stakeholder-pressure scenarios (HiPPO, RHiNO, ZEbRA, WoLF, Seagull Manager, CoBRA) round out Customer Understanding, Influence/Collaboration, Delivery, and Ethics/Self-Awareness with situations a résumé alone can't reveal. The bank was individual-contributor-focused until a dedicated People Management layer was added for manager-track roles — four of five categories have a dedicated card; Organization Design is covered only as a secondary angle so far. Three final cards test the judgment underneath engineering sizing frameworks — what an estimate is actually measuring, why the unit changes between leadership and team level, and what an outlier estimate signals — distinct from Technical Sizing Sanity Check's mechanics-level check. If a future role surfaces a competency this bank underserves for that role's needs, add a new card rather than stretching an existing one to cover ground it wasn't designed for.
+All six core competencies have at least one dedicated, rewritten card. Product Judgment/Strategy/Prioritization — previously the weakest-covered competency — now has the most cards of any competency, reflecting how much of the job is defending decisions under scrutiny; see [core-interview-loop.md](core-interview-loop.md) Round 2 for guidance on selecting a manageable subset per interview. All ten AI competencies also have at least one dedicated card, as an optional add-on round, with two (Human Agency, Risk & Safety) now having a second card covering a distinct angle. Six named, real-world stakeholder-pressure scenarios (HiPPO, RHiNO, ZEbRA, WoLF, Seagull Manager, CoBRA) round out Customer Understanding, Influence/Collaboration, Delivery, and Ethics/Self-Awareness with situations a résumé alone can't reveal. The bank was individual-contributor-focused until a dedicated People Management layer was added for manager-track roles — four of five categories have a dedicated card; Organization Design is covered only as a secondary angle so far. Three cards test the judgment underneath engineering sizing frameworks — what an estimate is actually measuring, why the unit changes between leadership and team level, and what an outlier estimate signals — distinct from Technical Sizing Sanity Check's mechanics-level check. Three final cards, adapted from a broad audit of a 70-question generic compendium, close narrower gaps: peer-vs-peer decision-rights ambiguity, live diagnostic reasoning when two metrics disagree, and whether a candidate's solution space extends past "build a feature." If a future role surfaces a competency this bank underserves for that role's needs, add a new card rather than stretching an existing one to cover ground it wasn't designed for.
 
 ## Maintaining This Index
 

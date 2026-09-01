@@ -58,6 +58,10 @@ Two proprietary engineering sizing rubrics contributed to this project — a "Gu
 
 Unlike the private repos cited elsewhere in this project, these two are genuinely public works: *The Dangerous Animals of Product Management* is a Productboard publication co-authored by Dean Peters (2022), and the transcript is from Dean Peters's 2021 ProductCamp talk of the same name. Both are cited by name in the six cards adapted from them, with a link to productboard.com (the real, verifiable publisher) — no specific deep-link URL was fabricated for the ebook or talk recording itself since none was available to verify. Each card's real-world case study (JCPenney/Ron Johnson, ScaleFactor, Blockbuster/Netflix, Knight Capital, Dunkin' Donuts/Robert Rosenberg) is drawn directly from the source material, not invented.
 
+### `Research/gemini.pm-questions-compendium.md` — Original question bank, no citation issue
+
+Read in full. Like `copilot...md`, this is a self-contained original question bank (70 questions across seven categories) with a stated philosophy ("can this person recognize important problems, reason through uncertainty..." rather than "perform Product Manager improv theater") — it makes no external factual claims requiring a citation. Three genuine gaps not already covered by the active bank were adapted into cards: [Who Actually Owns This Decision](../Questions/judgment/Who-Actually-Owns-This-Decision.md) (peer-vs-peer decision-rights ambiguity), [One Signal Up, Another Down](../Questions/judgment/One-Signal-Up-Another-Down.md) (live diagnostic reasoning when two metrics disagree), and [Not Every Fix Is a Feature](../Questions/behavioral/Not-Every-Fix-Is-a-Feature.md) (solving via a non-product lever). The remaining ~67 questions were judged to duplicate existing cards under different phrasing and were not adapted.
+
 ## Recommendation
 
 All four Research files with external claims (`gpt...md`, `plex...md`, `gem...md`) plus the question-bank file (`copilot...md`) are now audited:
@@ -67,4 +71,5 @@ All four Research files with external claims (`gpt...md`, `plex...md`, `gem...md
 - `gem...md` — link-checked. 23 of 25 references are live; 2 Medium links are inconclusive (bot-blocked, not confirmed dead). Separately, this file has an inline-citation-numbering integrity problem (see its findings section above) that a future pass should address — don't treat it as fully clean the way `gpt...md` is.
 - `copilot...md` — confirmed not a duplicate, and confirmed not to need per-claim sourcing (it's an original question bank, not a research synthesis). One uncited "the literature" appeal is now flagged inline as synthesis, not fact.
 - Two of the two proprietary worksheets (`Product Manager Assessment - December 11, 2021.csv`, `AI Product Management Assessment.md`) need no citation work, as noted above.
+- `gemini.pm-questions-compendium.md` — confirmed not to need per-claim sourcing (original question bank, not a research synthesis), same treatment as `copilot...md`.
 - Spot-check any individual link again before leaning on it heavily years from now — URLs do move, and this audit reflects link state as of when each pass was run, not a permanent guarantee.

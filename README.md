@@ -4,7 +4,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/deanpeters/The-Product-Manager-Interview-Project?style=flat-square)](https://github.com/deanpeters/The-Product-Manager-Interview-Project/stargazers) [![GitHub forks](https://img.shields.io/github/forks/deanpeters/The-Product-Manager-Interview-Project?style=flat-square)](https://github.com/deanpeters/The-Product-Manager-Interview-Project/forks) [![GitHub watchers](https://img.shields.io/github/watchers/deanpeters/The-Product-Manager-Interview-Project?style=flat-square)](https://github.com/deanpeters/The-Product-Manager-Interview-Project/watchers) [![Contributors](https://img.shields.io/github/contributors/deanpeters/The-Product-Manager-Interview-Project?style=flat-square)](https://github.com/deanpeters/The-Product-Manager-Interview-Project/graphs/contributors) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
-[![Status](https://img.shields.io/badge/status-public%20preview-yellow?style=flat-square)](docs/field-feedback-guide.md) ![Interview cards](https://img.shields.io/badge/interview%20cards-40-informational?style=flat-square) [![Last commit](https://img.shields.io/github/last-commit/deanpeters/The-Product-Manager-Interview-Project?style=flat-square)](https://github.com/deanpeters/The-Product-Manager-Interview-Project/commits/master) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey?style=flat-square)](LICENSE)
+[![Status](https://img.shields.io/badge/status-public%20preview-yellow?style=flat-square)](docs/field-feedback-guide.md) ![Interview cards](https://img.shields.io/badge/interview%20cards-46-informational?style=flat-square) [![Last commit](https://img.shields.io/github/last-commit/deanpeters/The-Product-Manager-Interview-Project?style=flat-square)](https://github.com/deanpeters/The-Product-Manager-Interview-Project/commits/master) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey?style=flat-square)](LICENSE)
 
 ```text
                                                                                
@@ -15,7 +15,7 @@
 ███       ███      ███   ▄███▄ ██ ██  ██   ▀█▄▄▄ ██     ▀█▀  ██▄ ▀█▄▄▄  ██▀██
                                                                                
 
-  40 interview cards • 4 core rounds + 1 optional AI round • Public Preview
+  46 interview cards • 4 core rounds + 2 optional rounds • Public Preview
 ```
 
 **A ready-to-run interview toolkit that tests product judgment — not memorized frameworks, brainteasers, or a performance of confidence.**
@@ -46,7 +46,7 @@ You don't need to read the whole repository before using it. Find your situation
 | **I know the role but not which cards fit** | Browse [`docs/question-index.md`](docs/question-index.md) by type or competency |
 | **I'm hiring across a full loop with multiple interviewers** | Use the [core interview loop](docs/core-interview-loop.md) — assign one round per interviewer |
 | **I'm hiring an AI-focused PM** | Read [`docs/ai-competency-model.md`](docs/ai-competency-model.md), then add the optional AI round from the [AI Product PM preset](docs/role-loop-presets.md#preset-ai-product-pm) |
-| **I'm hiring a Director or VP** | Use the [Director/VP preset](docs/role-loop-presets.md#preset-director--vp-level-any-domain) layered on top of the domain preset that fits |
+| **I'm hiring a Director or VP** | Use the [Director/VP preset](docs/role-loop-presets.md#preset-director--vp-level-any-domain) layered on top of the domain preset that fits — add the optional [people-management round](docs/people-management-competency.md) only if the role actually manages other PMs |
 | **I want to understand the philosophy before I touch anything** | Read [`docs/MODERNIZATION-PLAN.md`](docs/MODERNIZATION-PLAN.md) and [`AGENTS.md`](AGENTS.md) |
 | **I tried a card and something felt off** | See [Report What You Find](#report-what-you-find) below |
 
@@ -74,7 +74,7 @@ A strong Product Manager interview normally looks for evidence across several ar
 - Influence, collaboration, and communication
 - Ethics, self-awareness, and responsible decision-making
 
-No single question can assess all of these well. Use a short, deliberate interview loop with clear ownership across interviewers — see [`docs/competency-model.md`](docs/competency-model.md) for what each one means, and [`docs/ai-competency-model.md`](docs/ai-competency-model.md) for the optional AI-specific layer.
+No single question can assess all of these well. Use a short, deliberate interview loop with clear ownership across interviewers — see [`docs/competency-model.md`](docs/competency-model.md) for what each one means, [`docs/ai-competency-model.md`](docs/ai-competency-model.md) for the optional AI-specific layer, and [`docs/people-management-competency.md`](docs/people-management-competency.md) for the optional manager-track layer.
 
 ## How It's Organized
 
@@ -85,10 +85,11 @@ Questions/
   judgment/      Trade-offs, ambiguity, and responsible decisions
   method/        Targeted craft or execution questions
   ai/            Optional AI-competency layer, AI-heavy roles only (domain-based, not format-based)
+  people-management/  Optional layer for manager-track roles only (domain-based, not format-based)
   legacy/        Historical prompts retained for context, not a standalone hiring signal
 ```
 
-All 40 active cards follow the full interview-card structure (question, type, competencies assessed, why it matters, neutral probes, strong evidence, warning signs, scoring anchors) described in [`docs/MODERNIZATION-PLAN.md`](docs/MODERNIZATION-PLAN.md) and the [interview-card template](Questions/Interview%20Question%20Boilerplate.md). See [`docs/question-index.md`](docs/question-index.md) to find one by type or competency, and [`docs/question-bank-triage.md`](docs/question-bank-triage.md) for how each file was categorized, including the two moved to `Questions/legacy/`.
+All 46 active cards follow the full interview-card structure (question, type, competencies assessed, why it matters, neutral probes, strong evidence, warning signs, scoring anchors) described in [`docs/MODERNIZATION-PLAN.md`](docs/MODERNIZATION-PLAN.md) and the [interview-card template](Questions/Interview%20Question%20Boilerplate.md). See [`docs/question-index.md`](docs/question-index.md) to find one by type or competency, and [`docs/question-bank-triage.md`](docs/question-bank-triage.md) for how each file was categorized, including the two moved to `Questions/legacy/`.
 
 The research that informed the refresh is in [`Research/`](Research/). It is working material, not yet a publication-ready bibliography — see [`docs/research-audit.md`](docs/research-audit.md) for what still needs citation cleanup before any of it is repeated as fact in public guidance.
 

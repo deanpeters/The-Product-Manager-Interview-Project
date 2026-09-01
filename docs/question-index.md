@@ -2,9 +2,9 @@
 
 ## Purpose
 
-Find a question by type, core competency, or AI competency. See [competency-model.md](competency-model.md) and [ai-competency-model.md](ai-competency-model.md) for what each competency means, [question-bank-triage.md](question-bank-triage.md) for how each file was categorized, and [core-interview-loop.md](core-interview-loop.md) for how these 40 active cards assemble into a runnable interview loop.
+Find a question by type, core competency, AI competency, or people-management competency. See [competency-model.md](competency-model.md), [ai-competency-model.md](ai-competency-model.md), and [people-management-competency.md](people-management-competency.md) for what each competency means, [question-bank-triage.md](question-bank-triage.md) for how each file was categorized, and [core-interview-loop.md](core-interview-loop.md) for how these 46 active cards assemble into a runnable interview loop.
 
-All active cards below are **(rewritten)** — they follow the full interview-card structure in [`Questions/Interview Question Boilerplate.md`](../Questions/Interview%20Question%20Boilerplate.md). Legacy cards are preserved as historical material and are not part of the active bank. The twelve AI-competency cards are an optional layer — only use them for roles where AI is a real part of the product surface; see [ai-competency-model.md](ai-competency-model.md).
+All active cards below are **(rewritten)** — they follow the full interview-card structure in [`Questions/Interview Question Boilerplate.md`](../Questions/Interview%20Question%20Boilerplate.md). Legacy cards are preserved as historical material and are not part of the active bank. The twelve AI-competency cards and four people-management cards are optional layers — only use them for roles where they're genuinely relevant; see [ai-competency-model.md](ai-competency-model.md) and [people-management-competency.md](people-management-competency.md).
 
 ## By Type
 
@@ -28,6 +28,8 @@ All active cards below are **(rewritten)** — they follow the full interview-ca
 - [The One Deal That Needs One Feature](../Questions/situational/The-One-Deal-That-Needs-One-Feature.md)
 - [A Confident Opinion With No Evidence](../Questions/situational/A-Confident-Opinion-With-No-Evidence.md)
 - [Negotiating the Technical-Debt Fire](../Questions/situational/Negotiating-the-Technical-Debt-Fire.md)
+- [Should We Expand Into That Market?](../Questions/situational/Should-We-Expand-Into-That-Market.md)
+- [The First 90 Days](../Questions/situational/The-First-90-Days.md)
 
 ### Judgment — Trade-offs, ambiguity, and responsible decisions
 
@@ -65,6 +67,15 @@ All active cards below are **(rewritten)** — they follow the full interview-ca
 - [Governing an Agent That Acts on Its Own](../Questions/ai/Governing-an-Agent-That-Acts-on-Its-Own.md) — Judgment
 - [Scanning External Forces Before You Bet on AI](../Questions/ai/Scanning-External-Forces-Before-You-Bet-on-AI.md) — Judgment
 
+### People Management — Optional layer, manager-track roles only
+
+`Questions/people-management/` is also a domain-based folder — see [people-management-competency.md](people-management-competency.md) for when to use it. Skip entirely for individual-contributor and Senior PM roles.
+
+- [Growing a PM You Manage](../Questions/people-management/Growing-a-PM-You-Manage.md) — Behavioral
+- [Building the Team You Need](../Questions/people-management/Building-the-Team-You-Need.md) — Behavioral
+- [Getting a Room Full of Strangers to Care](../Questions/people-management/Getting-a-Room-Full-of-Strangers-to-Care.md) — Behavioral
+- [Leading Through a Bad Quarter](../Questions/people-management/Leading-Through-a-Bad-Quarter.md) — Behavioral
+
 ### Legacy — Historical prompts, not a standalone hiring signal
 
 - [Vending Machine Innovations](../Questions/legacy/ProductDesign-VendingMachine.md)
@@ -82,6 +93,7 @@ See [competency-model.md](competency-model.md) for definitions. Most cards asses
 - [Assumptions Worth Testing First](../Questions/judgment/Assumptions-Worth-Testing-First.md)
 - [Testing an AI Idea Before It's Real](../Questions/ai/Testing-an-AI-Idea-Before-Its-Real.md)
 - [The One Deal That Needs One Feature](../Questions/situational/The-One-Deal-That-Needs-One-Feature.md)
+- [The First 90 Days](../Questions/situational/The-First-90-Days.md)
 
 ### Product Judgment, Strategy, And Prioritization
 - [Vanity Metrics vs. Actionable Analytics](../Questions/judgment/Vanity-Analytics_vs_Action-Metrics.md)
@@ -104,6 +116,8 @@ See [competency-model.md](competency-model.md) for definitions. Most cards asses
 - [Overruling the HiPPO](../Questions/situational/Overruling-the-HiPPO.md)
 - [The One Deal That Needs One Feature](../Questions/situational/The-One-Deal-That-Needs-One-Feature.md)
 - [Catching Your Own Bias](../Questions/behavioral/Catching-Your-Own-Bias.md)
+- [Should We Expand Into That Market?](../Questions/situational/Should-We-Expand-Into-That-Market.md)
+- [Building the Team You Need](../Questions/people-management/Building-the-Team-You-Need.md)
 
 ### Metrics, Outcomes, And Learning
 - [Vanity Metrics vs. Actionable Analytics](../Questions/judgment/Vanity-Analytics_vs_Action-Metrics.md)
@@ -129,6 +143,9 @@ See [competency-model.md](competency-model.md) for definitions. Most cards asses
 - [A Confident Opinion With No Evidence](../Questions/situational/A-Confident-Opinion-With-No-Evidence.md)
 - [Negotiating the Technical-Debt Fire](../Questions/situational/Negotiating-the-Technical-Debt-Fire.md)
 - [The Weekend Code Drop](../Questions/behavioral/The-Weekend-Code-Drop.md)
+- [Growing a PM You Manage](../Questions/people-management/Growing-a-PM-You-Manage.md)
+- [Getting a Room Full of Strangers to Care](../Questions/people-management/Getting-a-Room-Full-of-Strangers-to-Care.md)
+- [Leading Through a Bad Quarter](../Questions/people-management/Leading-Through-a-Bad-Quarter.md)
 
 ### Ethics, Self-Awareness, And Responsible Decision-Making
 - [Building Trust with New Teams](../Questions/behavioral/Building-Trust-with-New-Teams.md)
@@ -141,6 +158,7 @@ See [competency-model.md](competency-model.md) for definitions. Most cards asses
 - [Governing an Agent That Acts on Its Own](../Questions/ai/Governing-an-Agent-That-Acts-on-Its-Own.md)
 - [A Confident Opinion With No Evidence](../Questions/situational/A-Confident-Opinion-With-No-Evidence.md)
 - [Catching Your Own Bias](../Questions/behavioral/Catching-Your-Own-Bias.md)
+- [Leading Through a Bad Quarter](../Questions/people-management/Leading-Through-a-Bad-Quarter.md)
 
 ## By AI Competency (Optional Layer)
 
@@ -159,9 +177,19 @@ See [ai-competency-model.md](ai-competency-model.md). Only use these for roles w
 - **AI Experience & Human Agency** (second card) — [Governing an Agent That Acts on Its Own](../Questions/ai/Governing-an-Agent-That-Acts-on-Its-Own.md), specifically for multi-step, autonomous agentic systems rather than single-turn AI features
 - **AI Risk, Safety & Responsible Use** (second card) — [Scanning External Forces Before You Bet on AI](../Questions/ai/Scanning-External-Forces-Before-You-Bet-on-AI.md), for external/regulatory risk rather than internally-discovered risk
 
+## By People Management Competency (Optional Layer)
+
+See [people-management-competency.md](people-management-competency.md). Only use these for roles that manage other PMs.
+
+- **Coaching & Development** — [Growing a PM You Manage](../Questions/people-management/Growing-a-PM-You-Manage.md)
+- **Hiring & Team Composition** — [Building the Team You Need](../Questions/people-management/Building-the-Team-You-Need.md)
+- **Evangelism** — [Getting a Room Full of Strangers to Care](../Questions/people-management/Getting-a-Room-Full-of-Strangers-to-Care.md)
+- **Leadership & Motivation** — [Leading Through a Bad Quarter](../Questions/people-management/Leading-Through-a-Bad-Quarter.md)
+- **Organization Design** — covered as a secondary angle in [Building the Team You Need](../Questions/people-management/Building-the-Team-You-Need.md); no dedicated card yet.
+
 ## Coverage Status
 
-All six core competencies have at least one dedicated, rewritten card. Product Judgment/Strategy/Prioritization — previously the weakest-covered competency — now has the most cards of any competency, reflecting how much of the job is defending decisions under scrutiny; see [core-interview-loop.md](core-interview-loop.md) Round 2 for guidance on selecting a manageable subset per interview. All ten AI competencies also have at least one dedicated card, as an optional add-on round, with two (Human Agency, Risk & Safety) now having a second card covering a distinct angle. Six named, real-world stakeholder-pressure scenarios (HiPPO, RHiNO, ZEbRA, WoLF, Seagull Manager, CoBRA) round out Customer Understanding, Influence/Collaboration, Delivery, and Ethics/Self-Awareness with situations a résumé alone can't reveal. If a future role surfaces a competency this bank underserves for that role's needs, add a new card rather than stretching an existing one to cover ground it wasn't designed for.
+All six core competencies have at least one dedicated, rewritten card. Product Judgment/Strategy/Prioritization — previously the weakest-covered competency — now has the most cards of any competency, reflecting how much of the job is defending decisions under scrutiny; see [core-interview-loop.md](core-interview-loop.md) Round 2 for guidance on selecting a manageable subset per interview. All ten AI competencies also have at least one dedicated card, as an optional add-on round, with two (Human Agency, Risk & Safety) now having a second card covering a distinct angle. Six named, real-world stakeholder-pressure scenarios (HiPPO, RHiNO, ZEbRA, WoLF, Seagull Manager, CoBRA) round out Customer Understanding, Influence/Collaboration, Delivery, and Ethics/Self-Awareness with situations a résumé alone can't reveal. The bank was individual-contributor-focused until a dedicated People Management layer was added for manager-track roles — four of five categories have a dedicated card; Organization Design is covered only as a secondary angle so far. If a future role surfaces a competency this bank underserves for that role's needs, add a new card rather than stretching an existing one to cover ground it wasn't designed for.
 
 ## Maintaining This Index
 

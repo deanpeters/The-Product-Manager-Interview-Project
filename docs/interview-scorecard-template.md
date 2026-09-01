@@ -11,7 +11,7 @@ Copy the template below once per interviewer per candidate. Fill it during the i
 1. Fill the header before the interview starts.
 2. As the candidate answers, log evidence under each question you actually ask — a quote or close paraphrase, not a summary of your impression.
 3. After the interview, score each competency your round owns against [scoring-rubric.md](scoring-rubric.md), independently of what you think other interviewers will say.
-4. Compare your scores to the level benchmark table below for the role's target level (or the AI-PM benchmark table, if you ran the optional Round 5) — a score below the benchmark isn't automatically disqualifying, but it's a specific thing to raise in the debrief with evidence, not just a gut flag.
+4. Compare your scores to the level benchmark table below for the role's target level (or the AI-PM / People Management benchmark tables, if you ran the optional Round 5 or Round 6) — a score below the benchmark isn't automatically disqualifying, but it's a specific thing to raise in the debrief with evidence, not just a gut flag.
 5. Submit before any debrief conversation. Don't let a hallway comment from another interviewer shift your score before you've written it down.
 
 ---
@@ -22,7 +22,7 @@ Copy the template below once per interviewer per candidate. Fill it during the i
 - **Role / Target Level:** (Product Manager / Senior PM / Director / VP — see benchmark table below)
 - **Date:**
 - **Interviewer:**
-- **Round:** (Round 1 — Customer Understanding And Discovery / Round 2 — Product Judgment, Strategy, And Prioritization / Round 3 — Influence, Collaboration And Delivery / Round 4 — Ethics And Self-Awareness / Round 5 — AI Product Judgment, optional, AI-heavy roles only)
+- **Round:** (Round 1 — Customer Understanding And Discovery / Round 2 — Product Judgment, Strategy, And Prioritization / Round 3 — Influence, Collaboration And Delivery / Round 4 — Ethics And Self-Awareness / Round 5 — AI Product Judgment, optional, AI-heavy roles only / Round 6 — People Management, optional, manager-track roles only)
 - **Questions asked this round:** (list the cards used, e.g. "Feature That Wasn't the Problem" + "Designing for a Constraint You Don't Share")
 - **Pressure level:** (`constructive` / `skeptical` [default] / `resistant` — see [evidence-and-pressure-standard.md](evidence-and-pressure-standard.md); never `hostile-room` on a real candidate)
 - **Interviewer voice used, if any:** (see [interviewer-voices.md](interviewer-voices.md) — optional, leave blank if run neutrally)
@@ -81,6 +81,18 @@ Only fill this in if the role has a real AI-product component and you ran the op
 | AI Economics & Technical Tradeoffs | 2 | 3 | 4 | 5 |
 | AI Product Operations & Learning | 2 | 4 | 5 | 5 |
 | AI Strategy & Competitive Advantage | 2 | 3 | 5 | 5 |
+
+## People Management Benchmark Reference (Optional — Manager-Track Roles Only)
+
+Only fill this in if the role manages other PMs and you ran the optional Round 6 from [core-interview-loop.md](core-interview-loop.md) — see [people-management-competency.md](people-management-competency.md) for when this applies. Adapted from the same [`Research/Product Manager Assessment - December 11, 2021.csv`](../Research/Product%20Manager%20Assessment%20-%20December%2011%2C%202021.csv) worksheet as the core benchmark table above. Same caveat: a starting default, not a validated standard. Note the low PM-column scores are expected — most of these competencies aren't relevant at the individual-contributor level, which is exactly why this table is gated to manager-track roles.
+
+| People Management Competency | PM | Senior PM | Director | VP |
+|---|---:|---:|---:|---:|
+| Coaching & Development | 1 | 3 | 4 | 5 |
+| Hiring & Team Composition | 1 | 2 | 4 | 5 |
+| Evangelism | 3 | 4 | 4 | 5 |
+| Leadership & Motivation | 3 | 3 | 4 | 5 |
+| Organization Design | 1 | 1 | 4 | 5 |
 
 ## Round Recommendation
 

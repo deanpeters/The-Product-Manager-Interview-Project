@@ -2,13 +2,13 @@
 
 ## Purpose
 
-A stable, 40-question core bank and a suggested loop structure for running it — the "usable core loop" called for in [MODERNIZATION-PLAN.md](MODERNIZATION-PLAN.md) Phase 3. Pairs with [competency-model.md](competency-model.md) (what to assess), [ai-competency-model.md](ai-competency-model.md) (the optional AI-specific layer), [scoring-rubric.md](scoring-rubric.md) (how to score it), [evidence-and-pressure-standard.md](evidence-and-pressure-standard.md) (how to grade the evidence in an answer and, for senior candidates, how to apply pressure responsibly), [interviewer-voices.md](interviewer-voices.md) (optional named personas for a consistent round style), [negotiation-signals.md](negotiation-signals.md) (techniques to listen for on stakeholder-pressure cards), [interview-scorecard-template.md](interview-scorecard-template.md) (the fillable worksheet an interviewer actually uses during a round), and [structured-interview-guide.md](structured-interview-guide.md) (how to run any interview in the loop). See [question-index.md](question-index.md) for the full catalogue, including legacy material not part of this core set.
+A stable, 46-question core bank and a suggested loop structure for running it — the "usable core loop" called for in [MODERNIZATION-PLAN.md](MODERNIZATION-PLAN.md) Phase 3. Pairs with [competency-model.md](competency-model.md) (what to assess), [ai-competency-model.md](ai-competency-model.md) (the optional AI-specific layer), [people-management-competency.md](people-management-competency.md) (the optional manager-track layer), [scoring-rubric.md](scoring-rubric.md) (how to score it), [evidence-and-pressure-standard.md](evidence-and-pressure-standard.md) (how to grade the evidence in an answer and, for senior candidates, how to apply pressure responsibly), [interviewer-voices.md](interviewer-voices.md) (optional named personas for a consistent round style), [negotiation-signals.md](negotiation-signals.md) (techniques to listen for on stakeholder-pressure cards), [interview-scorecard-template.md](interview-scorecard-template.md) (the fillable worksheet an interviewer actually uses during a round), and [structured-interview-guide.md](structured-interview-guide.md) (how to run any interview in the loop). See [question-index.md](question-index.md) for the full catalogue, including legacy material not part of this core set.
 
-The original 14 cards draw on the research synthesis in [`Research/gpt.pm-interview-and-behavioral-questions.md`](../Research/gpt.pm-interview-and-behavioral-questions.md). Six more were added, adapted from decision-review and competitive-intelligence practice used elsewhere in this project owner's tooling. Ten AI-specific cards were added next, adapted from [`Research/AI Product Management Assessment.md`](../Research/AI%20Product%20Management%20Assessment.md). Four more cards followed — a defensible market-sizing method, a premortem risk exercise, and two more AI cards (agentic-system governance, external risk scanning). A final six cards were added from *The Dangerous Animals of Product Management* (Productboard, in partnership with Dean Peters, 2022) and its companion 2021 ProductCamp talk — real, publicly published stakeholder-pressure archetypes (HiPPO, RHiNO, ZEbRA, WoLF, Seagull Manager, CoBRA), each grounded in a real named case study; see each card's Attributions section for specifics. All forty were written originally for this project, not copied from any source.
+The original 14 cards draw on the research synthesis in [`Research/gpt.pm-interview-and-behavioral-questions.md`](../Research/gpt.pm-interview-and-behavioral-questions.md). Six more were added, adapted from decision-review and competitive-intelligence practice used elsewhere in this project owner's tooling. Ten AI-specific cards were added next, adapted from [`Research/AI Product Management Assessment.md`](../Research/AI%20Product%20Management%20Assessment.md). Four more cards followed — a defensible market-sizing method, a premortem risk exercise, and two more AI cards (agentic-system governance, external risk scanning). Six more were added from *The Dangerous Animals of Product Management* (Productboard, in partnership with Dean Peters, 2022) and its companion 2021 ProductCamp talk — real, publicly published stakeholder-pressure archetypes (HiPPO, RHiNO, ZEbRA, WoLF, Seagull Manager, CoBRA), each grounded in a real named case study. A final six cards closed two more gaps: two general situational cards (market expansion reasoning, a new role's first 90 days) and four people-management cards for manager-track roles, adapted from the same internal leveling worksheet behind the core scorecard; see each card's Attributions section for specifics. All forty-six were written originally for this project, not copied from any source.
 
-## Do Not Ask All 40 In One Interview
+## Do Not Ask All 46 In One Interview
 
-40 questions is the size of the *bank*, not of any one conversation. A single interviewer should ask roughly 3-4 questions in a 45-60 minute slot, chosen from the group they own below, and go deep with follow-up probes rather than rushing through more questions shallowly.
+46 questions is the size of the *bank*, not of any one conversation. A single interviewer should ask roughly 3-4 questions in a 45-60 minute slot, chosen from the group they own below, and go deep with follow-up probes rather than rushing through more questions shallowly.
 
 ## The Core Bank By Round
 
@@ -21,6 +21,7 @@ Owns: does the candidate get curious before getting clever?
 - [The Loaded Ask](../Questions/situational/The-Loaded-Ask.md) — Situational
 - [A Critique You'd Stand Behind](../Questions/judgment/A-Critique-Youd-Stand-Behind.md) — Judgment
 - [The One Deal That Needs One Feature](../Questions/situational/The-One-Deal-That-Needs-One-Feature.md) — Situational
+- [The First 90 Days](../Questions/situational/The-First-90-Days.md) — Situational
 - [Assumptions Worth Testing First](../Questions/judgment/Assumptions-Worth-Testing-First.md) — Judgment *(also relevant to Round 2; pick whichever round has room)*
 
 ### Round 2 — Product Judgment, Strategy, And Prioritization / Metrics, Outcomes, And Learning
@@ -36,6 +37,7 @@ Owns: can the candidate reason about trade-offs, evidence, and what "working" ac
 - [The Business Case Behind the Ask](../Questions/judgment/The-Business-Case-Behind-The-Ask.md) — Judgment
 - [Separating a Funded Move From a Narrated One](../Questions/judgment/Separating-a-Funded-Move-From-a-Narrated-One.md) — Judgment
 - [The Premortem](../Questions/situational/The-Premortem.md) — Situational
+- [Should We Expand Into That Market?](../Questions/situational/Should-We-Expand-Into-That-Market.md) — Situational
 - [Sizing a Market You Can Defend](../Questions/method/Sizing-a-Market-You-Can-Defend.md) — Method *(optional add-on where market sizing is a real skill for the role)*
 
 This round has grown into a deliberately large pool — pick 3-4 per loop based on the role (a strategy-heavy role might favor Reading Market Signals and Separating a Funded Move; a delivery-heavy role might favor Shipped, But Didn't Work and Defending a Roadmap Trade-off). Don't ask all ten in one sitting.
@@ -85,17 +87,28 @@ Owns: does the candidate reason well about AI-specific product judgment — see 
 
 Twelve cards for one round is deliberately more than any single interview needs — pick 3-4 that match where AI actually shows up in the role (a chat-product PM might prioritize Human Agency and Evaluation & Metrics; a platform PM enabling other teams' AI features might prioritize Data & Context Strategy and Economics & Technical Tradeoffs).
 
+### Round 6 — People Management (Optional, Manager-Track Roles Only)
+
+Owns: can the candidate actually grow, structure, and lead a team of PMs — see [people-management-competency.md](people-management-competency.md) before using this round at all. Skip it entirely for individual-contributor and Senior PM roles; running it on a candidate who won't manage anyone tests a skill the role doesn't need.
+
+- [Growing a PM You Manage](../Questions/people-management/Growing-a-PM-You-Manage.md) — Behavioral (Coaching & Development)
+- [Building the Team You Need](../Questions/people-management/Building-the-Team-You-Need.md) — Behavioral (Hiring & Team Composition)
+- [Getting a Room Full of Strangers to Care](../Questions/people-management/Getting-a-Room-Full-of-Strangers-to-Care.md) — Behavioral (Evangelism)
+- [Leading Through a Bad Quarter](../Questions/people-management/Leading-Through-a-Bad-Quarter.md) — Behavioral (Leadership & Motivation)
+
+All four are worth asking for a Director/VP loop — this round is intentionally smaller than Round 5, and unlike Round 5's AI cards, these aren't a large pool to filter down from.
+
 ## Assembling A Loop
 
-1. **Weight rounds to the role**, per [structured-interview-guide.md](structured-interview-guide.md) — a growth PM role may want Round 2 to run longer; a platform PM role may want Round 3 to include the technical sizing check for every candidate rather than as optional. Add Round 5 only when AI is a real part of the role. See [role-loop-presets.md](role-loop-presets.md) for four fully worked examples rather than deriving this from scratch each time.
-2. **Assign one interviewer per round.** No single interviewer should try to cover all four (or five) rounds; that's the entire point of splitting by competency ownership.
+1. **Weight rounds to the role**, per [structured-interview-guide.md](structured-interview-guide.md) — a growth PM role may want Round 2 to run longer; a platform PM role may want Round 3 to include the technical sizing check for every candidate rather than as optional. Add Round 5 only when AI is a real part of the role, and Round 6 only for manager-track roles. See [role-loop-presets.md](role-loop-presets.md) for four fully worked examples rather than deriving this from scratch each time.
+2. **Assign one interviewer per round.** No single interviewer should try to cover all four (or more) rounds; that's the entire point of splitting by competency ownership.
 3. **Every candidate for a given role gets the same rounds and the same selected questions**, so scores are comparable. Don't swap questions in or out per candidate.
 4. **Record and score independently per [scoring-rubric.md](scoring-rubric.md)** before any debrief.
 5. **For Director/VP-level roles**, several cards carry a Role Or Level Notes section with a senior-specific follow-up or a note to raise pressure per [evidence-and-pressure-standard.md](evidence-and-pressure-standard.md) — check each selected card for one before the interview, rather than improvising pressure on the spot.
 
 ## Coverage Note
 
-The original 14-question bank was assembled to close the gap [question-index.md](question-index.md) previously flagged: no card primarily assessed Product Judgment/Strategy/Prioritization. Round 2 now covers that directly, and heavily — it's the largest round by design, since defending a decision under scrutiny is a large part of the job at every level. Four more cards closed two specific gaps: a genuinely defensible market-sizing method (distinct from the legacy estimation puzzle in `Questions/legacy/`) and agentic-system governance and external risk-scanning within the AI layer. The final six cards added named, real-world stakeholder-pressure scenarios to Rounds 1, 3, and 4 — a candidate's ability to handle a HiPPO, a RHiNO, a ZEbRA, or a Seagull Manager by name is exactly the kind of situational judgment a résumé can't show. If future roles surface a competency this bank underserves, add a new card to the relevant type folder and this document, rather than stretching an existing card to cover ground it wasn't designed for.
+The original 14-question bank was assembled to close the gap [question-index.md](question-index.md) previously flagged: no card primarily assessed Product Judgment/Strategy/Prioritization. Round 2 now covers that directly, and heavily — it's the largest round by design, since defending a decision under scrutiny is a large part of the job at every level. Four more cards closed two specific gaps: a genuinely defensible market-sizing method (distinct from the legacy estimation puzzle in `Questions/legacy/`) and agentic-system governance and external risk-scanning within the AI layer. Six cards added named, real-world stakeholder-pressure scenarios to Rounds 1, 3, and 4 — a candidate's ability to handle a HiPPO, a RHiNO, a ZEbRA, or a Seagull Manager by name is exactly the kind of situational judgment a résumé can't show. The final six closed a structural gap: the whole bank was individual-contributor-focused until Round 6 added a dedicated people-management layer for manager-track roles, alongside two general situational cards (market expansion, a new role's first 90 days). If future roles surface a competency this bank underserves, add a new card to the relevant type folder and this document, rather than stretching an existing card to cover ground it wasn't designed for.
 
 ## Real-World Feedback
 

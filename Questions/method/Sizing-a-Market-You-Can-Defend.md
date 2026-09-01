@@ -50,7 +50,7 @@ For a role where market sizing is a core skill (strategy, new-market-entry, or b
 
 ## Attributions
 
-* Method adapted from a private market-sizing prompt loop (`product-manager-prompts/loops/market-sizing-loop.md`, Dean Peters / Productside.com), which itself cites the bottom-up, cited-source, ranged-uncertainty discipline of `market-intelligence/tam-sam-som-analysis-prompt.md` in the same collection.
+* Method adapted from a private market-sizing prompt loop (Dean Peters / Productside.com), built on a bottom-up, cited-source, ranged-uncertainty sizing discipline.
 
 ## Additional Reading
 

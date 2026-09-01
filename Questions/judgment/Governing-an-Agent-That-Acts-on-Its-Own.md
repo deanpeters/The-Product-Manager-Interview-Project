@@ -47,7 +47,7 @@ Only use this card for roles where AI is a real part of the product surface — 
 
 ## Attributions
 
-* Adapted from Unit 06 ("Orchestrating Agents and Agentic AI") of a private AI-PM training curriculum (`15-days-of-aipm/ai-pm-training/AIPM.06_Agents-and-Agentic_AI.md`), which frames agentic AI through five hallmarks: autonomy, goal orientation, context awareness, decision-making, and accountability within guardrails.
+* Adapted from a private AI-PM training curriculum's unit on orchestrating agents and agentic AI, which frames agentic AI through five hallmarks: autonomy, goal orientation, context awareness, decision-making, and accountability within guardrails.
 
 ## Additional Reading
 

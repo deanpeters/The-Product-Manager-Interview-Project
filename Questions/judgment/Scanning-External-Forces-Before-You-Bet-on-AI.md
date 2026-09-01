@@ -47,7 +47,7 @@ Only use this card for roles where AI is a real part of the product surface — 
 
 ## Attributions
 
-* Adapted from Unit 07 ("De-Risking Your AI Bets") of a private AI-PM training curriculum (`15-days-of-aipm/ai-pm-training/AIPM.07_Derisking-AI-Bets.md`), which uses a PESTEL (political, economic, social, technological, environmental, legal) lens for AI-specific external risk scanning.
+* Adapted from a private AI-PM training curriculum's unit on de-risking AI bets, which uses a PESTEL (political, economic, social, technological, environmental, legal) lens for AI-specific external risk scanning.
 
 ## Additional Reading
 

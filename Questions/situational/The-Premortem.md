@@ -43,7 +43,7 @@ A premortem — imagining failure as already having happened, then working backw
 
 ## Attributions
 
-* Adapted from the Premortem technique in the MITRE Innovation Toolkit (`Mitre-Skills/skills/itk-premortem`), itself a structured application of Gary Klein's prospective hindsight method.
+* Adapted from the Premortem technique in the [MITRE Innovation Toolkit](https://itk.mitre.org/toolkit/tools-at-a-glance/), itself a structured application of Gary Klein's prospective hindsight method.
 
 ## Additional Reading
 

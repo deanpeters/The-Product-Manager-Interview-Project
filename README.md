@@ -1,22 +1,67 @@
+<a id="pminterview"></a>
+
 # The Product Manager Interview Project
 
-A practical, open collection for running better Product Manager interviews.
+[![GitHub stars](https://img.shields.io/github/stars/deanpeters/The-Product-Manager-Interview-Project?style=flat-square)](https://github.com/deanpeters/The-Product-Manager-Interview-Project/stargazers) [![GitHub forks](https://img.shields.io/github/forks/deanpeters/The-Product-Manager-Interview-Project?style=flat-square)](https://github.com/deanpeters/The-Product-Manager-Interview-Project/forks) [![GitHub watchers](https://img.shields.io/github/watchers/deanpeters/The-Product-Manager-Interview-Project?style=flat-square)](https://github.com/deanpeters/The-Product-Manager-Interview-Project/watchers) [![Contributors](https://img.shields.io/github/contributors/deanpeters/The-Product-Manager-Interview-Project?style=flat-square)](https://github.com/deanpeters/The-Product-Manager-Interview-Project/graphs/contributors) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
-This repository is being updated from a flat catalogue of prompts into a structured interview toolkit. The focus is product judgment in context: how someone understands customers, makes decisions with incomplete information, works through trade-offs, collaborates, learns, and delivers outcomes.
+[![Status](https://img.shields.io/badge/status-public%20preview-yellow?style=flat-square)](docs/field-feedback-guide.md) ![Interview cards](https://img.shields.io/badge/interview%20cards-34-informational?style=flat-square) [![Last commit](https://img.shields.io/github/last-commit/deanpeters/The-Product-Manager-Interview-Project?style=flat-square)](https://github.com/deanpeters/The-Product-Manager-Interview-Project/commits/master) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey?style=flat-square)](LICENSE)
 
-It is not designed to reward memorized frameworks, brainteasers, or a performance of confidence.
+```text
+                                                                               
+▄▄▄▄▄▄▄   ▄▄▄      ▄▄▄   ▄▄▄▄▄
+███▀▀███▄ ████▄  ▄████    ███         ██                     ▀▀
+███▄▄███▀ ███▀████▀███    ███  ████▄ ▀██▀▀ ▄█▀█▄ ████▄ ██ ██ ██  ▄█▀█▄ ██   ██
+███▀▀▀▀   ███  ▀▀  ███    ███  ██ ██  ██   ██▄█▀ ██ ▀▀ ██▄██ ██  ██▄█▀ ██ █ ██
+███       ███      ███   ▄███▄ ██ ██  ██   ▀█▄▄▄ ██     ▀█▀  ██▄ ▀█▄▄▄  ██▀██
+                                                                               
 
-## Start Here
+  34 interview cards • 4 core rounds + 1 optional AI round • Public Preview
+```
 
-If you are running an interview, use the project in this order:
+**A ready-to-run interview toolkit that tests product judgment — not memorized frameworks, brainteasers, or a performance of confidence.**
 
-1. Read the [modernization plan](docs/MODERNIZATION-PLAN.md) to understand the direction and what is still being built.
-2. Use the [core interview loop](docs/core-interview-loop.md) — a ready-to-run 34-question core bank organized into four interviewer rounds, plus an optional fifth round for AI-heavy roles — or select individual questions from [`docs/question-index.md`](docs/question-index.md) that match the role and the decisions the person will need to make. See [`docs/role-loop-presets.md`](docs/role-loop-presets.md) for four worked examples (Growth PM, Platform PM, AI Product PM, Director/VP) rather than starting from scratch.
-3. Ask the same core questions consistently across comparable candidates.
-4. Use neutral follow-ups to understand the candidate's specific contribution, reasoning, evidence, and learning.
-5. Record evidence before assigning a score, using the [scorecard template](docs/interview-scorecard-template.md). Score against the [shared rubric](docs/scoring-rubric.md) rather than an overall impression.
+> **Public preview.** This toolkit hasn't been through a formal internal pilot — real usage in real interviews *is* the pilot. Try a card, report what happened, help make it better. See [Report What You Find](#report-what-you-find) below.
 
-See [`docs/structured-interview-guide.md`](docs/structured-interview-guide.md) for the full process — assembling a loop, running each interview, and debriefing.
+---
+
+## Why This Exists
+
+Most PM interview banks are either a pile of unstructured "gotcha" questions, or a single trendy framework dressed up as a full interview process. Neither tells you whether someone can actually do the job: understand customers, make decisions with incomplete information, work through trade-offs, collaborate, learn, and deliver outcomes.
+
+This toolkit is different in three ways:
+
+- **Every card is complete**, not just a prompt — competencies assessed, why it matters, neutral follow-up probes, strong-evidence and warning-sign markers, and scoring anchors. An interviewer can pick it up and run it without inventing anything.
+- **Evidence over performance.** The whole system — the [scoring rubric](docs/scoring-rubric.md), the [evidence ladder](docs/evidence-and-pressure-standard.md), the [scorecard](docs/interview-scorecard-template.md) — is built to reward specific, checkable evidence over a confident-sounding story.
+- **Organized for a real loop**, not a grab-bag. Cards are grouped into rounds by competency, with worked [role-loop presets](docs/role-loop-presets.md) so assembling a loop isn't a research project.
+
+---
+
+## Get Your First Win
+
+You don't need to read the whole repository before using it. Find your situation below.
+
+| Your situation | Start here |
+|---|---|
+| **I'm interviewing someone soon and need questions now** | Jump to [Your First 4 Questions](#your-first-4-questions) below, or pick the closest [role-loop preset](docs/role-loop-presets.md) |
+| **I know the role but not which cards fit** | Browse [`docs/question-index.md`](docs/question-index.md) by type or competency |
+| **I'm hiring across a full loop with multiple interviewers** | Use the [core interview loop](docs/core-interview-loop.md) — assign one round per interviewer |
+| **I'm hiring an AI-focused PM** | Read [`docs/ai-competency-model.md`](docs/ai-competency-model.md), then add the optional AI round from the [AI Product PM preset](docs/role-loop-presets.md#preset-ai-product-pm) |
+| **I'm hiring a Director or VP** | Use the [Director/VP preset](docs/role-loop-presets.md#preset-director--vp-level-any-domain) layered on top of the domain preset that fits |
+| **I want to understand the philosophy before I touch anything** | Read [`docs/MODERNIZATION-PLAN.md`](docs/MODERNIZATION-PLAN.md) and [`AGENTS.md`](AGENTS.md) |
+| **I tried a card and something felt off** | See [Report What You Find](#report-what-you-find) below |
+
+### Your First 4 Questions
+
+No preset, no setup — four cards you can ask in your very next interview, one from each core round:
+
+1. **[The Feature That Wasn't the Problem](Questions/behavioral/Feature-That-Wasnt-The-Problem.md)** (Customer Understanding) — tests whether a candidate separates a stakeholder's request from the real underlying problem.
+2. **[Deciding Before You're Certain](Questions/judgment/Deciding-Before-Youre-Certain.md)** (Product Judgment) — tests how they reason under incomplete information.
+3. **[Influence Without Authority](Questions/behavioral/Influence-Without-Authority.md)** (Collaboration) — tests how they get things done through people they don't manage.
+4. **[A Decision You Got Wrong](Questions/behavioral/A-Decision-You-Got-Wrong.md)** (Self-Awareness) — tests real ownership, not a rehearsed success story.
+
+Ask each question as written, use its neutral follow-up probes, and log evidence on the [scorecard template](docs/interview-scorecard-template.md) as you go. That's it — you're running a structured interview.
+
+---
 
 ## What We Assess
 
@@ -29,11 +74,9 @@ A strong Product Manager interview normally looks for evidence across several ar
 - Influence, collaboration, and communication
 - Ethics, self-awareness, and responsible decision-making
 
-No single question can assess all of these well. Use a short, deliberate interview loop with clear ownership across interviewers.
+No single question can assess all of these well. Use a short, deliberate interview loop with clear ownership across interviewers — see [`docs/competency-model.md`](docs/competency-model.md) for what each one means, and [`docs/ai-competency-model.md`](docs/ai-competency-model.md) for the optional AI-specific layer.
 
-## Repository Status
-
-The [`Questions/`](Questions/) directory is now organized by type:
+## How It's Organized
 
 ```text
 Questions/
@@ -50,9 +93,11 @@ The research that informed the refresh is in [`Research/`](Research/). It is wor
 
 See [`docs/competency-model.md`](docs/competency-model.md), [`docs/scoring-rubric.md`](docs/scoring-rubric.md), and [`docs/structured-interview-guide.md`](docs/structured-interview-guide.md) for what to assess, how to score it, and how to run the loop. Optionally, [`docs/interviewer-voices.md`](docs/interviewer-voices.md) offers named interviewer personas for a consistent round style, built on the pressure levels in [`docs/evidence-and-pressure-standard.md`](docs/evidence-and-pressure-standard.md) — read the Candidate Safety Cap there before using anything past the default level.
 
-## Contributing
+## Report What You Find
 
 This repository is in public preview — the best contribution is usage. Try a card in a real interview and report back; see [`docs/field-feedback-guide.md`](docs/field-feedback-guide.md) for what's worth reporting and how. Track progress on the [Field Feedback](https://github.com/users/deanpeters/projects/2) and [Role & Domain Coverage](https://github.com/users/deanpeters/projects/3) boards.
+
+## Contributing
 
 Contributions should make an interviewer more consistent and a candidate experience more respectful. See [`CONTRIBUTING.md`](CONTRIBUTING.md) for the full process — how to add or edit a question, what review criteria apply, and how to contribute research responsibly.
 

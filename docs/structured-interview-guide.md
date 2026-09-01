@@ -22,7 +22,7 @@ How to assemble and run an interview loop using this repository's question bank,
 
 ## After Each Interview
 
-1. **Record evidence before scoring.** Write down what the candidate actually said (quote or close paraphrase) for each competency the question targeted, before assigning a number.
+1. **Record evidence before scoring.** Write down what the candidate actually said (quote or close paraphrase) for each competency the question targeted, before assigning a number. Use the [interview scorecard template](interview-scorecard-template.md) rather than reconstructing this from memory later.
 2. **Score against the shared rubric**, not against your impression of the candidate overall. See [scoring-rubric.md](scoring-rubric.md).
 3. **Submit scores independently** before any debrief discussion, so later interviewers' scores aren't anchored by earlier ones.
 

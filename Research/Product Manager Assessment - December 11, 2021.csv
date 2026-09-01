@@ -1,0 +1,36 @@
+Product Manager Assessment Worksheet,,,,,Target PM Benchmark,,,
+"Instructions: Assess your score 1 (lowest) to 5 (highest) for the product(s) that you are responsible for as a PM.  If you have more than one product or are managing a team of PMs, scoring high on product expertise gets harder but less important.  Instead team and stakeholder skills become much more important.",,,,,Individual Contributor & One Product,,"Manager & 
+Multiple Products",
+,,,You,,PM,Sr,Dir,VP
+PRODUCT EXPERTISE,,,,,,,,
+,Industry and Market,"Understanding the industry in which your customers exist including trends, thought-leaders, analysts and key attributes that create the conditions for opportunity.",,,3,4,5,5
+,Customer and Users,"Who are your customers, users, and other stakeholders that have problems you are trying to solve?  Why would they care to have these problems solved? Are they happy with your solution?   Do you know what performance characteristics they require? Do you know who the ideal customer is?",,,3,4,4,3
+,Competitive Alternatives,What alternatives do customers and users have to solve their problems?  How are they perceived in the market?  What is unique about them?  How does your product compare?  What is your positioning?,,,3,4,4,3
+,Business,"What is your business model? How do you make money? How does your product fit into its mission, strategy, and portfolio?  What are the goals of the business and how does it measure progress?",,,3,4,4,5
+,Sales & Marketing,Do you understand the marketing and sales strategy and processes used by your business?  Do you understand how your product fits into a portfolio of solutions offered by your business?  ,,,3,4,4,5
+,Finance,What financial metrics matter to the business most?  When is revenue recognized?  How does budgeting work?  Does P&L get broken out by product?  How are costs measured?,,,3,3,4,5
+,Partnerships,"Do you leverage partnerships for go-to-market (e.g. joint solutions), sales (e.g. resellers), integrations (e.g. API), or as suppliers (e.g. data or tech component providers)? How do these arrangements impact product decisions, customer success, and your business success?",,,3,3,4,5
+,Legal & Ethics,"Do you understand the key terms of your contracts and why they exist - with customers and partners?  What risks is the organization most concerned with mitigating?  Do you offer warranty, SLA, and maintenance terms?  Do contracts define the product offering in some manner that may constrain future decisions?  How standard are your contracts?  Does your product and business have additional ethical considerations?  Does your product use PII data?  Do you understand your regulatory obligations like GDPR?",,,3,3,4,5
+,Customer Success,How are customers on-boarded and supported?  How long before a customer gets their initial benefit and realizes it full benefits?  What does the full customer journey look like?,,,3,4,4,5
+,Product Portfolio,Do you have expertise across the portfolio of products offered by your organization?  How do they fit together in service of the customers and business?,,,1,2,4,5
+,Product Definition,"What is the definition of your product?  How is it technically architected, delivered, and used?  Do you know its key limitations and constraints? Can you effectively communicate about it with Customers, Users, Customer Success, Engineers, Designers, Analysts, and Marketers?  Are you considered ""The Expert"" in your product?",,,4,5,4,3
+,Product Vision & Strategy,Can you clearly articulate where the product is going and why? What will the future will look like when your vision is realized and how you will get there?,,,3,4,4,5
+,,,,,,,,
+PRACTICES & SKILLS,,,,,,,,
+,Defining Product Vision & Strategy,Do you have analytical capabilities to gain necessary insights from your product expertise and collaboration skills to develop a vision and strategy? Do you have a solid understanding alternative practices to do the same?,,,2,4,4,5
+,Product Discovery,"Are you familiar with the objectives and techniques in research that builds product expertise?  Do you understand approaches for reducing the new product development risks of value, usability, feasibility, and viability?",,,3,4,5,5
+,Product Operations and Optimization,"Do you have an understanding of the tools and techniques available to help drive product management efficiencies, data discovery (e.g. surveys, product analytics), conduct tests (e.g. feature flag, A/B testing) and to provide product insight feedback.",,,3,4,5,5
+,Product Development Process,What is the development methodology that your team uses?  How is the PM involved and what are the strengths and weaknesses of it relative to alternatives? How expert are you at the responsibilities this requires (e.g. story splitting in Scrum).  When does the process allow for updates to be released? ,,,3,5,5,4
+,Roadmap & Prioritization,"(While part of the product development process, it is so important to identify prioritization separately.)  Do you have a clear approoach to defining a roadmap and prioritization that is understood by the team and other stakeholders?  Do you know alternatives and how this approach compares?",,,3,4,5,5
+,Product Lifecycle Management,What level expertise do you have in product/feature launch activities through to end-of-life management?  How do you adjust your other practices relative to the lifecycle stage of your product/feature?,,,3,4,5,5
+,Product Positioning,"Do you understand various techniques to position your product in the market?  Are you able to drive packaging and pricing decisions in collaboration with sales, marketing, finance, and other stakeholders.",,,3,4,5,5
+,Product Demos,Can you give a great demo of your product to prospects focused on benefits and key features?  Can you give a demo to customers and other stakeholders on detailed functionality?,,,4,5,4,4
+,,,,,,,,
+PEOPLE SKILLS AND RELATED COMPETENCIES,,,,,,,,
+,Organization Design,"Understand the trade-offs in org design, collaborate with other stakeholders to design and implement the optimal team topology for the current state of the business.",,,1,1,4,5
+,Hiring & On-boarding,"Ability to effectively recruit and hire the right people to add value the team needs.  Once hired, successfully on-board and integrate the person into the team dynamic.",,,1,2,4,5
+,Team Collaboration,How effective are you at working across the core disciplines of design and engineering to help drive team objectives?  Can you empathize with them and do you have mutual trust?,,,4,5,4,3
+,Stakeholder Collaboration,Do you understand the needs of other business stakeholders?  Have you built trust that you are actively considering their perspective?,,,3,4,5,5
+,Evangelism,Do you beat the constant drum-beat of your product and strategy to ensure everyone is on the same page on the team and beyond?  Are you effective in communicating your product goals and empathy for stakeholder interests.,,,3,4,4,5
+,Coaching,Have you demonstrated success coaching less experienced PMs in their work?,,,1,3,4,5
+,Leadership,"Are you able to inspire and influence your team and beyond, to contribute toward product success?",,,3,3,4,5

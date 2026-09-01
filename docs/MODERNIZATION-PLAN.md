@@ -100,7 +100,7 @@ The two remaining retained prompts (Alarm Clock for the Blind, Technical Sizing 
 
 ### Phase 4: Publish With Provenance — Partially Done
 
-1. **Partially done:** Audit the research for stable primary sources and clear attribution. See [research-audit.md](research-audit.md) — it identifies which `Research/` files have unresolved AI-citation artifacts or no sourcing at all, but the actual link-by-link verification is still open and needs a human with web access.
+1. **Partially done:** Audit the research for stable primary sources and clear attribution. `Research/gpt.pm-interview-and-behavioral-questions.md` has had its 43 broken AI-citation artifacts resolved to real, checkable links (including a correction to an imprecise validity statistic). `plex...md` and `gem...md` still need a link-by-link spot-check, and `copilot...md` still needs sourcing from scratch — see [research-audit.md](research-audit.md).
 2. ~~Add a contributor guide with the question-card standard and review criteria.~~ See [`CONTRIBUTING.md`](../CONTRIBUTING.md).
 3. ~~Document scope and limitations: this is an interviewing aid, not a replacement for legal guidance, interviewer training, or a hiring process.~~ See the Scope section of [`README.md`](../README.md).
 

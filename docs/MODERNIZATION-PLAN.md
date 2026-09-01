@@ -104,6 +104,15 @@ The two remaining retained prompts (Alarm Clock for the Blind, Technical Sizing 
 2. ~~Add a contributor guide with the question-card standard and review criteria.~~ See [`CONTRIBUTING.md`](../CONTRIBUTING.md).
 3. ~~Document scope and limitations: this is an interviewing aid, not a replacement for legal guidance, interviewer training, or a hiring process.~~ See the Scope section of [`README.md`](../README.md).
 
+## Backlog: Further Inspiration Mining (Not Yet Scheduled)
+
+Two sources reviewed during the Phase 3 inspiration passes weren't fully mined — noted here so the ideas aren't lost, not because they're committed to:
+
+- **MITRE Innovation Toolkit** (`Mitre-Skills/skills/`) — 25 of its 27 facilitation tools remain unreviewed beyond Premortem (already adapted into [`Questions/situational/The-Premortem.md`](../Questions/situational/The-Premortem.md)). Candidates worth a look: Problem Framing, Retro Rundown, Rose Bud Thorn, Stakeholder Power/Map. Same filter as always applies — a tool becomes an interview card only if it has a real, scoreable signal, not just a facilitation format.
+- **`product-manager-prompts`** (`prompt-generators/`) — JTBD, DACI, and discovery-interview prompt generators not yet reviewed for interview-card potential; likely relevant to Round 1 (Customer Understanding And Discovery).
+
+Revisit when there's appetite for another mining pass; don't let this silently expand scope on its own.
+
 ## Definition Of Done
 
 The refresh is complete when a new interviewer can select a role-appropriate loop, ask each question consistently, record evidence, score it against shared anchors, and understand why a question belongs in the process. The repository should make that path clear without requiring the reader to infer an interviewing philosophy from a collection of prompts.

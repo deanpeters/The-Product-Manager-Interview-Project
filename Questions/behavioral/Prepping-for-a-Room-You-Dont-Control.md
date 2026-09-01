@@ -14,7 +14,7 @@ Behavioral
 
 ## Why This Matters
 
-Asking for something consequential from people with real authority over the answer is a distinct skill from day-to-day collaboration — it requires anticipating objections you can't fully control and being ready to actually engage with the hardest one rather than talk around it. This question probes preparation discipline as much as the outcome of the ask.
+Asking for something consequential from people with real authority over the answer is a distinct skill from day-to-day collaboration — it requires anticipating objections you can't fully control and being ready to actually engage with the hardest one rather than talk around it. This question probes preparation discipline as much as the outcome of the ask. See [negotiation-signals.md](../../docs/negotiation-signals.md) for the "accusation audit" technique — naming likely objections before the room raises them — worth listening for here.
 
 ## Neutral Follow-Up Probes
 
@@ -28,6 +28,7 @@ Asking for something consequential from people with real authority over the answ
 2. Describes genuine preparation — anticipating specific likely objections, not just "I made sure my deck looked good."
 3. In the follow-up, gives a real, substantive answer to the toughest question they actually got, showing they engaged with it rather than deflected.
 4. Reflects honestly on the outcome, including if the answer was no or partial.
+5. Bonus signal: describes naming the room's likely objection to themselves upfront — an accusation audit — rather than being caught off guard by it. See [negotiation-signals.md](../../docs/negotiation-signals.md).
 
 ## Warning Signs
 

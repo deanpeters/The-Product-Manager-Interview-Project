@@ -15,7 +15,7 @@ Situational
 
 ## Why This Matters
 
-Technical debt competes with new features for the same limited capacity, and it's invisible to most stakeholders until it causes real damage. This question tests whether a candidate has a real, systemic way of resolving that tension — not just a one-time argument — and whether they can make the risk legible to someone without a technical background.
+Technical debt competes with new features for the same limited capacity, and it's invisible to most stakeholders until it causes real damage. This question tests whether a candidate has a real, systemic way of resolving that tension — not just a one-time argument — and whether they can make the risk legible to someone without a technical background. See [negotiation-signals.md](../../docs/negotiation-signals.md) for how appeal to objective criteria and building a golden bridge show up here.
 
 ## Neutral Follow-Up Probes
 
@@ -29,6 +29,7 @@ Technical debt competes with new features for the same limited capacity, and it'
 2. Explains the risk using a concrete, real-world framing rather than technical jargon a non-technical stakeholder can't act on.
 3. Describes a way of containing risk when shipping something uncertain — a staged or segmented rollout, a reversible release — rather than an all-or-nothing deployment.
 4. Can point to a real or realistic consequence to make the stakes concrete, not just an abstract warning.
+5. Bonus signal: proposes an objective, shared standard (a data threshold, a review cadence both sides agreed to in advance) to decide capacity allocation, rather than re-litigating it by authority or persuasion each time. See [negotiation-signals.md](../../docs/negotiation-signals.md).
 
 ## Warning Signs
 

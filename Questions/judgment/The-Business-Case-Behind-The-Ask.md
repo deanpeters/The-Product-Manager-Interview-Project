@@ -15,7 +15,7 @@ Judgment
 
 ## Why This Matters
 
-Anyone can build a business case that looks good from the front. This question tests whether a candidate can honestly identify the weakest part of their own case — which requires real self-awareness about their evidence — and how they handled someone else finding that same weakness. It also tests whether "alternatives considered" was a real comparison or a formality.
+Anyone can build a business case that looks good from the front. This question tests whether a candidate can honestly identify the weakest part of their own case — which requires real self-awareness about their evidence — and how they handled someone else finding that same weakness. It also tests whether "alternatives considered" was a real comparison or a formality. See [negotiation-signals.md](../../docs/negotiation-signals.md) for how a candidate's grasp of their own BATNA (best alternative) shows up here.
 
 ## Neutral Follow-Up Probes
 
@@ -29,6 +29,7 @@ Anyone can build a business case that looks good from the front. This question t
 2. Shows honest reflection on whether they knew about the weakness beforehand or were caught off guard.
 3. Describes a real response to the challenge — conceding, patching with new evidence, or defending with a specific reason — rather than deflecting.
 4. In the follow-up, describes a genuine alternative with real trade-offs, not a strawman they could easily beat.
+5. Bonus signal: reasons explicitly from their own BATNA — "if this didn't get funded, our real fallback was X" — rather than treating the ask as the only option on the table. See [negotiation-signals.md](../../docs/negotiation-signals.md).
 
 ## Warning Signs
 

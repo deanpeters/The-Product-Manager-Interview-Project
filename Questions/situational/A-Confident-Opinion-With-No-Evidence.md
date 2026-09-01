@@ -15,7 +15,7 @@ Situational
 
 ## Why This Matters
 
-An arrogant, evidence-free opinion is easy to identify from the outside; it's much harder to actually challenge when the person holding it has real political power to make your life difficult. This question tests whether a candidate can hold a line on evidence without either capitulating to avoid the conflict or picking a fight they can't win.
+An arrogant, evidence-free opinion is easy to identify from the outside; it's much harder to actually challenge when the person holding it has real political power to make your life difficult. This question tests whether a candidate can hold a line on evidence without either capitulating to avoid the conflict or picking a fight they can't win. See [negotiation-signals.md](../../docs/negotiation-signals.md) for the specific "going to the balcony" and labeling techniques worth listening for here.
 
 ## Neutral Follow-Up Probes
 
@@ -29,6 +29,7 @@ An arrogant, evidence-free opinion is easy to identify from the outside; it's mu
 2. Brings their own evidence — and ideally more than one voice — rather than relying solely on their own authority to counter the stakeholder's.
 3. Looks for a way to redirect the underlying idea toward something evidence-aligned, rather than only fighting it head-on.
 4. In the follow-up, gives a real, specific example with a real resolution — not a hypothetical.
+5. Bonus signal: describes deliberately staying calm and stepping back before responding ("going to the balcony") rather than reacting in the moment, or names the stakeholder's underlying concern before disputing their conclusion. See [negotiation-signals.md](../../docs/negotiation-signals.md).
 
 ## Warning Signs
 

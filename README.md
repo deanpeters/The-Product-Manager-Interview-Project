@@ -92,7 +92,7 @@ All 40 active cards follow the full interview-card structure (question, type, co
 
 The research that informed the refresh is in [`Research/`](Research/). It is working material, not yet a publication-ready bibliography — see [`docs/research-audit.md`](docs/research-audit.md) for what still needs citation cleanup before any of it is repeated as fact in public guidance.
 
-See [`docs/competency-model.md`](docs/competency-model.md), [`docs/scoring-rubric.md`](docs/scoring-rubric.md), and [`docs/structured-interview-guide.md`](docs/structured-interview-guide.md) for what to assess, how to score it, and how to run the loop. Optionally, [`docs/interviewer-voices.md`](docs/interviewer-voices.md) offers named interviewer personas for a consistent round style, built on the pressure levels in [`docs/evidence-and-pressure-standard.md`](docs/evidence-and-pressure-standard.md) — read the Candidate Safety Cap there before using anything past the default level.
+See [`docs/competency-model.md`](docs/competency-model.md), [`docs/scoring-rubric.md`](docs/scoring-rubric.md), and [`docs/structured-interview-guide.md`](docs/structured-interview-guide.md) for what to assess, how to score it, and how to run the loop. Optionally, [`docs/interviewer-voices.md`](docs/interviewer-voices.md) offers named interviewer personas for a consistent round style, built on the pressure levels in [`docs/evidence-and-pressure-standard.md`](docs/evidence-and-pressure-standard.md) — read the Candidate Safety Cap there before using anything past the default level. [`docs/negotiation-signals.md`](docs/negotiation-signals.md) names specific Voss/Ury negotiation techniques worth listening for (not asking about) on the stakeholder-pressure cards.
 
 ## Report What You Find
 

@@ -15,7 +15,7 @@ Situational
 
 ## Why This Matters
 
-Every PM eventually gets an unvalidated directive from someone with more positional power than them. Simple compliance abandons product judgment; simple refusal is usually a losing move politically and doesn't actually resolve anything. This question tests whether a candidate has a real third option: a way to engage a powerful stakeholder as a partner in discovery rather than an adversary or a boss to simply obey.
+Every PM eventually gets an unvalidated directive from someone with more positional power than them. Simple compliance abandons product judgment; simple refusal is usually a losing move politically and doesn't actually resolve anything. This question tests whether a candidate has a real third option: a way to engage a powerful stakeholder as a partner in discovery rather than an adversary or a boss to simply obey. See [negotiation-signals.md](../../docs/negotiation-signals.md) for specific techniques (calibrated questions, building a golden bridge) worth listening for here.
 
 ## Neutral Follow-Up Probes
 
@@ -30,6 +30,7 @@ Every PM eventually gets an unvalidated directive from someone with more positio
 3. Proposes something fast and cheap — not a multi-month study — consistent with quick validation practice.
 4. If bringing counter-evidence, describes using more than one type or source of evidence, not a single data point.
 5. Has a real, specific answer for the follow-up — a way to have the "you were wrong" conversation that lets the executive save face and stay engaged rather than shutting down.
+6. Bonus signal: uses a calibrated "how" or "what" question rather than a yes/no ask when proposing the validation step, or frames the outcome in a way that lets the executive change course without a public reversal — see [negotiation-signals.md](../../docs/negotiation-signals.md).
 
 ## Warning Signs
 

@@ -14,7 +14,7 @@ Behavioral
 
 ## Why This Matters
 
-PMs get things done through people they don't manage. This question tests whether a candidate can produce alignment through evidence and relationship rather than positional authority, and the follow-up specifically probes how they handle real disagreement with close creative/technical partners — not just polite alignment.
+PMs get things done through people they don't manage. This question tests whether a candidate can produce alignment through evidence and relationship rather than positional authority, and the follow-up specifically probes how they handle real disagreement with close creative/technical partners — not just polite alignment. See [negotiation-signals.md](../../docs/negotiation-signals.md) for how separating the person from the problem and focusing on interests over positions show up here.
 
 ## Neutral Follow-Up Probes
 
@@ -29,6 +29,7 @@ PMs get things done through people they don't manage. This question tests whethe
 2. Explains the actual mechanism of influence used — evidence, a prototype, a shared framing of the problem — not just "I explained it well."
 3. In the disagreement story, accurately characterizes what the disagreement was really about, showing they understood the other person's position, not just their own.
 4. Shows willingness to have genuinely changed their own mind, not just persuaded the other party.
+5. Bonus signal: describes digging into *why* the other person wanted what they wanted (interests) rather than just arguing against their stated position, or keeps the disagreement about the decision rather than the person. See [negotiation-signals.md](../../docs/negotiation-signals.md).
 
 ## Warning Signs
 

@@ -2,9 +2,9 @@
 
 ## Purpose
 
-Find a question by type, core competency, or AI competency. See [competency-model.md](competency-model.md) and [ai-competency-model.md](ai-competency-model.md) for what each competency means, [question-bank-triage.md](question-bank-triage.md) for how each file was categorized, and [core-interview-loop.md](core-interview-loop.md) for how these 30 active cards assemble into a runnable interview loop.
+Find a question by type, core competency, or AI competency. See [competency-model.md](competency-model.md) and [ai-competency-model.md](ai-competency-model.md) for what each competency means, [question-bank-triage.md](question-bank-triage.md) for how each file was categorized, and [core-interview-loop.md](core-interview-loop.md) for how these 34 active cards assemble into a runnable interview loop.
 
-All active cards below are **(rewritten)** — they follow the full interview-card structure in [`Questions/Interview Question Boilerplate.md`](../Questions/Interview%20Question%20Boilerplate.md). Legacy cards are preserved as historical material and are not part of the active bank. The ten AI-competency cards are an optional layer — only use them for roles where AI is a real part of the product surface; see [ai-competency-model.md](ai-competency-model.md).
+All active cards below are **(rewritten)** — they follow the full interview-card structure in [`Questions/Interview Question Boilerplate.md`](../Questions/Interview%20Question%20Boilerplate.md). Legacy cards are preserved as historical material and are not part of the active bank. The twelve AI-competency cards are an optional layer — only use them for roles where AI is a real part of the product surface; see [ai-competency-model.md](ai-competency-model.md).
 
 ## By Type
 
@@ -21,6 +21,7 @@ All active cards below are **(rewritten)** — they follow the full interview-ca
 
 - [Designing for a Constraint You Don't Share](../Questions/situational/AlarmClock-Design4Blind.md)
 - [The Loaded Ask](../Questions/situational/The-Loaded-Ask.md)
+- [The Premortem](../Questions/situational/The-Premortem.md)
 
 ### Judgment — Trade-offs, ambiguity, and responsible decisions
 
@@ -44,10 +45,13 @@ All active cards below are **(rewritten)** — they follow the full interview-ca
 - [Build, Buy, or Wait](../Questions/judgment/Build-Buy-or-Wait.md) — AI competency
 - [Turning Usage Into a Better Model](../Questions/judgment/Turning-Usage-Into-a-Better-Model.md) — AI competency
 - [AI as a Moat, or Not](../Questions/judgment/AI-as-a-Moat-or-Not.md) — AI competency
+- [Governing an Agent That Acts on Its Own](../Questions/judgment/Governing-an-Agent-That-Acts-on-Its-Own.md) — AI competency
+- [Scanning External Forces Before You Bet on AI](../Questions/judgment/Scanning-External-Forces-Before-You-Bet-on-AI.md) — AI competency
 
 ### Method — Targeted craft or execution questions
 
 - [Technical Sizing Sanity Check](../Questions/method/technicalSizing.01.md)
+- [Sizing a Market You Can Defend](../Questions/method/Sizing-a-Market-You-Can-Defend.md)
 - [Explaining AI Limits to a Skeptic](../Questions/method/Explaining-AI-Limits-to-a-Skeptic.md) — AI competency
 
 ### Legacy — Historical prompts, not a standalone hiring signal
@@ -82,6 +86,9 @@ See [competency-model.md](competency-model.md) for definitions. Most cards asses
 - [What the Model Needs to Know](../Questions/judgment/What-the-Model-Needs-to-Know.md)
 - [Build, Buy, or Wait](../Questions/judgment/Build-Buy-or-Wait.md)
 - [AI as a Moat, or Not](../Questions/judgment/AI-as-a-Moat-or-Not.md)
+- [The Premortem](../Questions/situational/The-Premortem.md)
+- [Sizing a Market You Can Defend](../Questions/method/Sizing-a-Market-You-Can-Defend.md)
+- [Scanning External Forces Before You Bet on AI](../Questions/judgment/Scanning-External-Forces-Before-You-Bet-on-AI.md)
 
 ### Metrics, Outcomes, And Learning
 - [Vanity Metrics vs. Actionable Analytics](../Questions/judgment/Vanity-Analytics_vs_Action-Metrics.md)
@@ -111,6 +118,7 @@ See [competency-model.md](competency-model.md) for definitions. Most cards asses
 - [Separating a Funded Move From a Narrated One](../Questions/judgment/Separating-a-Funded-Move-From-a-Narrated-One.md)
 - [How Much Should the AI Decide](../Questions/judgment/How-Much-Should-the-AI-Decide.md)
 - [The Line You Wouldn't Cross](../Questions/judgment/The-Line-You-Wouldnt-Cross.md)
+- [Governing an Agent That Acts on Its Own](../Questions/judgment/Governing-an-Agent-That-Acts-on-Its-Own.md)
 
 ## By AI Competency (Optional Layer)
 
@@ -126,10 +134,12 @@ See [ai-competency-model.md](ai-competency-model.md). Only use these for roles w
 - **AI Economics & Technical Tradeoffs** — [Build, Buy, or Wait](../Questions/judgment/Build-Buy-or-Wait.md)
 - **AI Product Operations & Learning** — [Turning Usage Into a Better Model](../Questions/judgment/Turning-Usage-Into-a-Better-Model.md)
 - **AI Strategy & Competitive Advantage** — [AI as a Moat, or Not](../Questions/judgment/AI-as-a-Moat-or-Not.md)
+- **AI Experience & Human Agency** (second card) — [Governing an Agent That Acts on Its Own](../Questions/judgment/Governing-an-Agent-That-Acts-on-Its-Own.md), specifically for multi-step, autonomous agentic systems rather than single-turn AI features
+- **AI Risk, Safety & Responsible Use** (second card) — [Scanning External Forces Before You Bet on AI](../Questions/judgment/Scanning-External-Forces-Before-You-Bet-on-AI.md), for external/regulatory risk rather than internally-discovered risk
 
 ## Coverage Status
 
-All six core competencies have at least one dedicated, rewritten card. Product Judgment/Strategy/Prioritization — previously the weakest-covered competency — now has the most cards of any competency, reflecting how much of the job is defending decisions under scrutiny; see [core-interview-loop.md](core-interview-loop.md) Round 2 for guidance on selecting a manageable subset per interview. All ten AI competencies also have a dedicated card, as an optional add-on round. If a future role surfaces a competency this bank underserves for that role's needs, add a new card rather than stretching an existing one to cover ground it wasn't designed for.
+All six core competencies have at least one dedicated, rewritten card. Product Judgment/Strategy/Prioritization — previously the weakest-covered competency — now has the most cards of any competency, reflecting how much of the job is defending decisions under scrutiny; see [core-interview-loop.md](core-interview-loop.md) Round 2 for guidance on selecting a manageable subset per interview. All ten AI competencies also have at least one dedicated card, as an optional add-on round, with two (Human Agency, Risk & Safety) now having a second card covering a distinct angle. If a future role surfaces a competency this bank underserves for that role's needs, add a new card rather than stretching an existing one to cover ground it wasn't designed for.
 
 ## Maintaining This Index
 

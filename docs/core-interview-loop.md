@@ -2,13 +2,13 @@
 
 ## Purpose
 
-A stable, 30-question core bank and a suggested loop structure for running it — the "usable core loop" called for in [MODERNIZATION-PLAN.md](MODERNIZATION-PLAN.md) Phase 3. Pairs with [competency-model.md](competency-model.md) (what to assess), [ai-competency-model.md](ai-competency-model.md) (the optional AI-specific layer), [scoring-rubric.md](scoring-rubric.md) (how to score it), [evidence-and-pressure-standard.md](evidence-and-pressure-standard.md) (how to grade the evidence in an answer and, for senior candidates, how to apply pressure responsibly), [interview-scorecard-template.md](interview-scorecard-template.md) (the fillable worksheet an interviewer actually uses during a round), and [structured-interview-guide.md](structured-interview-guide.md) (how to run any interview in the loop). See [question-index.md](question-index.md) for the full catalogue, including legacy material not part of this core set.
+A stable, 34-question core bank and a suggested loop structure for running it — the "usable core loop" called for in [MODERNIZATION-PLAN.md](MODERNIZATION-PLAN.md) Phase 3. Pairs with [competency-model.md](competency-model.md) (what to assess), [ai-competency-model.md](ai-competency-model.md) (the optional AI-specific layer), [scoring-rubric.md](scoring-rubric.md) (how to score it), [evidence-and-pressure-standard.md](evidence-and-pressure-standard.md) (how to grade the evidence in an answer and, for senior candidates, how to apply pressure responsibly), [interview-scorecard-template.md](interview-scorecard-template.md) (the fillable worksheet an interviewer actually uses during a round), and [structured-interview-guide.md](structured-interview-guide.md) (how to run any interview in the loop). See [question-index.md](question-index.md) for the full catalogue, including legacy material not part of this core set.
 
-The original 14 cards draw on the research synthesis in [`Research/gpt.pm-interview-and-behavioral-questions.md`](../Research/gpt.pm-interview-and-behavioral-questions.md). Six more were added, adapted from decision-review and competitive-intelligence practice used elsewhere in this project owner's tooling. A further ten AI-specific cards were added last, adapted from [`Research/AI Product Management Assessment.md`](../Research/AI%20Product%20Management%20Assessment.md) — see each card's Attributions section for specifics. All thirty were written originally for this project, not copied from any source.
+The original 14 cards draw on the research synthesis in [`Research/gpt.pm-interview-and-behavioral-questions.md`](../Research/gpt.pm-interview-and-behavioral-questions.md). Six more were added, adapted from decision-review and competitive-intelligence practice used elsewhere in this project owner's tooling. Ten AI-specific cards were added next, adapted from [`Research/AI Product Management Assessment.md`](../Research/AI%20Product%20Management%20Assessment.md). A final four cards were added last — a defensible market-sizing method, a premortem risk exercise, and two more AI cards (agentic-system governance, external risk scanning) — each adapted from a distinct external source; see each card's Attributions section for specifics. All thirty-four were written originally for this project, not copied from any source.
 
-## Do Not Ask All 30 In One Interview
+## Do Not Ask All 34 In One Interview
 
-30 questions is the size of the *bank*, not of any one conversation. A single interviewer should ask roughly 3-4 questions in a 45-60 minute slot, chosen from the group they own below, and go deep with follow-up probes rather than rushing through more questions shallowly.
+34 questions is the size of the *bank*, not of any one conversation. A single interviewer should ask roughly 3-4 questions in a 45-60 minute slot, chosen from the group they own below, and go deep with follow-up probes rather than rushing through more questions shallowly.
 
 ## The Core Bank By Round
 
@@ -34,8 +34,10 @@ Owns: can the candidate reason about trade-offs, evidence, and what "working" ac
 - [Defending a Roadmap Trade-off](../Questions/judgment/Defending-a-Roadmap-Tradeoff.md) — Judgment
 - [The Business Case Behind the Ask](../Questions/judgment/The-Business-Case-Behind-The-Ask.md) — Judgment
 - [Separating a Funded Move From a Narrated One](../Questions/judgment/Separating-a-Funded-Move-From-a-Narrated-One.md) — Judgment
+- [The Premortem](../Questions/situational/The-Premortem.md) — Situational
+- [Sizing a Market You Can Defend](../Questions/method/Sizing-a-Market-You-Can-Defend.md) — Method *(optional add-on where market sizing is a real skill for the role)*
 
-This round has grown into a deliberately large pool — pick 3-4 per loop based on the role (a strategy-heavy role might favor Reading Market Signals and Separating a Funded Move; a delivery-heavy role might favor Shipped, But Didn't Work and Defending a Roadmap Trade-off). Don't ask all eight in one sitting.
+This round has grown into a deliberately large pool — pick 3-4 per loop based on the role (a strategy-heavy role might favor Reading Market Signals and Separating a Funded Move; a delivery-heavy role might favor Shipped, But Didn't Work and Defending a Roadmap Trade-off). Don't ask all ten in one sitting.
 
 ### Round 3 — Influence, Collaboration, And Communication / Delivery, Execution, And Ownership
 
@@ -70,8 +72,10 @@ Owns: does the candidate reason well about AI-specific product judgment — see 
 - [Build, Buy, or Wait](../Questions/judgment/Build-Buy-or-Wait.md) — Judgment (AI Economics & Technical Tradeoffs)
 - [Turning Usage Into a Better Model](../Questions/judgment/Turning-Usage-Into-a-Better-Model.md) — Judgment (AI Product Operations & Learning)
 - [AI as a Moat, or Not](../Questions/judgment/AI-as-a-Moat-or-Not.md) — Judgment (AI Strategy & Competitive Advantage)
+- [Governing an Agent That Acts on Its Own](../Questions/judgment/Governing-an-Agent-That-Acts-on-Its-Own.md) — Judgment (AI Experience & Human Agency)
+- [Scanning External Forces Before You Bet on AI](../Questions/judgment/Scanning-External-Forces-Before-You-Bet-on-AI.md) — Judgment (AI Risk, Safety & Responsible Use)
 
-Ten cards for one round is deliberately more than any single interview needs — pick 3-4 that match where AI actually shows up in the role (a chat-product PM might prioritize Human Agency and Evaluation & Metrics; a platform PM enabling other teams' AI features might prioritize Data & Context Strategy and Economics & Technical Tradeoffs).
+Twelve cards for one round is deliberately more than any single interview needs — pick 3-4 that match where AI actually shows up in the role (a chat-product PM might prioritize Human Agency and Evaluation & Metrics; a platform PM enabling other teams' AI features might prioritize Data & Context Strategy and Economics & Technical Tradeoffs).
 
 ## Assembling A Loop
 
@@ -83,7 +87,7 @@ Ten cards for one round is deliberately more than any single interview needs —
 
 ## Coverage Note
 
-The original 14-question bank was assembled to close the gap [question-index.md](question-index.md) previously flagged: no card primarily assessed Product Judgment/Strategy/Prioritization. Round 2 now covers that directly, and heavily — it's the largest round by design, since defending a decision under scrutiny is a large part of the job at every level. If future roles surface a competency this bank underserves, add a new card to the relevant type folder and this document, rather than stretching an existing card to cover ground it wasn't designed for.
+The original 14-question bank was assembled to close the gap [question-index.md](question-index.md) previously flagged: no card primarily assessed Product Judgment/Strategy/Prioritization. Round 2 now covers that directly, and heavily — it's the largest round by design, since defending a decision under scrutiny is a large part of the job at every level. The final four cards closed two more specific gaps: a genuinely defensible market-sizing method (distinct from the legacy estimation puzzle in `Questions/legacy/`) and agentic-system governance and external risk-scanning within the AI layer. If future roles surface a competency this bank underserves, add a new card to the relevant type folder and this document, rather than stretching an existing card to cover ground it wasn't designed for.
 
 ## What's Still Missing
 

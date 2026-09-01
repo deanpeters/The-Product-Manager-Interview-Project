@@ -6,7 +6,7 @@ How to assemble and run an interview loop using this repository's question bank,
 
 ## Before The Loop
 
-1. **Define the role's priority competencies.** Not every role needs equal depth on all six competencies in the [competency model](competency-model.md). A growth PM role may weight metrics and experimentation more heavily; a platform PM role may weight technical delivery and cross-team influence more heavily. Decide this before selecting questions.
+1. **Define the role's priority competencies.** Not every role needs equal depth on all six competencies in the [competency model](competency-model.md). A growth PM role may weight metrics and experimentation more heavily; a platform PM role may weight technical delivery and cross-team influence more heavily. Decide this before selecting questions — see [role-loop-presets.md](role-loop-presets.md) for four worked examples.
 2. **Build a 12-16 question core set**, not a 100-question interview. Cover the priority competencies across the loop; do not try to cover everything in every conversation.
 3. **Assign ownership per interviewer.** Each interviewer should own a small, clearly scoped set of competencies for their slot, not attempt to assess the whole candidate alone. Avoid duplicate coverage unless intentionally checking for consistency.
 4. **Agree on the same core questions across comparable candidates.** Consistency is what makes scores comparable; ad hoc question selection per candidate undermines the loop.

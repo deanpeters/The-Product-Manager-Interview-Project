@@ -75,7 +75,7 @@ Ten cards for one round is deliberately more than any single interview needs —
 
 ## Assembling A Loop
 
-1. **Weight rounds to the role**, per [structured-interview-guide.md](structured-interview-guide.md) — a growth PM role may want Round 2 to run longer; a platform PM role may want Round 3 to include the technical sizing check for every candidate rather than as optional. Add Round 5 only when AI is a real part of the role.
+1. **Weight rounds to the role**, per [structured-interview-guide.md](structured-interview-guide.md) — a growth PM role may want Round 2 to run longer; a platform PM role may want Round 3 to include the technical sizing check for every candidate rather than as optional. Add Round 5 only when AI is a real part of the role. See [role-loop-presets.md](role-loop-presets.md) for four fully worked examples rather than deriving this from scratch each time.
 2. **Assign one interviewer per round.** No single interviewer should try to cover all four (or five) rounds; that's the entire point of splitting by competency ownership.
 3. **Every candidate for a given role gets the same rounds and the same selected questions**, so scores are comparable. Don't swap questions in or out per candidate.
 4. **Record and score independently per [scoring-rubric.md](scoring-rubric.md)** before any debrief.

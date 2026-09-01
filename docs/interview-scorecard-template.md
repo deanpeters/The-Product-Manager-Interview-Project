@@ -11,7 +11,7 @@ Copy the template below once per interviewer per candidate. Fill it during the i
 1. Fill the header before the interview starts.
 2. As the candidate answers, log evidence under each question you actually ask — a quote or close paraphrase, not a summary of your impression.
 3. After the interview, score each competency your round owns against [scoring-rubric.md](scoring-rubric.md), independently of what you think other interviewers will say.
-4. Compare your scores to the level benchmark table below for the role's target level — a score below the benchmark isn't automatically disqualifying, but it's a specific thing to raise in the debrief with evidence, not just a gut flag.
+4. Compare your scores to the level benchmark table below for the role's target level (or the AI-PM benchmark table, if you ran the optional Round 5) — a score below the benchmark isn't automatically disqualifying, but it's a specific thing to raise in the debrief with evidence, not just a gut flag.
 5. Submit before any debrief conversation. Don't let a hallway comment from another interviewer shift your score before you've written it down.
 
 ---

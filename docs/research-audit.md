@@ -35,6 +35,10 @@ Contains no citation markers and no URLs. This means its claims currently have *
 
 This is a proprietary PM self-assessment worksheet, not AI-synthesized research — it has no citations because it isn't making external claims; it's the worksheet author's own leveling framework (Product Expertise / Practices & Skills / People Skills, each benchmarked 1-5 by role level: PM, Senior PM, Director, VP). Nothing to clean up here, but it should be attributed as an internal source, not presented as an external validated standard, wherever it's used. It directly informed the level-benchmark table in [`docs/interview-scorecard-template.md`](interview-scorecard-template.md) — see that file for how it was adapted (not copied) into this project's six-competency model.
 
+### `Research/AI Product Management Assessment.md` — Same kind of asset as the CSV above, no citation issue
+
+Added after the pass above — another proprietary leveling framework, this one for ten AI-specific PM competencies (AI Fundamentals through AI Strategy & Competitive Advantage), each benchmarked 1-5 by role level. Same treatment as the CSV: no citation needed since it isn't making an external claim, but it should be attributed as an internal source, not a validated external standard, wherever it's used. It directly informed [`docs/ai-competency-model.md`](ai-competency-model.md), the optional AI-PM benchmark table in [`docs/interview-scorecard-template.md`](interview-scorecard-template.md), and the ten AI-competency interview cards indexed in [`docs/question-index.md`](question-index.md).
+
 ## Recommendation
 
 - `gpt...md`'s citations are resolved — statistics and study attributions from it can now be repeated in public-facing docs (README, competency model, etc.) with a real link behind each claim. Still spot-check a link before leaning on it heavily years from now; publisher and author-site URLs do occasionally move.

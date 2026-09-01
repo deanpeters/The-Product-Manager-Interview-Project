@@ -42,4 +42,6 @@ Dispositions:
 
 Phase 2 is complete. Nine additional cards were then written to fill out a 14-question core bank for Phase 3 — see [core-interview-loop.md](core-interview-loop.md) and [question-index.md](question-index.md) for the full active set.
 
+A further six cards (Defending a Roadmap Trade-off, The Business Case Behind the Ask, Separating a Funded Move From a Narrated One, Prepping for a Room You Don't Control, The Loaded Ask, A Critique You'd Stand Behind) were added afterward, adapted from decision-review and competitive-intelligence practice external to this repository — see each card's Attributions section and [evidence-and-pressure-standard.md](evidence-and-pressure-standard.md) for the shared vocabulary they introduced. The active bank is now 20 cards.
+
 This table should be updated if a disposition changes — e.g., if a specific rubric is later developed that would justify moving `Number-of-Pianos.md` or `ProductDesign-VendingMachine.md` back into active use.

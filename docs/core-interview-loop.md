@@ -2,13 +2,13 @@
 
 ## Purpose
 
-A stable, 14-question core bank and a suggested loop structure for running it — the "usable core loop" called for in [MODERNIZATION-PLAN.md](MODERNIZATION-PLAN.md) Phase 3. Pairs with [competency-model.md](competency-model.md) (what to assess), [scoring-rubric.md](scoring-rubric.md) (how to score it), and [structured-interview-guide.md](structured-interview-guide.md) (how to run any interview in the loop). See [question-index.md](question-index.md) for the full catalogue, including legacy material not part of this core set.
+A stable, 20-question core bank and a suggested loop structure for running it — the "usable core loop" called for in [MODERNIZATION-PLAN.md](MODERNIZATION-PLAN.md) Phase 3. Pairs with [competency-model.md](competency-model.md) (what to assess), [scoring-rubric.md](scoring-rubric.md) (how to score it), [evidence-and-pressure-standard.md](evidence-and-pressure-standard.md) (how to grade the evidence in an answer and, for senior candidates, how to apply pressure responsibly), and [structured-interview-guide.md](structured-interview-guide.md) (how to run any interview in the loop). See [question-index.md](question-index.md) for the full catalogue, including legacy material not part of this core set.
 
-This bank draws on the research synthesis in [`Research/gpt.pm-interview-and-behavioral-questions.md`](../Research/gpt.pm-interview-and-behavioral-questions.md), which itself derives from hiring-science literature (structured-interview research) and a corpus of Product Management texts. That research file has unresolved AI-generated citation artifacts — see [research-audit.md](research-audit.md) — but the questions it proposes were written originally for this project, not copied from any source, so they're usable here without waiting on that cleanup.
+The original 14 cards draw on the research synthesis in [`Research/gpt.pm-interview-and-behavioral-questions.md`](../Research/gpt.pm-interview-and-behavioral-questions.md). Six more were added later, adapted from decision-review and competitive-intelligence practice used elsewhere in this project owner's tooling — see each card's Attributions section for specifics. All twenty were written originally for this project, not copied from any source.
 
-## Do Not Ask All 14 In One Interview
+## Do Not Ask All 20 In One Interview
 
-14 questions is the size of the *bank*, not of any one conversation. A single interviewer should ask roughly 3-4 questions in a 45-60 minute slot, chosen from the group they own below, and go deep with follow-up probes rather than rushing through more questions shallowly.
+20 questions is the size of the *bank*, not of any one conversation. A single interviewer should ask roughly 3-4 questions in a 45-60 minute slot, chosen from the group they own below, and go deep with follow-up probes rather than rushing through more questions shallowly.
 
 ## The Core Bank By Round
 
@@ -18,6 +18,8 @@ Owns: does the candidate get curious before getting clever?
 
 - [The Feature That Wasn't the Problem](../Questions/behavioral/Feature-That-Wasnt-The-Problem.md) — Behavioral
 - [Designing for a Constraint You Don't Share](../Questions/situational/AlarmClock-Design4Blind.md) — Situational
+- [The Loaded Ask](../Questions/situational/The-Loaded-Ask.md) — Situational
+- [A Critique You'd Stand Behind](../Questions/judgment/A-Critique-Youd-Stand-Behind.md) — Judgment
 - [Assumptions Worth Testing First](../Questions/judgment/Assumptions-Worth-Testing-First.md) — Judgment *(also relevant to Round 2; pick whichever round has room)*
 
 ### Round 2 — Product Judgment, Strategy, And Prioritization / Metrics, Outcomes, And Learning
@@ -29,8 +31,11 @@ Owns: can the candidate reason about trade-offs, evidence, and what "working" ac
 - [Shipped, But Didn't Work](../Questions/judgment/Shipped-But-Didnt-Work.md) — Judgment
 - [Reading Market Signals](../Questions/judgment/Reading-Market-Signals.md) — Judgment
 - [Ten Problems, One Focus](../Questions/judgment/Ten-Problems-One-Focus.md) — Judgment
+- [Defending a Roadmap Trade-off](../Questions/judgment/Defending-a-Roadmap-Tradeoff.md) — Judgment
+- [The Business Case Behind the Ask](../Questions/judgment/The-Business-Case-Behind-The-Ask.md) — Judgment
+- [Separating a Funded Move From a Narrated One](../Questions/judgment/Separating-a-Funded-Move-From-a-Narrated-One.md) — Judgment
 
-Pick 3-4 of these five per loop; don't ask all of them in one sitting even though they share a round.
+This round has grown into a deliberately large pool — pick 3-4 per loop based on the role (a strategy-heavy role might favor Reading Market Signals and Separating a Funded Move; a delivery-heavy role might favor Shipped, But Didn't Work and Defending a Roadmap Trade-off). Don't ask all eight in one sitting.
 
 ### Round 3 — Influence, Collaboration, And Communication / Delivery, Execution, And Ownership
 
@@ -38,6 +43,7 @@ Owns: can the candidate get things done through people they don't manage, and se
 
 - [Building Trust with New Teams](../Questions/behavioral/Building-Trust-with-New-Teams.md) — Behavioral
 - [Influence Without Authority](../Questions/behavioral/Influence-Without-Authority.md) — Behavioral
+- [Prepping for a Room You Don't Control](../Questions/behavioral/Prepping-for-a-Room-You-Dont-Control.md) — Behavioral
 - [Dealing with Seismic Paradigm Shifts](../Questions/behavioral/Dealing-with-Seismic-Paradigm-Shifts.md) — Behavioral
 - [Technical Sizing Sanity Check](../Questions/method/technicalSizing.01.md) — Method *(optional add-on for technical/web-related roles; best run by or with an engineer)*
 
@@ -56,10 +62,11 @@ Round 4 is intentionally the shortest — go deep on these two rather than paddi
 2. **Assign one interviewer per round.** No single interviewer should try to cover all four rounds; that's the entire point of splitting by competency ownership.
 3. **Every candidate for a given role gets the same rounds and the same selected questions**, so scores are comparable. Don't swap questions in or out per candidate.
 4. **Record and score independently per [scoring-rubric.md](scoring-rubric.md)** before any debrief.
+5. **For Director/VP-level roles**, several cards carry a Role Or Level Notes section with a senior-specific follow-up or a note to raise pressure per [evidence-and-pressure-standard.md](evidence-and-pressure-standard.md) — check each selected card for one before the interview, rather than improvising pressure on the spot.
 
 ## Coverage Note
 
-This 14-question bank was assembled to close the gap [question-index.md](question-index.md) previously flagged: no card primarily assessed Product Judgment/Strategy/Prioritization. Round 2 now covers that directly. If future roles surface a competency this bank underserves, add a new card to the relevant type folder and this document, rather than stretching an existing card to cover ground it wasn't designed for.
+The original 14-question bank was assembled to close the gap [question-index.md](question-index.md) previously flagged: no card primarily assessed Product Judgment/Strategy/Prioritization. Round 2 now covers that directly, and heavily — it's the largest round by design, since defending a decision under scrutiny is a large part of the job at every level. If future roles surface a competency this bank underserves, add a new card to the relevant type folder and this document, rather than stretching an existing card to cover ground it wasn't designed for.
 
 ## What's Still Missing
 

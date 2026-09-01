@@ -11,7 +11,7 @@ It is not designed to reward memorized frameworks, brainteasers, or a performanc
 If you are running an interview, use the project in this order:
 
 1. Read the [modernization plan](docs/MODERNIZATION-PLAN.md) to understand the direction and what is still being built.
-2. Use the [core interview loop](docs/core-interview-loop.md) — a ready-to-run 14-question core bank organized into four interviewer rounds — or select individual questions from [`docs/question-index.md`](docs/question-index.md) that match the role and the decisions the person will need to make.
+2. Use the [core interview loop](docs/core-interview-loop.md) — a ready-to-run 20-question core bank organized into four interviewer rounds — or select individual questions from [`docs/question-index.md`](docs/question-index.md) that match the role and the decisions the person will need to make.
 3. Ask the same core questions consistently across comparable candidates.
 4. Use neutral follow-ups to understand the candidate's specific contribution, reasoning, evidence, and learning.
 5. Record evidence before assigning a score. Score against the [shared rubric](docs/scoring-rubric.md) rather than an overall impression.
@@ -44,7 +44,7 @@ Questions/
   legacy/        Historical prompts retained for context, not a standalone hiring signal
 ```
 
-All 14 active cards follow the full interview-card structure (question, type, competencies assessed, why it matters, neutral probes, strong evidence, warning signs, scoring anchors) described in [`docs/MODERNIZATION-PLAN.md`](docs/MODERNIZATION-PLAN.md) and the [interview-card template](Questions/Interview%20Question%20Boilerplate.md). See [`docs/question-index.md`](docs/question-index.md) to find one by type or competency, and [`docs/question-bank-triage.md`](docs/question-bank-triage.md) for how each file was categorized, including the two moved to `Questions/legacy/`.
+All 20 active cards follow the full interview-card structure (question, type, competencies assessed, why it matters, neutral probes, strong evidence, warning signs, scoring anchors) described in [`docs/MODERNIZATION-PLAN.md`](docs/MODERNIZATION-PLAN.md) and the [interview-card template](Questions/Interview%20Question%20Boilerplate.md). See [`docs/question-index.md`](docs/question-index.md) to find one by type or competency, and [`docs/question-bank-triage.md`](docs/question-bank-triage.md) for how each file was categorized, including the two moved to `Questions/legacy/`.
 
 The research that informed the refresh is in [`Research/`](Research/). It is working material, not yet a publication-ready bibliography — see [`docs/research-audit.md`](docs/research-audit.md) for what still needs citation cleanup before any of it is repeated as fact in public guidance.
 

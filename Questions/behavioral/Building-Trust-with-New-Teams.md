@@ -47,6 +47,10 @@ PMs lead teams they usually don't manage. Trust is the mechanism that makes that
 - **3:** A real example exists, but it's thinner — general actions without much reasoning, or the two situations aren't clearly distinguished, or the resistant-teammate account is vague.
 - **1:** No real example, only platitudes, or the account of a difficult teammate reveals blame rather than reflection.
 
+## Role Or Level Notes
+
+For a Director/VP-level candidate, the interesting version of this question is trust across teams they don't sit inside day-to-day, not just one team. Add a follow-up: "How did you build trust with a team's manager or lead, separately from the team itself?" — a candidate operating at that altitude should have a distinct answer for peer-leader trust, not just individual-contributor trust.
+
 ## Attributions
 
 * Original prompt from this repository's initial question bank.

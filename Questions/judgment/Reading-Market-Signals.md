@@ -41,6 +41,10 @@ Strategy that only looks inward at the product's own roadmap misses the market c
 - **3:** A real example exists but the strategic change or the credibility reasoning is thin.
 - **1:** No specific example, or the answer stays at the level of general market commentary.
 
+## Role Or Level Notes
+
+For a Director/VP-level candidate, add: "How did you tell the difference between a competitor genuinely funding that direction and a competitor just announcing it?" — see [evidence-and-pressure-standard.md](../../docs/evidence-and-pressure-standard.md) for what a well-grounded answer looks like versus one built on a press release alone. This pairs naturally with [Separating a Funded Move From a Narrated One](../judgment/Separating-a-Funded-Move-From-a-Narrated-One.md) if more depth on this specific skill is needed.
+
 ## Attributions
 
 * Adapted from this repository's research synthesis in `Research/gpt.pm-interview-and-behavioral-questions.md`, itself drawing on April Dunford's *Obviously Awesome* and Clayton Christensen's *The Innovator's Dilemma*.

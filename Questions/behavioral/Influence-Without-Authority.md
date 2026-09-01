@@ -42,6 +42,10 @@ PMs get things done through people they don't manage. This question tests whethe
 - **3:** Real examples exist but influence tactics or the disagreement account are somewhat one-dimensional.
 - **1:** Relies on authority rather than influence, or the disagreement account is dismissive of the other person.
 
+## Role Or Level Notes
+
+For a Director/VP-level candidate, per [evidence-and-pressure-standard.md](../../docs/evidence-and-pressure-standard.md) it's reasonable to run this at elevated pressure: push on whether the "influence mechanism" scaled beyond one relationship — did they build a repeatable way to bring skeptical partners along, or did it work once with one particular person? A senior candidate should be able to answer that distinction without being fed it.
+
 ## Attributions
 
 * Adapted from this repository's research synthesis in `Research/gpt.pm-interview-and-behavioral-questions.md`, itself drawing on Jeff Patton's *User Story Mapping*, Teresa Torres's *Continuous Discovery Habits*, and Marty Cagan's *Inspired*.

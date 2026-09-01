@@ -19,6 +19,7 @@ How to assemble and run an interview loop using this repository's question bank,
 3. **Probe for specificity** when an answer is vague: "What did you specifically do?" "What did you decide, and why?" "What happened as a result?" "What would you do differently?"
 4. **Watch the card's warning signs** as you listen, but don't treat one warning sign as disqualifying on its own — weigh it alongside the full answer.
 5. **Leave room for silence.** Some of the strongest evidence comes after a pause; don't rush to fill it or rescue the candidate from a hard question.
+6. **Decide your pressure level and, optionally, an interviewer voice before the interview starts**, not mid-conversation — see [evidence-and-pressure-standard.md](evidence-and-pressure-standard.md) and [interviewer-voices.md](interviewer-voices.md). The default is `skeptical` for everyone; anything higher needs a real reason (seniority, a card that calls for it) decided in advance, not improvised because a candidate is struggling.
 
 ## After Each Interview
 

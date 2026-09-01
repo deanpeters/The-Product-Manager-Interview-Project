@@ -24,6 +24,8 @@ Copy the template below once per interviewer per candidate. Fill it during the i
 - **Interviewer:**
 - **Round:** (Round 1 — Customer Understanding And Discovery / Round 2 — Product Judgment, Strategy, And Prioritization / Round 3 — Influence, Collaboration And Delivery / Round 4 — Ethics And Self-Awareness / Round 5 — AI Product Judgment, optional, AI-heavy roles only)
 - **Questions asked this round:** (list the cards used, e.g. "Feature That Wasn't the Problem" + "Designing for a Constraint You Don't Share")
+- **Pressure level:** (`constructive` / `skeptical` [default] / `resistant` — see [evidence-and-pressure-standard.md](evidence-and-pressure-standard.md); never `hostile-room` on a real candidate)
+- **Interviewer voice used, if any:** (see [interviewer-voices.md](interviewer-voices.md) — optional, leave blank if run neutrally)
 
 ## Evidence Log
 

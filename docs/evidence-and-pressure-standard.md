@@ -2,9 +2,9 @@
 
 ## Purpose
 
-A shared vocabulary for what counts as evidence in an answer, and a lightweight way to record a specific concern about that evidence — so "strong evidence" and "warning signs" mean the same thing across every card, not just whatever each card's author happened to write. Pairs with [scoring-rubric.md](scoring-rubric.md) (how to turn evidence into a score) and [structured-interview-guide.md](structured-interview-guide.md) (how to run the conversation that surfaces it).
+A shared vocabulary for what counts as evidence in an answer, and a lightweight way to record a specific concern about that evidence — so "strong evidence" and "warning signs" mean the same thing across every card, not just whatever each card's author happened to write. Pairs with [scoring-rubric.md](scoring-rubric.md) (how to turn evidence into a score), [structured-interview-guide.md](structured-interview-guide.md) (how to run the conversation that surfaces it), and [interviewer-voices.md](interviewer-voices.md) (named personas built on the pressure levels below).
 
-This is adapted from the evidence-grading and pressure-testing approach used in adversarial product-review practice (the kind of rigor applied to a roadmap or business case before it goes in front of an executive), translated here for interview evidence rather than document review.
+The evidence ladder is adapted from the evidence-grading approach used in adversarial product-review practice (the kind of rigor applied to a roadmap or business case before it goes in front of an executive), translated here for interview evidence rather than document review. The pressure levels below are adapted more directly from a private adversarial product-decision-review tool's pressure-level and stakeholder-persona mechanics (`product-manager-antagonist-skills/shared/pressure-levels.md` and `dialogue-mode.md`) — see the Candidate Safety Cap for the important way that adaptation had to change for a real hiring interview rather than a consenting rehearsal.
 
 ## The Evidence Ladder
 
@@ -39,13 +39,25 @@ When something in an answer doesn't add up — a claim that seems too strong for
 
 Ask the resolving question in the interview if there's time. If a candidate's later answer genuinely resolves the concern, close it — don't keep scoring against a concern that's been addressed. If it isn't resolved, it becomes part of the evidence record you carry into the scoring and debrief steps in [scoring-rubric.md](scoring-rubric.md).
 
-## Pressure As A Dial, Not A Switch
+## Pressure Levels
 
-Some cards benefit from turning up pressure for a senior or Director-level candidate — more skeptical follow-ups, less patience with restating the question instead of answering it, more "but what if that assumption is wrong?" Some don't need it at all. Treat pressure as something you can dial per candidate and per round, not something baked into a question's wording:
+Pressure changes how much resistance an interviewer gives a candidate's claims and how quickly they follow up on a weak one — not whether the interviewer is respectful. This four-level taxonomy is adapted from adversarial product-decision-review practice, where a user rehearses a pitch against a colleague who has agreed to play a skeptical or hostile stakeholder. **That consent structure does not exist in a real hiring interview** — a candidate has not opted into adversarial treatment the way a colleague rehearsing a pitch has. The levels below are capped accordingly; see Candidate Safety Cap below before using anything past `skeptical` on a real candidate.
 
-- **Baseline:** ask the question and the card's neutral probes as written. This is the default for every candidate.
-- **Elevated:** add skeptical follow-ups that press on the weakest-looking claim — "how do you know that was actually the cause?" — reserved for cards whose card explicitly notes it (see Role Or Level Notes on relevant cards), or for a senior candidate where the interviewer wants to see how they hold up under real scrutiny.
-- **Never:** invented facts, impossible standards, interrupting to prevent an answer, or refusing to be persuaded by good evidence. Pressure tests the candidate's reasoning, not their patience for abuse. If a candidate produces genuinely strong evidence, the interviewer's job is to recognize it, not keep moving the bar.
+| Level | Burden of proof | Interviewer behavior | Appropriate use |
+|---|---|---|---|
+| `constructive` | Reasonable, provisional evidence is accepted | Patient clarification, generous time to think, collaborative tone | Early-career candidates, first-round screens, Round 1 (Customer Understanding) |
+| `skeptical` | Load-bearing claims need explicit support | Faster follow-up, tests assumptions and the weakest-looking claim, limited acceptance of vague answers | The default for most rounds and most candidates — this is what the neutral follow-up probes on every card already assume |
+| `resistant` | The claim starts at "not yet proven" until the candidate earns it | Pursues the gap directly, tests what the candidate would do if their key assumption were wrong, expects decision-relevant evidence rather than a plausible story | Director/VP-level rounds, or a card whose Role Or Level Notes explicitly call for it |
+| `hostile-room` | Multiple unresolved objections at once, little patience for a good-sounding but unsupported answer | Interrupts a wandering answer, returns to what's still unresolved, offers real resistance | **Not for real candidate interviews** — see Candidate Safety Cap |
+
+## Candidate Safety Cap
+
+- **`hostile-room` is reserved for internal use only** — staff rehearsing with each other before running a high-stakes loop, or interviewer-training exercises where everyone involved has agreed to the exercise. Never run it against an actual candidate. A real candidate hasn't consented to adversarial rehearsal the way a colleague preparing a pitch has, and uneven "hostility" across candidates is also a fairness problem, not just a tone problem — it risks scoring candidates on how they handle an interviewer's mood rather than on comparable evidence.
+- **`resistant` is the practical ceiling for real candidates**, and only for senior/Director/VP rounds or a card that explicitly calls for it (see [role-loop-presets.md](role-loop-presets.md)'s Director/VP preset). It should never involve interrupting to prevent an answer, inventing facts, or refusing to be persuaded by genuinely strong evidence.
+- **Invariants at every level, including `resistant`:** challenge the claim, not the candidate. Accept evidence that actually resolves a concern — don't keep moving the bar once a candidate produces it. Never invent facts or impossible standards. Never confuse rudeness with rigor.
+- **Increase pressure one level at a time**, and only when the interview plan called for it in advance (see the [scorecard template](interview-scorecard-template.md)'s header) — never as an improvised reaction to a candidate you've decided you don't like.
+
+See [interviewer-voices.md](interviewer-voices.md) for named interviewer personas built on these levels, each capped the same way.
 
 ## When To Use This
 

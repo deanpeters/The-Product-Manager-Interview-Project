@@ -98,6 +98,8 @@ The two remaining retained prompts (Alarm Clock for the Blind, Technical Sizing 
 3. ~~Add interviewer calibration guidance and example evidence-based score rationales.~~ See the Calibration and Worked Examples sections of [scoring-rubric.md](scoring-rubric.md).
 4. ~~Pilot the loop with experienced interviewers and revise questions that create uneven interpretation.~~ Superseded: this repository is a public preview, so real-world usage across many interviewers and roles is the feedback mechanism, not a single controlled pilot. See [field-feedback-guide.md](field-feedback-guide.md) for how usage turns into a fix.
 
+A further pass added a 4-level pressure taxonomy (`constructive`/`skeptical`/`resistant`/`hostile-room`, adapted from a private adversarial-review tool with an explicit Candidate Safety Cap since a real candidate hasn't consented to adversarial rehearsal) and [interviewer-voices.md](interviewer-voices.md), four named interviewer personas built on those levels — see [evidence-and-pressure-standard.md](evidence-and-pressure-standard.md).
+
 ### Phase 4: Publish With Provenance — Done
 
 1. ~~Audit the research for stable primary sources and clear attribution.~~ All `Research/` files are now audited — see [research-audit.md](research-audit.md). `gpt...md` had 43 broken AI-citation artifacts resolved to real links (plus a corrected validity statistic); `plex...md` and `gem...md` were link-checked (a small number of dead links fixed or flagged inline); `copilot...md` was confirmed to be an original question bank needing no per-claim sourcing, not a duplicate of the other three. One residual issue remains open in `gem...md` (an inline-citation-numbering integrity problem, not a link-validity one) — see research-audit.md for detail.

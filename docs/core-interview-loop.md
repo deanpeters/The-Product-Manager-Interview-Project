@@ -91,4 +91,4 @@ The original 14-question bank was assembled to close the gap [question-index.md]
 
 ## What's Still Missing
 
-Per [MODERNIZATION-PLAN.md](MODERNIZATION-PLAN.md) Phase 3, item 4: **piloting this loop with experienced interviewers and revising questions that create uneven interpretation** is not something that can be done from a repository alone — it requires running real interviews, comparing interviewer scores, and iterating. That step is still open and needs a human owner.
+Per [MODERNIZATION-PLAN.md](MODERNIZATION-PLAN.md) Phase 3, item 4: **piloting this loop with experienced interviewers and revising questions that create uneven interpretation** is not something that can be done from a repository alone — it requires running real interviews, comparing interviewer scores, and iterating. That step is still open and needs a human owner. See [pilot-logistics-checklist.md](pilot-logistics-checklist.md) for how to actually run it.

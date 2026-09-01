@@ -64,6 +64,22 @@ Contributions should make an interviewer more consistent and a candidate experie
 
 The editorial contract for future work lives in [AGENTS.md](AGENTS.md).
 
+## License
+
+[CC BY-NC-SA 4.0](LICENSE) — non-commercial use with share-alike.
+
+**Everything in this repository — every question card, template, and doc — is licensed CC BY-NC-SA 4.0. There is no mix of licenses here.**
+
+Several cards' Attributions sections note they were adapted from the same author's other private tooling and research (decision-review practice, an AI-PM training curriculum, a market-sizing prompt loop) or from public frameworks (the MITRE Innovation Toolkit's Premortem technique). Same-author adaptations carry no license conflict — a license grants permissions to *other* people, and a copyright holder is free to adapt and relicense their own work. Those Attributions lines are lineage — a breadcrumb back to where an idea started — not a license dependency.
+
+**In plain terms:**
+
+- ✅ **Use this toolkit in your day job** — running interviews, training other interviewers, adapting cards for your team. That's what it's for.
+- ✅ **Adapt and remix it** — share what you build under this same license, with credit.
+- ✅ **Teach with it** — interviewer training, calibration sessions, sending the ladder down.
+- ❌ **Don't sell it** — no repackaging this toolkit itself into a paid product, course, or service without expressed written permission.
+- 🤔 **Not sure your use qualifies?** [Open an issue](https://github.com/deanpeters/The-Product-Manager-Interview-Project/issues) and ask. If you're using this in the spirit it was built — to run fairer, more consistent interviews — the answer is almost certainly yes.
+
 ## Scope
 
 This is an interviewing aid, not legal guidance or a substitute for interviewer training, a thoughtfully designed hiring process, or human judgment.

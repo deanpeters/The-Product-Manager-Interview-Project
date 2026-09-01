@@ -62,4 +62,4 @@ Connects AI capabilities to product strategy, differentiation, defensibility, an
 
 ## Using This Model
 
-Each AI-competency card in [`Questions/`](../Questions/) names both its AI category (from this document) and its underlying core competency (from [competency-model.md](competency-model.md)) — see [question-index.md](question-index.md) for the full listing. Use these cards as an optional add-on round for AI-heavy roles, not a replacement for the core [interview loop](core-interview-loop.md).
+Each AI-competency card lives in [`Questions/ai/`](../Questions/ai/) and names both its AI category (from this document) and its underlying core competency (from [competency-model.md](competency-model.md)) — see [question-index.md](question-index.md) for the full listing. `Questions/ai/` is organized by domain rather than by assessment format (unlike `behavioral/`, `situational/`, `judgment/`, `method/`); each card still records its own format Type in its content. Use these cards as an optional add-on round for AI-heavy roles, not a replacement for the core [interview loop](core-interview-loop.md).

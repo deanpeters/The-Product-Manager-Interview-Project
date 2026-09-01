@@ -62,18 +62,18 @@ Round 4 is intentionally the shortest — go deep on these two rather than paddi
 
 Owns: does the candidate reason well about AI-specific product judgment — see [ai-competency-model.md](ai-competency-model.md) before using this round at all. Skip it entirely for roles where AI isn't a real part of the product surface; running it anyway tests trivia, not job-relevant judgment.
 
-- [Explaining AI Limits to a Skeptic](../Questions/method/Explaining-AI-Limits-to-a-Skeptic.md) — Method (AI Fundamentals)
-- [Where AI Actually Helps](../Questions/judgment/Where-AI-Actually-Helps.md) — Judgment (AI Opportunity Discovery)
-- [Testing an AI Idea Before It's Real](../Questions/judgment/Testing-an-AI-Idea-Before-Its-Real.md) — Judgment (AI Product Discovery & Validation)
-- [What the Model Needs to Know](../Questions/judgment/What-the-Model-Needs-to-Know.md) — Judgment (Data & Context Strategy)
-- [How Much Should the AI Decide](../Questions/judgment/How-Much-Should-the-AI-Decide.md) — Judgment (AI Experience & Human Agency)
-- [When the Model Is Wrong](../Questions/judgment/When-the-Model-Is-Wrong.md) — Judgment (AI Evaluation & Metrics)
-- [The Line You Wouldn't Cross](../Questions/judgment/The-Line-You-Wouldnt-Cross.md) — Judgment (AI Risk, Safety & Responsible Use)
-- [Build, Buy, or Wait](../Questions/judgment/Build-Buy-or-Wait.md) — Judgment (AI Economics & Technical Tradeoffs)
-- [Turning Usage Into a Better Model](../Questions/judgment/Turning-Usage-Into-a-Better-Model.md) — Judgment (AI Product Operations & Learning)
-- [AI as a Moat, or Not](../Questions/judgment/AI-as-a-Moat-or-Not.md) — Judgment (AI Strategy & Competitive Advantage)
-- [Governing an Agent That Acts on Its Own](../Questions/judgment/Governing-an-Agent-That-Acts-on-Its-Own.md) — Judgment (AI Experience & Human Agency)
-- [Scanning External Forces Before You Bet on AI](../Questions/judgment/Scanning-External-Forces-Before-You-Bet-on-AI.md) — Judgment (AI Risk, Safety & Responsible Use)
+- [Explaining AI Limits to a Skeptic](../Questions/ai/Explaining-AI-Limits-to-a-Skeptic.md) — Method (AI Fundamentals)
+- [Where AI Actually Helps](../Questions/ai/Where-AI-Actually-Helps.md) — Judgment (AI Opportunity Discovery)
+- [Testing an AI Idea Before It's Real](../Questions/ai/Testing-an-AI-Idea-Before-Its-Real.md) — Judgment (AI Product Discovery & Validation)
+- [What the Model Needs to Know](../Questions/ai/What-the-Model-Needs-to-Know.md) — Judgment (Data & Context Strategy)
+- [How Much Should the AI Decide](../Questions/ai/How-Much-Should-the-AI-Decide.md) — Judgment (AI Experience & Human Agency)
+- [When the Model Is Wrong](../Questions/ai/When-the-Model-Is-Wrong.md) — Judgment (AI Evaluation & Metrics)
+- [The Line You Wouldn't Cross](../Questions/ai/The-Line-You-Wouldnt-Cross.md) — Judgment (AI Risk, Safety & Responsible Use)
+- [Build, Buy, or Wait](../Questions/ai/Build-Buy-or-Wait.md) — Judgment (AI Economics & Technical Tradeoffs)
+- [Turning Usage Into a Better Model](../Questions/ai/Turning-Usage-Into-a-Better-Model.md) — Judgment (AI Product Operations & Learning)
+- [AI as a Moat, or Not](../Questions/ai/AI-as-a-Moat-or-Not.md) — Judgment (AI Strategy & Competitive Advantage)
+- [Governing an Agent That Acts on Its Own](../Questions/ai/Governing-an-Agent-That-Acts-on-Its-Own.md) — Judgment (AI Experience & Human Agency)
+- [Scanning External Forces Before You Bet on AI](../Questions/ai/Scanning-External-Forces-Before-You-Bet-on-AI.md) — Judgment (AI Risk, Safety & Responsible Use)
 
 Twelve cards for one round is deliberately more than any single interview needs — pick 3-4 that match where AI actually shows up in the role (a chat-product PM might prioritize Human Agency and Evaluation & Metrics; a platform PM enabling other teams' AI features might prioritize Data & Context Strategy and Economics & Technical Tradeoffs).
 

@@ -111,7 +111,7 @@ See the [Field Feedback](https://github.com/users/deanpeters/projects/2) and [Ro
 
 ## Interview Card Format (Required Structure)
 
-Copy [`Questions/Interview Question Boilerplate.md`](Questions/Interview%20Question%20Boilerplate.md) into the correct type folder: `behavioral/`, `situational/`, `judgment/`, or `method/`. See [`docs/MODERNIZATION-PLAN.md`](docs/MODERNIZATION-PLAN.md) for what distinguishes each type.
+Copy [`Questions/Interview Question Boilerplate.md`](Questions/Interview%20Question%20Boilerplate.md) into the correct type folder: `behavioral/`, `situational/`, `judgment/`, or `method/`. See [`docs/MODERNIZATION-PLAN.md`](docs/MODERNIZATION-PLAN.md) for what distinguishes each type. If the card requires AI to be a real part of the product surface (see [`docs/ai-competency-model.md`](docs/ai-competency-model.md)), put it in `ai/` instead — a domain-based folder, not a format-based one — and still fill in the card's own Type field as normal.
 
 **Non-negotiable sections**, every card:
 

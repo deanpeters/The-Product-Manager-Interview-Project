@@ -84,6 +84,7 @@ Questions/
   situational/   Judgment in a realistic future scenario
   judgment/      Trade-offs, ambiguity, and responsible decisions
   method/        Targeted craft or execution questions
+  ai/            Optional AI-competency layer, AI-heavy roles only (domain-based, not format-based)
   legacy/        Historical prompts retained for context, not a standalone hiring signal
 ```
 

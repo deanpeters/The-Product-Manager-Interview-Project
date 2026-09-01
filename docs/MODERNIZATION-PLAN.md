@@ -33,6 +33,7 @@ Questions/
   situational/                    Judgment in a realistic future scenario
   judgment/                       Trade-offs, ethics, ambiguity, decisions
   method/                         Targeted execution or craft questions
+  ai/                             Optional AI-competency layer (domain-based; added later as AI traffic grew)
   legacy/                         Preserved historical prompts, clearly labelled
 ```
 
@@ -99,6 +100,8 @@ The two remaining retained prompts (Alarm Clock for the Blind, Technical Sizing 
 4. ~~Pilot the loop with experienced interviewers and revise questions that create uneven interpretation.~~ Superseded: this repository is a public preview, so real-world usage across many interviewers and roles is the feedback mechanism, not a single controlled pilot. See [field-feedback-guide.md](field-feedback-guide.md) for how usage turns into a fix.
 
 A further pass added a 4-level pressure taxonomy (`constructive`/`skeptical`/`resistant`/`hostile-room`, adapted from a private adversarial-review tool with an explicit Candidate Safety Cap since a real candidate hasn't consented to adversarial rehearsal) and [interviewer-voices.md](interviewer-voices.md), four named interviewer personas built on those levels — see [evidence-and-pressure-standard.md](evidence-and-pressure-standard.md).
+
+All 12 AI-competency cards were then moved from `judgment/`/`method/` into a new `Questions/ai/` folder, a peer to `behavioral/`/`situational/`/`judgment/`/`method/` rather than nested inside them — anticipating that AI-specific questions will see disproportionately frequent traffic and may eventually warrant splitting into their own repository as the AI-PM discipline stabilizes. `ai/` is domain-based, not format-based (each card still records its own Type internally) — the same kind of exception `legacy/` already was.
 
 ### Phase 4: Publish With Provenance — Done
 

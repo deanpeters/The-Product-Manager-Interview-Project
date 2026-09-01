@@ -18,7 +18,7 @@ Judgment
 
 ## Why This Matters
 
-Only use this card for roles where AI is a real part of the product surface — see [ai-competency-model.md](../../docs/ai-competency-model.md). AI products are unusually exposed to forces outside the product team's control — shifting regulation, public controversy over similar products, sudden cost changes in the underlying models, competitive moves. This card is distinct from [The Line You Wouldn't Cross](The-Line-You-Wouldnt-Cross.md) (which tests internally-discovered risk) and [Separating a Funded Move From a Narrated One](Separating-a-Funded-Move-From-a-Narrated-One.md) (which tests skepticism toward a specific competitor claim) — this one tests whether a candidate scans the broader external environment at all, and keeps scanning rather than checking once.
+Only use this card for roles where AI is a real part of the product surface — see [ai-competency-model.md](../../docs/ai-competency-model.md). AI products are unusually exposed to forces outside the product team's control — shifting regulation, public controversy over similar products, sudden cost changes in the underlying models, competitive moves. This card is distinct from [The Line You Wouldn't Cross](The-Line-You-Wouldnt-Cross.md) (which tests internally-discovered risk) and [Separating a Funded Move From a Narrated One](../judgment/Separating-a-Funded-Move-From-a-Narrated-One.md) (which tests skepticism toward a specific competitor claim) — this one tests whether a candidate scans the broader external environment at all, and keeps scanning rather than checking once.
 
 ## Neutral Follow-Up Probes
 

@@ -1,0 +1,36 @@
+name: Field Feedback
+description: Report friction from actually using a card, preset, or doc in a real interview — see docs/field-feedback-guide.md for what's worth reporting.
+title: "[Feedback] "
+labels: ["field-feedback"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for trying this in a real interview. See [docs/field-feedback-guide.md](../../docs/field-feedback-guide.md) for what's worth reporting before filing — a single so-so answer from one candidate usually isn't a pattern yet.
+  - type: input
+    id: card
+    attributes:
+      label: Which card or doc?
+      description: Link directly to the file in Questions/ or docs/.
+      placeholder: e.g. Questions/judgment/Deciding-Before-Youre-Certain.md
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: The specific friction — not a general impression. Quote the moment if you can.
+    validations:
+      required: true
+  - type: textarea
+    id: what-youd-change
+    attributes:
+      label: What would you change?
+      description: A rewritten Strong Evidence bullet, a different follow-up probe, a different competency mapping — concrete beats vague. Leave blank if you're not sure yet.
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Role, seniority level, and how many times you've now seen this same issue (once is a data point; three times is a pattern).
+    validations:
+      required: true

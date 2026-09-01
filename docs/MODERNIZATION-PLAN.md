@@ -91,12 +91,12 @@ Do not delete the old questions merely because they are dated. They document the
 
 The two remaining retained prompts (Alarm Clock for the Blind, Technical Sizing Sanity Check) were also rewritten into full cards, beyond the plan's original three-exemplar minimum.
 
-### Phase 3: Build A Usable Core Loop — Mostly Done
+### Phase 3: Build A Usable Core Loop — Done
 
 1. ~~Define a 12-16 question core bank across judgment, customer understanding, strategy, execution, influence, metrics, communication, ownership, ethics, and self-awareness.~~ Started at 14 cards, grew to 20 after a pass drawing inspiration from adjacent decision-review and competitive-intelligence practice, to 30 after adding an optional AI-competency layer, and to 34 after a further pass adding a defensible market-sizing method, a premortem exercise, and two more AI cards (agentic-system governance, external risk-scanning) — see [core-interview-loop.md](core-interview-loop.md), [evidence-and-pressure-standard.md](evidence-and-pressure-standard.md), and [ai-competency-model.md](ai-competency-model.md).
 2. ~~Define which questions are appropriate for each interview stage; no single interviewer should try to assess everything.~~ Four rounds, one interviewer per round — see [core-interview-loop.md](core-interview-loop.md).
 3. ~~Add interviewer calibration guidance and example evidence-based score rationales.~~ See the Calibration and Worked Examples sections of [scoring-rubric.md](scoring-rubric.md).
-4. **Open — requires a human owner:** Pilot the loop with experienced interviewers and revise questions that create uneven interpretation. This cannot be done from the repository alone; it requires running real interviews and comparing interviewer scores. See [pilot-logistics-checklist.md](pilot-logistics-checklist.md) — the pilot itself is still open, but the checklist for how to run and close the loop on it is now written.
+4. ~~Pilot the loop with experienced interviewers and revise questions that create uneven interpretation.~~ Superseded: this repository is a public preview, so real-world usage across many interviewers and roles is the feedback mechanism, not a single controlled pilot. See [field-feedback-guide.md](field-feedback-guide.md) for how usage turns into a fix.
 
 ### Phase 4: Publish With Provenance — Done
 

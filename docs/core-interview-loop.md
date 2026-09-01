@@ -89,6 +89,6 @@ Twelve cards for one round is deliberately more than any single interview needs 
 
 The original 14-question bank was assembled to close the gap [question-index.md](question-index.md) previously flagged: no card primarily assessed Product Judgment/Strategy/Prioritization. Round 2 now covers that directly, and heavily — it's the largest round by design, since defending a decision under scrutiny is a large part of the job at every level. The final four cards closed two more specific gaps: a genuinely defensible market-sizing method (distinct from the legacy estimation puzzle in `Questions/legacy/`) and agentic-system governance and external risk-scanning within the AI layer. If future roles surface a competency this bank underserves, add a new card to the relevant type folder and this document, rather than stretching an existing card to cover ground it wasn't designed for.
 
-## What's Still Missing
+## Real-World Feedback
 
-Per [MODERNIZATION-PLAN.md](MODERNIZATION-PLAN.md) Phase 3, item 4: **piloting this loop with experienced interviewers and revising questions that create uneven interpretation** is not something that can be done from a repository alone — it requires running real interviews, comparing interviewer scores, and iterating. That step is still open and needs a human owner. See [pilot-logistics-checklist.md](pilot-logistics-checklist.md) for how to actually run it.
+This repository is in public preview. Rather than a controlled pilot, real usage in real interviews is the feedback mechanism — see [field-feedback-guide.md](field-feedback-guide.md) for how to try a card and report what you find.

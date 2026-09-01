@@ -4,7 +4,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/deanpeters/The-Product-Manager-Interview-Project?style=flat-square)](https://github.com/deanpeters/The-Product-Manager-Interview-Project/stargazers) [![GitHub forks](https://img.shields.io/github/forks/deanpeters/The-Product-Manager-Interview-Project?style=flat-square)](https://github.com/deanpeters/The-Product-Manager-Interview-Project/forks) [![GitHub watchers](https://img.shields.io/github/watchers/deanpeters/The-Product-Manager-Interview-Project?style=flat-square)](https://github.com/deanpeters/The-Product-Manager-Interview-Project/watchers) [![Contributors](https://img.shields.io/github/contributors/deanpeters/The-Product-Manager-Interview-Project?style=flat-square)](https://github.com/deanpeters/The-Product-Manager-Interview-Project/graphs/contributors) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
-[![Status](https://img.shields.io/badge/status-public%20preview-yellow?style=flat-square)](docs/field-feedback-guide.md) ![Interview cards](https://img.shields.io/badge/interview%20cards-52-informational?style=flat-square) [![Last commit](https://img.shields.io/github/last-commit/deanpeters/The-Product-Manager-Interview-Project?style=flat-square)](https://github.com/deanpeters/The-Product-Manager-Interview-Project/commits/master) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey?style=flat-square)](LICENSE)
+[![Status](https://img.shields.io/badge/status-public%20preview-yellow?style=flat-square)](docs/field-feedback-guide.md) ![Interview cards](https://img.shields.io/badge/interview%20cards-58-informational?style=flat-square) [![Last commit](https://img.shields.io/github/last-commit/deanpeters/The-Product-Manager-Interview-Project?style=flat-square)](https://github.com/deanpeters/The-Product-Manager-Interview-Project/commits/master) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey?style=flat-square)](LICENSE)
 
 ```text
                                                                                
@@ -15,7 +15,7 @@
 ███       ███      ███   ▄███▄ ██ ██  ██   ▀█▄▄▄ ██     ▀█▀  ██▄ ▀█▄▄▄  ██▀██
                                                                                
 
-  52 interview cards • 4 core rounds + 2 optional rounds • Public Preview
+  58 interview cards • 4 core rounds + 2 optional rounds • Public Preview
 ```
 
 **A ready-to-run interview toolkit that tests product judgment — not memorized frameworks, brainteasers, or a performance of confidence.**
@@ -89,7 +89,7 @@ Questions/
   legacy/        Historical prompts retained for context, not a standalone hiring signal
 ```
 
-All 52 active cards follow the full interview-card structure (question, type, competencies assessed, why it matters, neutral probes, strong evidence, warning signs, scoring anchors) described in [`docs/MODERNIZATION-PLAN.md`](docs/MODERNIZATION-PLAN.md) and the [interview-card template](Questions/Interview%20Question%20Boilerplate.md). See [`docs/question-index.md`](docs/question-index.md) to find one by type or competency, and [`docs/question-bank-triage.md`](docs/question-bank-triage.md) for how each file was categorized, including the two moved to `Questions/legacy/`.
+All 58 active cards follow the full interview-card structure (question, type, competencies assessed, why it matters, neutral probes, strong evidence, warning signs, scoring anchors) described in [`docs/MODERNIZATION-PLAN.md`](docs/MODERNIZATION-PLAN.md) and the [interview-card template](Questions/Interview%20Question%20Boilerplate.md). See [`docs/question-index.md`](docs/question-index.md) to find one by type or competency, and [`docs/question-bank-triage.md`](docs/question-bank-triage.md) for how each file was categorized, including the two moved to `Questions/legacy/`.
 
 The research that informed the refresh is in [`Research/`](Research/). It is working material, not yet a publication-ready bibliography — see [`docs/research-audit.md`](docs/research-audit.md) for what still needs citation cleanup before any of it is repeated as fact in public guidance.
 
@@ -117,7 +117,7 @@ The editorial contract for future work lives in [AGENTS.md](AGENTS.md).
 
 **Everything in this repository — every question card, template, and doc — is licensed CC BY-NC-SA 4.0. There is no mix of licenses here.**
 
-Several cards' Attributions sections note they were adapted from the same author's other private tooling and research (decision-review practice, an AI-PM training curriculum, a market-sizing prompt loop) or from public frameworks (the MITRE Innovation Toolkit's Premortem technique). Same-author adaptations carry no license conflict — a license grants permissions to *other* people, and a copyright holder is free to adapt and relicense their own work. Those Attributions lines are lineage — a breadcrumb back to where an idea started — not a license dependency.
+Several cards' Attributions sections note they were adapted from the same author's other private tooling and research (decision-review practice, an AI-PM training curriculum, a market-sizing prompt loop), from the same author's other public work (essays from Dean Peters's Substack, *Confessions of a Feature Factory Escapee*), or from public frameworks built by others (the MITRE Innovation Toolkit's Premortem technique). Same-author adaptations carry no license conflict — a license grants permissions to *other* people, and a copyright holder is free to adapt and relicense their own work. Those Attributions lines are lineage — a breadcrumb back to where an idea started — not a license dependency.
 
 **In plain terms:**
 

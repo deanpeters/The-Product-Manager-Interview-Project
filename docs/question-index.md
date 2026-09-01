@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Find a question by type, core competency, AI competency, or people-management competency. See [competency-model.md](competency-model.md), [ai-competency-model.md](ai-competency-model.md), and [people-management-competency.md](people-management-competency.md) for what each competency means, [question-bank-triage.md](question-bank-triage.md) for how each file was categorized, and [core-interview-loop.md](core-interview-loop.md) for how these 52 active cards assemble into a runnable interview loop.
+Find a question by type, core competency, AI competency, or people-management competency. See [competency-model.md](competency-model.md), [ai-competency-model.md](ai-competency-model.md), and [people-management-competency.md](people-management-competency.md) for what each competency means, [question-bank-triage.md](question-bank-triage.md) for how each file was categorized, and [core-interview-loop.md](core-interview-loop.md) for how these 58 active cards assemble into a runnable interview loop.
 
 All active cards below are **(rewritten)** — they follow the full interview-card structure in [`Questions/Interview Question Boilerplate.md`](../Questions/Interview%20Question%20Boilerplate.md). Legacy cards are preserved as historical material and are not part of the active bank. The twelve AI-competency cards and four people-management cards are optional layers — only use them for roles where they're genuinely relevant; see [ai-competency-model.md](ai-competency-model.md) and [people-management-competency.md](people-management-competency.md).
 
@@ -72,6 +72,12 @@ All active cards below are **(rewritten)** — they follow the full interview-ca
 - [AI as a Moat, or Not](../Questions/ai/AI-as-a-Moat-or-Not.md) — Judgment
 - [Governing an Agent That Acts on Its Own](../Questions/ai/Governing-an-Agent-That-Acts-on-Its-Own.md) — Judgment
 - [Scanning External Forces Before You Bet on AI](../Questions/ai/Scanning-External-Forces-Before-You-Bet-on-AI.md) — Judgment
+- [Which Customer Said This?](../Questions/ai/Which-Customer-Said-This.md) — Method
+- [Kill the Zombie Pilot](../Questions/ai/Kill-the-Zombie-Pilot.md) — Judgment
+- [The Lever the CFO Can See](../Questions/ai/The-Lever-the-CFO-Can-See.md) — Judgment
+- [Twelve Tabs, Twelve Truths](../Questions/ai/Twelve-Tabs-Twelve-Truths.md) — Judgment
+- [Frankensoft or AI-First](../Questions/ai/Frankensoft-or-AI-First.md) — Judgment
+- [The Storm You Could See in Week One](../Questions/ai/The-Storm-You-Could-See-in-Week-One.md) — Behavioral
 
 ### People Management — Optional layer, manager-track roles only
 
@@ -100,6 +106,7 @@ See [competency-model.md](competency-model.md) for definitions. Most cards asses
 - [Testing an AI Idea Before It's Real](../Questions/ai/Testing-an-AI-Idea-Before-Its-Real.md)
 - [The One Deal That Needs One Feature](../Questions/situational/The-One-Deal-That-Needs-One-Feature.md)
 - [The First 90 Days](../Questions/situational/The-First-90-Days.md)
+- [Which Customer Said This?](../Questions/ai/Which-Customer-Said-This.md)
 
 ### Product Judgment, Strategy, And Prioritization
 - [Vanity Metrics vs. Actionable Analytics](../Questions/judgment/Vanity-Analytics_vs_Action-Metrics.md)
@@ -130,6 +137,9 @@ See [competency-model.md](competency-model.md) for definitions. Most cards asses
 - [Who Actually Owns This Decision](../Questions/judgment/Who-Actually-Owns-This-Decision.md)
 - [One Signal Up, Another Down](../Questions/judgment/One-Signal-Up-Another-Down.md)
 - [Not Every Fix Is a Feature](../Questions/behavioral/Not-Every-Fix-Is-a-Feature.md)
+- [Kill the Zombie Pilot](../Questions/ai/Kill-the-Zombie-Pilot.md)
+- [The Lever the CFO Can See](../Questions/ai/The-Lever-the-CFO-Can-See.md)
+- [Frankensoft or AI-First](../Questions/ai/Frankensoft-or-AI-First.md)
 
 ### Metrics, Outcomes, And Learning
 - [Vanity Metrics vs. Actionable Analytics](../Questions/judgment/Vanity-Analytics_vs_Action-Metrics.md)
@@ -163,6 +173,7 @@ See [competency-model.md](competency-model.md) for definitions. Most cards asses
 - [Leading Through a Bad Quarter](../Questions/people-management/Leading-Through-a-Bad-Quarter.md)
 - [Weeks for Leadership, Points for the Team](../Questions/judgment/Weeks-for-Leadership-Points-for-the-Team.md)
 - [Who Actually Owns This Decision](../Questions/judgment/Who-Actually-Owns-This-Decision.md)
+- [Twelve Tabs, Twelve Truths](../Questions/ai/Twelve-Tabs-Twelve-Truths.md)
 
 ### Ethics, Self-Awareness, And Responsible Decision-Making
 - [Building Trust with New Teams](../Questions/behavioral/Building-Trust-with-New-Teams.md)
@@ -176,6 +187,7 @@ See [competency-model.md](competency-model.md) for definitions. Most cards asses
 - [A Confident Opinion With No Evidence](../Questions/situational/A-Confident-Opinion-With-No-Evidence.md)
 - [Catching Your Own Bias](../Questions/behavioral/Catching-Your-Own-Bias.md)
 - [Leading Through a Bad Quarter](../Questions/people-management/Leading-Through-a-Bad-Quarter.md)
+- [The Storm You Could See in Week One](../Questions/ai/The-Storm-You-Could-See-in-Week-One.md)
 
 ## By AI Competency (Optional Layer)
 
@@ -193,6 +205,12 @@ See [ai-competency-model.md](ai-competency-model.md). Only use these for roles w
 - **AI Strategy & Competitive Advantage** — [AI as a Moat, or Not](../Questions/ai/AI-as-a-Moat-or-Not.md)
 - **AI Experience & Human Agency** (second card) — [Governing an Agent That Acts on Its Own](../Questions/ai/Governing-an-Agent-That-Acts-on-Its-Own.md), specifically for multi-step, autonomous agentic systems rather than single-turn AI features
 - **AI Risk, Safety & Responsible Use** (second card) — [Scanning External Forces Before You Bet on AI](../Questions/ai/Scanning-External-Forces-Before-You-Bet-on-AI.md), for external/regulatory risk rather than internally-discovered risk
+- **AI Fundamentals** (second card) — [Which Customer Said This?](../Questions/ai/Which-Customer-Said-This.md), for verifying AI-synthesized research against real source quotes
+- **AI Product Operations & Learning** (second card) — [Kill the Zombie Pilot](../Questions/ai/Kill-the-Zombie-Pilot.md), for portfolio-level stop decisions rather than a single product's feedback loop
+- **AI Economics & Technical Tradeoffs** (second card) — [The Lever the CFO Can See](../Questions/ai/The-Lever-the-CFO-Can-See.md), for translating AI value into a finance-legible lever rather than a build/buy/partner decision
+- **Data & Context Strategy** (second card) — [Twelve Tabs, Twelve Truths](../Questions/ai/Twelve-Tabs-Twelve-Truths.md), for context as shared team infrastructure rather than a single product's context needs
+- **AI Strategy & Competitive Advantage** (second card) — [Frankensoft or AI-First](../Questions/ai/Frankensoft-or-AI-First.md), for the prior architectural call (bolt-on vs. redesign) that precedes a moat question
+- **AI Risk, Safety & Responsible Use** (third card) — [The Storm You Could See in Week One](../Questions/ai/The-Storm-You-Could-See-in-Week-One.md), for internal/organizational AI-project risk rather than external/regulatory risk
 
 ## By People Management Competency (Optional Layer)
 
@@ -206,7 +224,7 @@ See [people-management-competency.md](people-management-competency.md). Only use
 
 ## Coverage Status
 
-All six core competencies have at least one dedicated, rewritten card. Product Judgment/Strategy/Prioritization — previously the weakest-covered competency — now has the most cards of any competency, reflecting how much of the job is defending decisions under scrutiny; see [core-interview-loop.md](core-interview-loop.md) Round 2 for guidance on selecting a manageable subset per interview. All ten AI competencies also have at least one dedicated card, as an optional add-on round, with two (Human Agency, Risk & Safety) now having a second card covering a distinct angle. Six named, real-world stakeholder-pressure scenarios (HiPPO, RHiNO, ZEbRA, WoLF, Seagull Manager, CoBRA) round out Customer Understanding, Influence/Collaboration, Delivery, and Ethics/Self-Awareness with situations a résumé alone can't reveal. The bank was individual-contributor-focused until a dedicated People Management layer was added for manager-track roles — four of five categories have a dedicated card; Organization Design is covered only as a secondary angle so far. Three cards test the judgment underneath engineering sizing frameworks — what an estimate is actually measuring, why the unit changes between leadership and team level, and what an outlier estimate signals — distinct from Technical Sizing Sanity Check's mechanics-level check. Three final cards, adapted from a broad audit of a 70-question generic compendium, close narrower gaps: peer-vs-peer decision-rights ambiguity, live diagnostic reasoning when two metrics disagree, and whether a candidate's solution space extends past "build a feature." If a future role surfaces a competency this bank underserves for that role's needs, add a new card rather than stretching an existing one to cover ground it wasn't designed for.
+All six core competencies have at least one dedicated, rewritten card. Product Judgment/Strategy/Prioritization — previously the weakest-covered competency — now has the most cards of any competency, reflecting how much of the job is defending decisions under scrutiny; see [core-interview-loop.md](core-interview-loop.md) Round 2 for guidance on selecting a manageable subset per interview. All ten AI competencies also have at least one dedicated card, as an optional add-on round, with six now having a second card covering a distinct angle (Human Agency, Fundamentals, Product Operations & Learning, Economics & Technical Tradeoffs, Data & Context Strategy, Strategy & Competitive Advantage) and Risk & Safety having a third. Six named, real-world stakeholder-pressure scenarios (HiPPO, RHiNO, ZEbRA, WoLF, Seagull Manager, CoBRA) round out Customer Understanding, Influence/Collaboration, Delivery, and Ethics/Self-Awareness with situations a résumé alone can't reveal. The bank was individual-contributor-focused until a dedicated People Management layer was added for manager-track roles — four of five categories have a dedicated card; Organization Design is covered only as a secondary angle so far. Three cards test the judgment underneath engineering sizing frameworks — what an estimate is actually measuring, why the unit changes between leadership and team level, and what an outlier estimate signals — distinct from Technical Sizing Sanity Check's mechanics-level check. Three cards, adapted from a broad audit of a 70-question generic compendium, closed narrower gaps: peer-vs-peer decision-rights ambiguity, live diagnostic reasoning when two metrics disagree, and whether a candidate's solution space extends past "build a feature." A final six cards, mined from the repository owner's own public Substack writing, deepened the AI-competency layer with angles a portfolio-level or Director-track AI PM will actually face — verifying AI-synthesized research, stopping a zombie AI bet, making an AI feature's business case to finance, context engineering as a team discipline, bolt-on-vs-redesign strategy, and internal AI-project risk. If a future role surfaces a competency this bank underserves for that role's needs, add a new card rather than stretching an existing one to cover ground it wasn't designed for.
 
 ## Maintaining This Index
 

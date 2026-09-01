@@ -42,6 +42,10 @@ Dispositions:
 
 Phase 2 is complete. Nine additional cards were then written to fill out a 14-question core bank for Phase 3 — see [core-interview-loop.md](core-interview-loop.md) and [question-index.md](question-index.md) for the full active set.
 
-A further six cards (Defending a Roadmap Trade-off, The Business Case Behind the Ask, Separating a Funded Move From a Narrated One, Prepping for a Room You Don't Control, The Loaded Ask, A Critique You'd Stand Behind) were added afterward, adapted from decision-review and competitive-intelligence practice external to this repository — see each card's Attributions section and [evidence-and-pressure-standard.md](evidence-and-pressure-standard.md) for the shared vocabulary they introduced. The active bank is now 20 cards.
+A further six cards (Defending a Roadmap Trade-off, The Business Case Behind the Ask, Separating a Funded Move From a Narrated One, Prepping for a Room You Don't Control, The Loaded Ask, A Critique You'd Stand Behind) were added afterward, adapted from decision-review and competitive-intelligence practice external to this repository — see each card's Attributions section and [evidence-and-pressure-standard.md](evidence-and-pressure-standard.md) for the shared vocabulary they introduced.
+
+A further ten cards form an optional AI-competency layer (Explaining AI Limits to a Skeptic, Where AI Actually Helps, Testing an AI Idea Before It's Real, What the Model Needs to Know, How Much Should the AI Decide, When the Model Is Wrong, The Line You Wouldn't Cross, Build Buy or Wait, Turning Usage Into a Better Model, AI as a Moat or Not), adapted from [`Research/AI Product Management Assessment.md`](../Research/AI%20Product%20Management%20Assessment.md) — see [ai-competency-model.md](ai-competency-model.md) for the domain and when to use it. Only use these for roles where AI is a real part of the product surface.
+
+The active bank is now 30 cards (20 core + 10 optional AI-competency).
 
 This table should be updated if a disposition changes — e.g., if a specific rubric is later developed that would justify moving `Number-of-Pianos.md` or `ProductDesign-VendingMachine.md` back into active use.

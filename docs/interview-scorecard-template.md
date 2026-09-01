@@ -22,7 +22,7 @@ Copy the template below once per interviewer per candidate. Fill it during the i
 - **Role / Target Level:** (Product Manager / Senior PM / Director / VP — see benchmark table below)
 - **Date:**
 - **Interviewer:**
-- **Round:** (Round 1 — Customer Understanding And Discovery / Round 2 — Product Judgment, Strategy, And Prioritization / Round 3 — Influence, Collaboration And Delivery / Round 4 — Ethics And Self-Awareness)
+- **Round:** (Round 1 — Customer Understanding And Discovery / Round 2 — Product Judgment, Strategy, And Prioritization / Round 3 — Influence, Collaboration And Delivery / Round 4 — Ethics And Self-Awareness / Round 5 — AI Product Judgment, optional, AI-heavy roles only)
 - **Questions asked this round:** (list the cards used, e.g. "Feature That Wasn't the Problem" + "Designing for a Constraint You Don't Share")
 
 ## Evidence Log
@@ -62,6 +62,23 @@ A starting point for what score a competency should clear at each target level, 
 | Ethics, Self-Awareness, And Responsible Decision-Making | 3 | 3 | 4 | 5 |
 
 A score meaningfully below the benchmark for the target level is worth raising explicitly in the debrief with the specific evidence behind it — not as an automatic reject, but as a named gap the group should discuss rather than let get averaged away by other rounds.
+
+## AI-PM Benchmark Reference (Optional — AI-Heavy Roles Only)
+
+Only fill this in if the role has a real AI-product component and you ran the optional AI round from [core-interview-loop.md](core-interview-loop.md) — see [ai-competency-model.md](ai-competency-model.md) for when this applies and what each category means. Adapted from [`Research/AI Product Management Assessment.md`](../Research/AI%20Product%20Management%20Assessment.md), another internal framework contributed to this project. Same caveat as above: a starting default, not a validated standard.
+
+| AI Competency | PM | Senior PM | Director | VP |
+|---|---:|---:|---:|---:|
+| AI Fundamentals | 3 | 4 | 4 | 4 |
+| AI Opportunity Discovery | 3 | 4 | 5 | 5 |
+| AI Product Discovery & Validation | 3 | 4 | 5 | 4 |
+| Data & Context Strategy | 2 | 4 | 4 | 4 |
+| AI Experience & Human Agency | 3 | 4 | 5 | 5 |
+| AI Evaluation & Metrics | 2 | 4 | 5 | 5 |
+| AI Risk, Safety & Responsible Use | 3 | 4 | 5 | 5 |
+| AI Economics & Technical Tradeoffs | 2 | 3 | 4 | 5 |
+| AI Product Operations & Learning | 2 | 4 | 5 | 5 |
+| AI Strategy & Competitive Advantage | 2 | 3 | 5 | 5 |
 
 ## Round Recommendation
 

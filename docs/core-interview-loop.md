@@ -2,13 +2,13 @@
 
 ## Purpose
 
-A stable, 20-question core bank and a suggested loop structure for running it — the "usable core loop" called for in [MODERNIZATION-PLAN.md](MODERNIZATION-PLAN.md) Phase 3. Pairs with [competency-model.md](competency-model.md) (what to assess), [scoring-rubric.md](scoring-rubric.md) (how to score it), [evidence-and-pressure-standard.md](evidence-and-pressure-standard.md) (how to grade the evidence in an answer and, for senior candidates, how to apply pressure responsibly), [interview-scorecard-template.md](interview-scorecard-template.md) (the fillable worksheet an interviewer actually uses during a round), and [structured-interview-guide.md](structured-interview-guide.md) (how to run any interview in the loop). See [question-index.md](question-index.md) for the full catalogue, including legacy material not part of this core set.
+A stable, 30-question core bank and a suggested loop structure for running it — the "usable core loop" called for in [MODERNIZATION-PLAN.md](MODERNIZATION-PLAN.md) Phase 3. Pairs with [competency-model.md](competency-model.md) (what to assess), [ai-competency-model.md](ai-competency-model.md) (the optional AI-specific layer), [scoring-rubric.md](scoring-rubric.md) (how to score it), [evidence-and-pressure-standard.md](evidence-and-pressure-standard.md) (how to grade the evidence in an answer and, for senior candidates, how to apply pressure responsibly), [interview-scorecard-template.md](interview-scorecard-template.md) (the fillable worksheet an interviewer actually uses during a round), and [structured-interview-guide.md](structured-interview-guide.md) (how to run any interview in the loop). See [question-index.md](question-index.md) for the full catalogue, including legacy material not part of this core set.
 
-The original 14 cards draw on the research synthesis in [`Research/gpt.pm-interview-and-behavioral-questions.md`](../Research/gpt.pm-interview-and-behavioral-questions.md). Six more were added later, adapted from decision-review and competitive-intelligence practice used elsewhere in this project owner's tooling — see each card's Attributions section for specifics. All twenty were written originally for this project, not copied from any source.
+The original 14 cards draw on the research synthesis in [`Research/gpt.pm-interview-and-behavioral-questions.md`](../Research/gpt.pm-interview-and-behavioral-questions.md). Six more were added, adapted from decision-review and competitive-intelligence practice used elsewhere in this project owner's tooling. A further ten AI-specific cards were added last, adapted from [`Research/AI Product Management Assessment.md`](../Research/AI%20Product%20Management%20Assessment.md) — see each card's Attributions section for specifics. All thirty were written originally for this project, not copied from any source.
 
-## Do Not Ask All 20 In One Interview
+## Do Not Ask All 30 In One Interview
 
-20 questions is the size of the *bank*, not of any one conversation. A single interviewer should ask roughly 3-4 questions in a 45-60 minute slot, chosen from the group they own below, and go deep with follow-up probes rather than rushing through more questions shallowly.
+30 questions is the size of the *bank*, not of any one conversation. A single interviewer should ask roughly 3-4 questions in a 45-60 minute slot, chosen from the group they own below, and go deep with follow-up probes rather than rushing through more questions shallowly.
 
 ## The Core Bank By Round
 
@@ -56,10 +56,27 @@ Owns: does the candidate hold themselves accountable, and weigh user trust along
 
 Round 4 is intentionally the shortest — go deep on these two rather than padding the round with unrelated questions borrowed from elsewhere.
 
+### Round 5 — AI Product Judgment (Optional, AI-Heavy Roles Only)
+
+Owns: does the candidate reason well about AI-specific product judgment — see [ai-competency-model.md](ai-competency-model.md) before using this round at all. Skip it entirely for roles where AI isn't a real part of the product surface; running it anyway tests trivia, not job-relevant judgment.
+
+- [Explaining AI Limits to a Skeptic](../Questions/method/Explaining-AI-Limits-to-a-Skeptic.md) — Method (AI Fundamentals)
+- [Where AI Actually Helps](../Questions/judgment/Where-AI-Actually-Helps.md) — Judgment (AI Opportunity Discovery)
+- [Testing an AI Idea Before It's Real](../Questions/judgment/Testing-an-AI-Idea-Before-Its-Real.md) — Judgment (AI Product Discovery & Validation)
+- [What the Model Needs to Know](../Questions/judgment/What-the-Model-Needs-to-Know.md) — Judgment (Data & Context Strategy)
+- [How Much Should the AI Decide](../Questions/judgment/How-Much-Should-the-AI-Decide.md) — Judgment (AI Experience & Human Agency)
+- [When the Model Is Wrong](../Questions/judgment/When-the-Model-Is-Wrong.md) — Judgment (AI Evaluation & Metrics)
+- [The Line You Wouldn't Cross](../Questions/judgment/The-Line-You-Wouldnt-Cross.md) — Judgment (AI Risk, Safety & Responsible Use)
+- [Build, Buy, or Wait](../Questions/judgment/Build-Buy-or-Wait.md) — Judgment (AI Economics & Technical Tradeoffs)
+- [Turning Usage Into a Better Model](../Questions/judgment/Turning-Usage-Into-a-Better-Model.md) — Judgment (AI Product Operations & Learning)
+- [AI as a Moat, or Not](../Questions/judgment/AI-as-a-Moat-or-Not.md) — Judgment (AI Strategy & Competitive Advantage)
+
+Ten cards for one round is deliberately more than any single interview needs — pick 3-4 that match where AI actually shows up in the role (a chat-product PM might prioritize Human Agency and Evaluation & Metrics; a platform PM enabling other teams' AI features might prioritize Data & Context Strategy and Economics & Technical Tradeoffs).
+
 ## Assembling A Loop
 
-1. **Weight rounds to the role**, per [structured-interview-guide.md](structured-interview-guide.md) — a growth PM role may want Round 2 to run longer; a platform PM role may want Round 3 to include the technical sizing check for every candidate rather than as optional.
-2. **Assign one interviewer per round.** No single interviewer should try to cover all four rounds; that's the entire point of splitting by competency ownership.
+1. **Weight rounds to the role**, per [structured-interview-guide.md](structured-interview-guide.md) — a growth PM role may want Round 2 to run longer; a platform PM role may want Round 3 to include the technical sizing check for every candidate rather than as optional. Add Round 5 only when AI is a real part of the role.
+2. **Assign one interviewer per round.** No single interviewer should try to cover all four (or five) rounds; that's the entire point of splitting by competency ownership.
 3. **Every candidate for a given role gets the same rounds and the same selected questions**, so scores are comparable. Don't swap questions in or out per candidate.
 4. **Record and score independently per [scoring-rubric.md](scoring-rubric.md)** before any debrief.
 5. **For Director/VP-level roles**, several cards carry a Role Or Level Notes section with a senior-specific follow-up or a note to raise pressure per [evidence-and-pressure-standard.md](evidence-and-pressure-standard.md) — check each selected card for one before the interview, rather than improvising pressure on the spot.

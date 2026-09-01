@@ -54,6 +54,7 @@ That is enough to run a cleaner Product Manager interview than a loose list of f
 | **I'm hiring an AI-focused Product Manager** | Read [`docs/ai-competency-model.md`](docs/ai-competency-model.md), then add the optional AI round from the [AI Product PM preset](docs/role-loop-presets.md#preset-ai-product-pm) |
 | **I'm hiring a Director or VP** | Use the [Director/VP preset](docs/role-loop-presets.md#preset-director--vp-level-any-domain) layered on top of the domain preset that fits — add the optional [people-management round](docs/people-management-competency.md) only if the role actually manages other PMs |
 | **I want to understand the philosophy before I touch anything** | Read [`docs/MODERNIZATION-PLAN.md`](docs/MODERNIZATION-PLAN.md) and [`AGENTS.md`](AGENTS.md) |
+| **I'm picking up maintenance work as a coding agent** | Start with [`docs/HANDOFF.md`](docs/HANDOFF.md), then [`AGENTS.md`](AGENTS.md) |
 | **I tried a card and something felt off** | See [Report What You Find](#report-what-you-find) below |
 
 ### Your First 4 Questions

@@ -46,9 +46,9 @@ Recognizes and manages privacy, security, bias, explainability, compliance, misu
 **Look for:** a real capability delayed, scoped down, or not shipped because of a named risk, and evidence of who else was brought into that decision.
 
 ### AI Economics & Technical Tradeoffs
-Understands model choice, build/buy/partner decisions, inference cost, latency, and the quality/cost tradeoff space well enough to make or contribute to that call.
+Understands model choice, Build / Borrow / Buy decisions, inference cost, latency, and the quality/cost tradeoff space well enough to make or contribute to that call.
 
-**Look for:** a specific build/buy/partner decision with real reasoning, and honesty about what the cost or latency estimate got wrong going in.
+**Look for:** a specific Build / Borrow / Buy decision with real reasoning: building internally, borrowing through a third-party cloud/service provider, or buying/acquiring the capability outright. Strong answers are honest about what the cost, latency, quality, control, or lock-in estimate got wrong going in.
 
 ### AI Product Operations & Learning
 Uses telemetry, evaluation results, and user feedback to actually change how the AI product behaves over time — closing the loop, not just reporting on it.

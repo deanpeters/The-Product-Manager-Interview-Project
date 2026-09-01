@@ -118,6 +118,21 @@ Two sources reviewed during the Phase 3 inspiration passes weren't fully mined â
 
 Revisit when there's appetite for another mining pass; don't let this silently expand scope on its own. Tracked on the [Role & Domain Coverage board](https://github.com/users/deanpeters/projects/3), alongside any role- or domain-specific coverage requests that come in through [field-feedback-guide.md](field-feedback-guide.md).
 
+## Backlog: AI Card Hardening
+
+The AI-competency layer is structurally complete, but some cards are still too mild compared with the sharper AI Product Management lessons in Dean Peters's Substack archive at `/Users/deanpeters/Code/15-days-of-aipm/substack/deanpeters.substack.com`.
+
+The next pass should strengthen the AI cards around the project's own language and harder product lessons:
+
+- Preserve memorable named language such as **Build / Borrow / Buy** rather than smoothing it into generic sourcing language.
+- Treat AI as a multiplier of product judgment, not a generic capability upgrade.
+- Test whether candidates can define the fire before aiming tools at smoke.
+- Treat context as shared team infrastructure, not private prompt craft.
+- Treat evals as thresholds, traces, failure cases, and decision rules, not model pageantry.
+- Treat agents as governed journeys with gates, logs, and accountability, not demos with autonomy vibes.
+
+See [HANDOFF.md](HANDOFF.md) for the recommended first rewrite batch and source files.
+
 ## Definition Of Done
 
 The refresh is complete when a new interviewer can select a role-appropriate loop, ask each question consistently, record evidence, score it against shared anchors, and understand why a question belongs in the process. The repository should make that path clear without requiring the reader to infer an interviewing philosophy from a collection of prompts.

@@ -11,17 +11,18 @@ The source of truth for the intended direction is [`docs/MODERNIZATION-PLAN.md`]
 Before editing, inspect:
 
 1. `README.md` for the public promise and repository orientation.
-2. `docs/MODERNIZATION-PLAN.md` for the roadmap, phase history, and the standing backlog of not-yet-mined sources.
-3. `Interview Question Style Guide.md` and `Questions/Interview Question Boilerplate.md` for the current authoring conventions.
-4. `docs/question-index.md` and `docs/question-bank-triage.md` to see what already exists before proposing a new card — most "new" ideas turn out to be a rephrasing of something already in the bank. `docs/core-interview-loop.md` shows how cards assemble into a runnable loop, and `docs/role-loop-presets.md` shows that worked for specific role shapes.
-5. Relevant files in `Research/` when adding or changing claims about interviewing practice — and see `docs/research-audit.md` for what's already been checked and how each source was attributed.
+2. `docs/HANDOFF.md` for the current state, recent decisions, branch/protection notes, and next suggested work.
+3. `docs/MODERNIZATION-PLAN.md` for the roadmap, phase history, and the standing backlog of not-yet-mined sources.
+4. `Interview Question Style Guide.md` and `Questions/Interview Question Boilerplate.md` for the current authoring conventions.
+5. `docs/question-index.md` and `docs/question-bank-triage.md` to see what already exists before proposing a new card — most "new" ideas turn out to be a rephrasing of something already in the bank. `docs/core-interview-loop.md` shows how cards assemble into a runnable loop, and `docs/role-loop-presets.md` shows that worked for specific role shapes.
+6. Relevant files in `Research/` when adding or changing claims about interviewing practice — and see `docs/research-audit.md` for what's already been checked and how each source was attributed.
 
 ## Repository Shape (for a new agent picking this up cold)
 
 - `Questions/behavioral/`, `situational/`, `judgment/`, `method/` — format-based folders, the core (non-optional) bank.
 - `Questions/ai/` and `Questions/people-management/` — domain-based folders, peers to the format folders rather than nested inside them. Each card in these still records its own format Type internally. Both are optional layers — only relevant for AI-heavy or manager-track roles respectively; see `docs/ai-competency-model.md` and `docs/people-management-competency.md`.
 - `Questions/systems-thinking/` — problem-breakdown, systems-mapping, and Precedents Thinking candidates. These are not part of the active 58-card bank until rewritten as full cards; see `docs/systems-thinking-exercises.md`.
-- `docs/` — the full editorial and operational apparatus: competency models (core, AI, people-management), the scoring rubric, the evidence/pressure standard, interviewer voices, negotiation signals, the scorecard template, the core interview loop, role-loop presets, the question index, the triage history, the research audit, and this roadmap. Skim `docs/question-index.md`'s "Purpose" line for how they all connect — most docs cross-link the others rather than repeating content.
+- `docs/` — the full editorial and operational apparatus: handoff state, competency models (core, AI, people-management), the scoring rubric, the evidence/pressure standard, interviewer voices, negotiation signals, the scorecard template, the core interview loop, role-loop presets, the question index, the triage history, the research audit, and this roadmap. Skim `docs/question-index.md`'s "Purpose" line for how they all connect — most docs cross-link the others rather than repeating content.
 - Every doc that states a card count (`README.md`, `docs/core-interview-loop.md`, `docs/role-loop-presets.md`, `docs/question-index.md`, `docs/question-bank-triage.md`) must be updated together whenever a card is added, moved, or retired — they're expected to agree. Run the relative-link check described in Verification below before committing, since a missed rename or move breaks a link silently otherwise.
 
 ## Editorial Principles
@@ -31,6 +32,7 @@ Before editing, inspect:
 - Make every question usable by an interviewer: include purpose, neutral probes, positive and warning signals, and scoring guidance.
 - Reward specific evidence and clear reasoning, not polished framework recitation.
 - Use plain language. The audience includes experienced interviewers, Product Managers, hiring managers, and people learning to interview.
+- Preserve memorable project language when it carries real meaning. Do not sand off sharp Deanisms, named phrases, or sticky triads such as `Build / Borrow / Buy` or `Pivot / Punt / Pursue` into blander synonyms unless the phrase is confusing or inaccurate.
 - Separate validated claims from recommendations or hypotheses. Do not turn research synthesis into an unsupported fact.
 - Use stable, readable sources when publishing research-backed assertions. AI-generated citation artifacts are not acceptable public references.
 
@@ -59,6 +61,7 @@ Avoid using brainteasers, abstract design exercises, and market-sizing puzzles a
 - Keep Markdown readable in plain text and on GitHub.
 - Do not add dependencies, build tooling, or automation unless there is a concrete maintenance or user benefit.
 - Do not commit changes unless explicitly asked.
+- The GitHub default branch is `master` and is protected by ruleset. Publish through a feature branch and PR; do not assume a `main` branch exists.
 
 ## Verification
 

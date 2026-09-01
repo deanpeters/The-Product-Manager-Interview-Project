@@ -18,7 +18,7 @@ Judgment
 
 ## Why This Matters
 
-Only use this card for roles where AI is a real part of the product surface — see [ai-competency-model.md](../../docs/ai-competency-model.md). AI features generate their own kind of vanity metric: engagement that feels meaningful because the interaction is novel, without ever translating into a lever finance actually tracks. "Build, Buy, or Wait" tests reasoning about sourcing and technical tradeoffs; this card tests something different — whether a candidate can translate AI value into one specific, defensible economic lever (revenue, cost, retention, compliance risk avoided) rather than defending a feature on engagement alone. A candidate who can't make this translation, or who inflates a soft signal into a hard one, is showing exactly the gap that gets AI investment cut in a budget review.
+Only use this card for roles where AI is a real part of the product surface — see [ai-competency-model.md](../../docs/ai-competency-model.md). AI features generate their own kind of vanity metric: engagement that feels meaningful because the interaction is novel, without ever translating into a lever finance actually tracks. "Build / Borrow / Buy" tests reasoning about sourcing and technical tradeoffs; this card tests something different — whether a candidate can translate AI value into one specific, defensible economic lever (revenue, cost, retention, compliance risk avoided) rather than defending a feature on engagement alone. A candidate who can't make this translation, or who inflates a soft signal into a hard one, is showing exactly the gap that gets AI investment cut in a budget review.
 
 ## Neutral Follow-Up Probes
 

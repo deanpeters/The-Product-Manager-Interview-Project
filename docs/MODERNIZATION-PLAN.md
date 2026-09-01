@@ -113,7 +113,7 @@ Two sources reviewed during the Phase 3 inspiration passes weren't fully mined �
 - **MITRE Innovation Toolkit** (`Mitre-Skills/skills/`) — 25 of its 27 facilitation tools remain unreviewed beyond Premortem (already adapted into [`Questions/situational/The-Premortem.md`](../Questions/situational/The-Premortem.md)). Candidates worth a look: Problem Framing, Retro Rundown, Rose Bud Thorn, Stakeholder Power/Map. Same filter as always applies — a tool becomes an interview card only if it has a real, scoreable signal, not just a facilitation format.
 - **`product-manager-prompts`** (`prompt-generators/`) — JTBD, DACI, and discovery-interview prompt generators not yet reviewed for interview-card potential; likely relevant to Round 1 (Customer Understanding And Discovery).
 
-Revisit when there's appetite for another mining pass; don't let this silently expand scope on its own.
+Revisit when there's appetite for another mining pass; don't let this silently expand scope on its own. Tracked on the [Role & Domain Coverage board](https://github.com/users/deanpeters/projects/3), alongside any role- or domain-specific coverage requests that come in through [field-feedback-guide.md](field-feedback-guide.md).
 
 ## Definition Of Done
 

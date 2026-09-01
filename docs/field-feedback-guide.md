@@ -24,7 +24,7 @@ Not everything needs a report — a single so-so answer from one candidate isn't
 
 ## How To Report It
 
-Open a GitHub issue on this repository. Include:
+Open a GitHub issue on this repository using the **Field Feedback** template. It'll prompt for the same fields below:
 
 - **Which card or doc**, linked directly.
 - **What happened** — the specific friction, not a general impression.
@@ -32,6 +32,8 @@ Open a GitHub issue on this repository. Include:
 - **Context that matters**: role, seniority level, how many times you've now seen this same issue.
 
 See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for how feedback turns into an actual edit — the short version is: a card gets fixed directly (not just noted), and [question-bank-triage.md](question-bank-triage.md) and [question-index.md](question-index.md) get updated if a card's disposition changes.
+
+Track what's been reported and what's being worked on: [Field Feedback board](https://github.com/users/deanpeters/projects/2). If your feedback is about adding coverage for a specific role or domain rather than fixing something existing, that's tracked separately on the [Role & Domain Coverage board](https://github.com/users/deanpeters/projects/3).
 
 ## What This Isn't
 

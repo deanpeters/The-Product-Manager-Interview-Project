@@ -52,7 +52,7 @@ See [`docs/competency-model.md`](docs/competency-model.md), [`docs/scoring-rubri
 
 ## Contributing
 
-This repository is in public preview — the best contribution is usage. Try a card in a real interview and report back; see [`docs/field-feedback-guide.md`](docs/field-feedback-guide.md) for what's worth reporting and how.
+This repository is in public preview — the best contribution is usage. Try a card in a real interview and report back; see [`docs/field-feedback-guide.md`](docs/field-feedback-guide.md) for what's worth reporting and how. Track progress on the [Field Feedback](https://github.com/users/deanpeters/projects/2) and [Role & Domain Coverage](https://github.com/users/deanpeters/projects/3) boards.
 
 Contributions should make an interviewer more consistent and a candidate experience more respectful. See [`CONTRIBUTING.md`](CONTRIBUTING.md) for the full process — how to add or edit a question, what review criteria apply, and how to contribute research responsibly.
 

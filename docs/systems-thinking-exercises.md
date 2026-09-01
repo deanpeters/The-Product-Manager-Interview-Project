@@ -11,8 +11,8 @@ These exercises are not part of the 58-card active interview bank yet. They beco
 - [Map the Ecosystem](../Questions/systems-thinking/Map-the-Ecosystem.md) — foundational system decomposition: actors, incentives, constraints, flows, and feedback loops.
 - [The Precedent That Transfers](../Questions/systems-thinking/The-Precedent-That-Transfers.md) — Precedents Thinking: analogous systems, transfer limits, recombination, and testability.
 - [One Fix, Three Side Effects](../Questions/systems-thinking/One-Fix-Three-Side-Effects.md) — second-order effects, local optimization, guardrails, and system-level harm.
-- [Vending Machine Innovations](../Questions/systems-thinking/ProductDesign-VendingMachine.md) — older brainstorm prompt preserved as raw material for ecosystem mapping.
-- [Number of Pianos at the ECU School of Music](../Questions/systems-thinking/Number-of-Pianos.md) — older estimation prompt preserved as raw material for estimation-as-modeling.
+- [Map the Vending Machine System](../Questions/systems-thinking/ProductDesign-VendingMachine.md) — ecosystem mapping and intervention-point reasoning, reframed from an older product-design brainstorm.
+- [Model the Facility Before You Count](../Questions/systems-thinking/Number-of-Pianos.md) — estimation-as-modeling for an operational decision, reframed from an older counting prompt.
 
 ## What Belongs Here
 

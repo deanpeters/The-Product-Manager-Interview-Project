@@ -1,39 +1,60 @@
-> **Systems-thinking candidate.** Preserved as raw material for a future estimation-as-modeling exercise — see [`docs/systems-thinking-exercises.md`](../../docs/systems-thinking-exercises.md) and [`docs/question-bank-triage.md`](../../docs/question-bank-triage.md). In its current form, this is not an active interview card. Its future value is in watching how someone decomposes an unfamiliar facility system, names assumptions, identifies missing information, and tests whether the model is useful for a real product or operational decision.
+# Model the Facility Before You Count
 
-# Number of Pianos at the ECU School of Music
-> How many pianos are physically located at the East Carolina School of Music? Walk us through the steps.
+> A university music school wants to improve piano maintenance scheduling. Before anyone builds software, you need a working estimate of how many pianos are in the building and where maintenance demand is likely to come from. How would you model the facility system well enough to make a useful product or operational decision?
 
-## Reason
-### Hypothesis
-> In answering the question above, we believe that a qualified candidate will reveal a natural curiosity while demonstrating their analytical capabilities. 
+> **Follow-up** Suppose your first estimate is wrong by 40%. What would that tell you about the system you failed to understand?
 
-### Measure of Success/Failure 
-1. We will know the candidate has failed if they simply blurt out a wild guess without any discussion.
-2. We will now the candidate may be qualified if they demonstrate the ability to ask questions to get themselves close to a realitic number. **The actual count doesn't matter**.
-   * Is there a piano in each classroom and/or practice room? If so, how many classrooms and/or practice rooms are there? (35 + 50)
-   * Are other rooms and facilities we have to consider?
-   * How many students are there? What is the student-to-piano ratio (1.5:1)
-   * Are we also counting electic keyboards?
-3. An additional and optional measure of success is if the candidate asks why this count is relevant (or what has this have to do with product management?). If they do ask, you might want to respond with something along the lines of:
-   > "Let's say we're developing a maintenance app that includes having to schedule the time of a single piano tuner across an entire school of music facility."
+## Type
 
-**Additional Success/Failure Notes** 
-* It's often better to pose this question to individuals possess little or no experience with institutes such as the ECU School of Music. In fact, the same question could be easily converted to "How many computers are there at the Engineering Building at the NCSU Department of Computer Science?" or "How many laptops are in this office?"
-* The larger point is, the less the candidate is familiar with such a facility, the greater the opportunity to reveal how they explore areas of unknown issues and quanities. 
-* It is normal for a candidate to buy time so they can think. Unless they're a genius, a dive straight into an answer should raise a flag.
-* It is normal for a qualified candidate to ask several questions, even some that may seem unrelated. Take time to explore their questions as their reasoning behind them can be quite revealing.
-* It may help to relax more nervous candidates down by explaining to them that the exact number is not what we're after. Once calmed down, you may find such candidates actually provide some of the best conversations and approaches to the problem.
-* You may get candidates who simply toss out a number because they don't undestand why you're asking. Similarly you may encounter candidates who say "I just go to Google and look it up." You may find such individuals lack the natural curiosity or analytical skills to move forward with your hiring process.
-* Candidates are nervous enough, no need to toss questions at them that include having to have memorized some scientific equation. 
+Systems Thinking Exercise
 
-## Core Competency Coverage
-- [ ] Product Design
-- [ ] Product Strategy
-- [x] Analytical
-- [ ] Technical
-- [ ] Cultural Fit
+## Competencies Assessed
 
+- Product Judgment, Strategy, And Prioritization
+- Customer Understanding And Discovery
+- Metrics, Outcomes, And Learning
+
+## Why This Matters
+
+This is not a puzzle about guessing the exact number of pianos. It tests whether a candidate can turn an unfamiliar physical environment into a useful model: spaces, actors, constraints, demand patterns, assumptions, and decision thresholds.
+
+## Neutral Follow-Up Probes
+
+- What are the main places pianos might exist in this system?
+- Which assumptions would matter most to the maintenance-scheduling decision?
+- Who would know the real count or the real maintenance pain?
+- What would you estimate first, and what would you verify before building?
+- How would your model change if the goal were purchasing, maintenance scheduling, room assignment, or budgeting?
+
+## Strong Evidence
+
+1. Breaks the facility into meaningful parts: classrooms, practice rooms, performance spaces, faculty studios, storage, loaner instruments, and possibly digital keyboards if relevant to the decision.
+2. Separates the inventory question from the product or operational decision the estimate is meant to support.
+3. Names assumptions explicitly and identifies which ones are most sensitive to the final decision.
+4. Describes practical verification paths: facilities records, music school staff, maintenance logs, room inventories, student/faculty workflows, or a quick walkthrough.
+5. In the follow-up, treats a large miss as learning about the model's structure, not as a math embarrassment.
+
+## Warning Signs
+
+1. Jumps to a number with no model, assumptions, or facility breakdown.
+2. Treats the exact count as the goal rather than asking what decision the estimate supports.
+3. Uses only abstract arithmetic and never identifies who or what in the system could validate the model.
+4. Dismisses a large error as irrelevant instead of asking what part of the system was misunderstood.
+
+## Scoring Anchors
+
+- **5:** Builds a clear facility model, names sensitive assumptions, ties the estimate to a real decision, and identifies credible verification paths.
+- **3:** Produces a reasonable estimation structure, but the decision connection or verification plan is thin.
+- **1:** Guesses, performs disconnected arithmetic, or treats the exercise as a trick rather than a systems-modeling task.
+
+## Role Or Level Notes
+
+For senior candidates, expect them to ask what decision the estimate will inform before modeling: maintenance staffing, scheduling workflow, budget request, asset tracking, room utilization, or product requirements. A stronger answer may also identify that pianos are not the only relevant unit; tuning frequency, instrument condition, room access, usage intensity, and scheduling constraints may matter more than raw count.
 
 ## Attributions
 
+* Reframed from the repository's original "Number of Pianos at the ECU School of Music" estimation prompt.
+
 ## Additional Reading
+
+* (None yet — contributions welcome.)

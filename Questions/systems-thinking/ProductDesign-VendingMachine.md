@@ -1,37 +1,60 @@
-> **Systems-thinking candidate.** Preserved as raw material for a future problem-breakdown exercise — see [`docs/systems-thinking-exercises.md`](../../docs/systems-thinking-exercises.md) and [`docs/question-bank-triage.md`](../../docs/question-bank-triage.md). In its current form, this is still an open-ended product-design brainstorm without enough constraints or scoring anchors for active hiring use. Its future value is in mapping the vending-machine system: actors, incentives, supply, operations, payment, data, replenishment, regulation, and useful precedents.
+# Map the Vending Machine System
 
-# Vending Machine Innovations
-> "Design a vending machine 2.0.  What are some big, innovative changes you can bring to vending machines and the vending machine industry to really disrupt the market"
+> A stakeholder asks you to "design a vending machine 2.0" and pushes for big, disruptive ideas. Before proposing features, how would you map the vending-machine system and find better intervention points?
 
-> Note 1: I say "innovative", "disruptive", "big" multiple times intentionally to really reinforce the idea that they should be thinking outside the box here.
+> **Follow-up** What precedent from another system might transfer here, and what would be dangerous to copy too literally?
 
-> Note 2: Moments of silence are ok, as is asking "OK, what else"?  They may start with some very simple things, but may blossom if you give them the space.
+## Type
 
-## Reason
-### Hypothesis
-> Product Managers need to innovate, not just iterate.  Can the candidate ideate quickly - thinking broad and deep about multiple different aspects of products.
+Systems Thinking Exercise
 
-### Measure of Success/Failure 
-1. The candidate thinks broad:
-  * Disrupting the business model
-  * Changes to supply/distribution model of machines and/or goods in vending machines
-  * Changes to goods in machines, or ways goods are stored or prepared or created
-  * Changes to UI to interface with machines (perhaps via phones or other)
-  * Changes to payment methods
-  * Thoughts on value of data (communication between machines, communication to customers, communication to mother ship)
-  * other?
-2. The candidate thinks deep:
-  * For any or all of the above, candidate comes up with multiple divergent paths, but can speak to pros and cons / values and limitations.
-3. The candidate is excited by the exercise, not overwhelmed/stumped by it.
+## Competencies Assessed
 
-## Core Competency Coverage
-- [X] Product Design
-- [ ] Product Strategy
-- [ ] Analytical
-- [ ] Technical
-- [ ] Cultural Fit
+- Product Judgment, Strategy, And Prioritization
+- Customer Understanding And Discovery
+- Influence, Collaboration, And Communication
+
+## Why This Matters
+
+The old version of this prompt rewarded idea volume: payments, screens, products, data, distribution, novelty. This reframed version tests a more useful product skill: slowing down enough to understand the system before deciding where innovation actually belongs.
+
+## Neutral Follow-Up Probes
+
+- Who participates in the vending-machine system besides the person buying a snack?
+- What flows through the system: money, inventory, data, maintenance work, location access, risk, time?
+- Where are the strongest constraints: machine hardware, replenishment, spoilage, payments, location contracts, theft, regulation, accessibility, or margins?
+- Which part of the system is most likely to resist change?
+- What analogous systems would you examine before proposing a solution?
+
+## Strong Evidence
+
+1. Maps the ecosystem beyond the machine itself: customers, operators, suppliers, property owners, maintenance teams, payment providers, regulators, and support channels.
+2. Identifies incentives and constraints that shape the system, such as margin per item, restocking frequency, location economics, reliability, accessibility, product freshness, and theft or fraud risk.
+3. Finds multiple possible intervention points before jumping to features: business model, assortment, placement, replenishment, service model, payments, data, accessibility, or partnerships.
+4. Uses precedents thoughtfully, borrowing structure from analogous systems without pretending they transfer wholesale.
+5. Connects any proposed change to a testable hypothesis about system behavior.
+
+## Warning Signs
+
+1. Starts and ends with feature brainstorming: bigger screen, app integration, AI, or novelty products, with no system model.
+2. Treats "disruptive" as a goal by itself.
+3. Ignores the operator, supplier, location-owner, maintenance, or economics side of the system.
+4. Copies a precedent from another industry without naming what differs here.
+
+## Scoring Anchors
+
+- **5:** Builds a multi-actor system map, identifies constraints and incentives, finds several intervention points, and uses precedents with clear transfer limits.
+- **3:** Names several parts of the ecosystem, but still drifts toward feature ideas before explaining the system dynamics.
+- **1:** Produces a list of clever vending-machine features with no actor map, constraint model, precedent reasoning, or testable hypothesis.
+
+## Role Or Level Notes
+
+For senior candidates, expect them to separate product novelty from business-model, operating-model, and channel innovation. A Director/VP-level answer should include where the company could realistically win: data advantage, route density, exclusive locations, supplier relationships, operational efficiency, trust, or a better job-to-be-done than "buy a snack from a box."
 
 ## Attributions
-* Shannon derived this from classic Microsoft/Google questions of "Design an X".  I'm sure others have asked the same thing before - not revolutionary, but as with most questions, it's the journey that matters.
+
+* Reframed from the repository's original "Vending Machine Innovations" product-design prompt, originally attributed in the old file to Shannon and classic "Design an X" interview questions.
 
 ## Additional Reading
+
+* (None yet — contributions welcome.)

@@ -1,3 +1,5 @@
+<!-- Audit note (see docs/research-audit.md): confirmed NOT a duplicate of gpt/plex/gem.md — this is a self-contained, original question bank and weighting model with no book citations or external statistics, structurally distinct from the other three Research files (which are narrative syntheses citing named books and studies). The single appeal to "the literature" below (competency framework) is uncited synthesis/opinion, not a sourced claim — treat it as a working hypothesis, consistent with how gpt.md flags its own weighting as "my synthesis rather than a prescription." No per-question sourcing was needed since this file makes no external factual claims to verify. -->
+
 Save the following as mid_level_pm_interview_question_bank.md:
 
 # Mid-Level Product Manager Interview Question Catalog

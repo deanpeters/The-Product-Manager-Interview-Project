@@ -98,9 +98,9 @@ The two remaining retained prompts (Alarm Clock for the Blind, Technical Sizing 
 3. ~~Add interviewer calibration guidance and example evidence-based score rationales.~~ See the Calibration and Worked Examples sections of [scoring-rubric.md](scoring-rubric.md).
 4. **Open — requires a human owner:** Pilot the loop with experienced interviewers and revise questions that create uneven interpretation. This cannot be done from the repository alone; it requires running real interviews and comparing interviewer scores. See [pilot-logistics-checklist.md](pilot-logistics-checklist.md) — the pilot itself is still open, but the checklist for how to run and close the loop on it is now written.
 
-### Phase 4: Publish With Provenance — Partially Done
+### Phase 4: Publish With Provenance — Done
 
-1. **Partially done:** Audit the research for stable primary sources and clear attribution. `Research/gpt.pm-interview-and-behavioral-questions.md` has had its 43 broken AI-citation artifacts resolved to real, checkable links (including a correction to an imprecise validity statistic). `plex...md` and `gem...md` still need a link-by-link spot-check, and `copilot...md` still needs sourcing from scratch — see [research-audit.md](research-audit.md).
+1. ~~Audit the research for stable primary sources and clear attribution.~~ All `Research/` files are now audited — see [research-audit.md](research-audit.md). `gpt...md` had 43 broken AI-citation artifacts resolved to real links (plus a corrected validity statistic); `plex...md` and `gem...md` were link-checked (a small number of dead links fixed or flagged inline); `copilot...md` was confirmed to be an original question bank needing no per-claim sourcing, not a duplicate of the other three. One residual issue remains open in `gem...md` (an inline-citation-numbering integrity problem, not a link-validity one) — see research-audit.md for detail.
 2. ~~Add a contributor guide with the question-card standard and review criteria.~~ See [`CONTRIBUTING.md`](../CONTRIBUTING.md).
 3. ~~Document scope and limitations: this is an interviewing aid, not a replacement for legal guidance, interviewer training, or a hiring process.~~ See the Scope section of [`README.md`](../README.md).
 

@@ -19,17 +19,28 @@ Previously contained 43 inline citation spans using private-use Unicode delimite
 
 No claim required correction beyond the validity-figure caveat above, and no citation was left unresolved. The **questions themselves** in this file remain original — the file states they're "synthesized from the literature, not copied from the books" — which is why they were safe to adapt into interview cards in [`docs/core-interview-loop.md`](core-interview-loop.md) even before this cleanup.
 
-### `Research/plex.pm-interview-and-behavioral-questions.md` — Mostly clean
+### `Research/plex.pm-interview-and-behavioral-questions.md` — Link check complete
 
-Contains real, resolvable URLs (roughly 38) rather than broken citation tokens. One stray occurrence of the word "cite" appears to be incidental prose, not an artifact. Spot-check a sample of the links for continued validity before treating as a stable public source, but this file does not have the systemic artifact problem `gpt...md` has.
+All 38 reference URLs checked directly (HTTP status, with a Wayback Machine lookup for anything that failed). Result:
 
-### `Research/gem.Product Management Interview Questions.md` — Mostly clean
+- 34 resolve normally (200).
+- 1 (reference 8, a Decode and Conquer PDF) returned 404 at its original URL; replaced in the file with a working Wayback Machine snapshot of the same source (dated 2023-09-24), noted inline.
+- 3 are flagged inline with `<!-- DEAD LINK -->` comments rather than silently fixed, since no working replacement or archive exists: reference 4 (pminterviewcopilot.com, backing several footnoted claims — treat those specific footnotes as currently unsourced), reference 22 and reference 32 (both dead, but each backs a claim already covered by a still-live reference elsewhere in the same file — 20 and 1, respectively — so no content is left completely unsourced).
+- 1 (reference 13, supersummary.com) returned HTTP 429 (rate-limited) rather than a clear pass or fail; likely a live site blocking automated requests, not confirmed dead — left as-is, worth a manual check if leaned on heavily.
 
-Same picture as the plex file: roughly 50 real URLs, one incidental "cite" occurrence, no systemic broken-citation problem. Spot-check link validity before public use.
+No content changed beyond the citation fixes above. Safe to treat as a stable source with the four caveats above.
 
-### `Research/copilot.pm-interview-and-behavioral-questions copy.md` — No citations at all
+### `Research/gem.Product Management Interview Questions.md` — Link check complete, with a separate structural caveat
 
-Contains no citation markers and no URLs. This means its claims currently have **no traceable source attribution whatsoever** — a different problem than broken citations, but still not publication-ready. Any claim drawn from this file for public guidance needs a source added, not just cleaned up. The " copy" in the filename also suggests this may be a duplicate worth checking against the other three before further use.
+All 25 works-cited URLs checked directly. 23 resolve normally (200); 2 (both `medium.com` links) returned 403 in both a direct request and a WebFetch retry — Medium blocks most non-browser traffic including this, so this is inconclusive rather than confirmed dead, and neither was flagged or altered.
+
+**Separate finding, not fixed here:** this file's inline citation markers (superscript numbers like "value creation5") appear to reuse the same reference number across multiple, unrelated claims in several places, rather than each number mapping cleanly to one claim. That's a citation-integrity problem distinct from link validity — a reader can't always tell which specific works-cited entry backs a specific sentence. Fixing it would mean re-mapping every inline number against its actual source, which is a larger remapping task than this pass covered; flagging it here so it isn't mistaken for "fully audited" the way `gpt...md` now is.
+
+### `Research/copilot.pm-interview-and-behavioral-questions copy.md` — Confirmed not a duplicate; no citations needed
+
+Read in full. It is **not** a duplicate of `gpt...md`, `plex...md`, or `gem...md` — those three are narrative research syntheses citing named books and studies; this file is a self-contained, original 100-question tabular bank with its own competency-weighting model and no book citations or external statistics anywhere in it. The " copy" in the filename appears to be an artifact of how the file was saved, not evidence of duplicated content.
+
+Because it makes no external factual claims, it needed no per-claim sourcing — the earlier "needs sourcing from scratch" framing assumed it made claims like the other three files do, which it doesn't. It contains exactly one uncited appeal to authority ("The literature converges around four reinforcing PM responsibilities"); an audit note was added inline at the top of the file marking this as original synthesis, not a sourced claim, consistent with how `gpt...md` already flags its own weighting choices as synthesis rather than prescription.
 
 ### `Research/Product Manager Assessment - December 11, 2021.csv` — Different kind of asset, no citation issue
 
@@ -41,7 +52,11 @@ Added after the pass above — another proprietary leveling framework, this one 
 
 ## Recommendation
 
-- `gpt...md`'s citations are resolved — statistics and study attributions from it can now be repeated in public-facing docs (README, competency model, etc.) with a real link behind each claim. Still spot-check a link before leaning on it heavily years from now; publisher and author-site URLs do occasionally move.
-- Treat `plex...md` and `gem...md` as closer to usable, pending a link spot-check — that pass hasn't been done yet.
-- Treat `copilot...md` as needing sourcing from scratch, or confirm it's a duplicate and can be superseded by one of the other three.
-- This audit should be re-run (or the relevant section struck through) if `plex...md` or `gem...md` get the same link-by-link verification `gpt...md` just received — don't let this document go stale and get treated as if cleanup already happened for files it hasn't.
+All four Research files with external claims (`gpt...md`, `plex...md`, `gem...md`) plus the question-bank file (`copilot...md`) are now audited:
+
+- `gpt...md` — citations resolved. Statistics and study attributions can be repeated in public-facing docs with a real link behind each claim.
+- `plex...md` — link-checked. 34 of 38 references are live; 1 was fixed with an archive link; 3 are flagged inline as dead (one, reference 4, backs several currently-unsourced footnotes — don't lean on those specific claims until a replacement is found).
+- `gem...md` — link-checked. 23 of 25 references are live; 2 Medium links are inconclusive (bot-blocked, not confirmed dead). Separately, this file has an inline-citation-numbering integrity problem (see its findings section above) that a future pass should address — don't treat it as fully clean the way `gpt...md` is.
+- `copilot...md` — confirmed not a duplicate, and confirmed not to need per-claim sourcing (it's an original question bank, not a research synthesis). One uncited "the literature" appeal is now flagged inline as synthesis, not fact.
+- Two of the two proprietary worksheets (`Product Manager Assessment - December 11, 2021.csv`, `AI Product Management Assessment.md`) need no citation work, as noted above.
+- Spot-check any individual link again before leaning on it heavily years from now — URLs do move, and this audit reflects link state as of when each pass was run, not a permanent guarantee.

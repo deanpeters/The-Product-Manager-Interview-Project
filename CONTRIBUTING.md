@@ -15,7 +15,7 @@ This repository exists to test **product judgment in context**, not framework re
 - Give an interviewer neutral probes, strong-evidence and warning-sign markers, and scoring anchors — not just a clever question
 - Leave the interviewer with better judgment about the candidate, not just a transcript
 
-**The most common contribution mistake:** writing a question that's fun to ask but has no real scoring signal behind it. A market-sizing puzzle or an open-ended "design an X" prompt might feel clever; without a defensible rubric it belongs in `Questions/legacy/`, not the active bank. See [`docs/MODERNIZATION-PLAN.md`](docs/MODERNIZATION-PLAN.md)'s Question Design Standard for what to avoid.
+**The most common contribution mistake:** writing a question that's fun to ask but has no real scoring signal behind it. A market-sizing puzzle or an open-ended "design an X" prompt might feel clever; without a defensible rubric it belongs outside the active bank. If the prompt is really about decomposing a system, modeling an unfamiliar domain, or learning from precedents, it may belong in [`Questions/systems-thinking/`](Questions/systems-thinking/) as a candidate exercise; see [`docs/systems-thinking-exercises.md`](docs/systems-thinking-exercises.md).
 
 ---
 
@@ -192,8 +192,8 @@ Your card should pass these checks:
 ## Editing An Existing Card
 
 - Keep changes focused on the specific problem you're fixing. Don't use a small fix as an excuse to rewrite the whole card.
-- If you're moving a card between `Questions/` type folders (e.g., promoting something out of `legacy/`), update `docs/question-bank-triage.md` and `docs/question-index.md` to match, and explain why in your PR description.
-- Never silently delete historical material. If a question should be retired, propose moving it to `Questions/legacy/` with a short context note instead, per `AGENTS.md`.
+- If you're moving a card between `Questions/` type folders (e.g., promoting something out of `systems-thinking/`), update `docs/question-bank-triage.md` and `docs/question-index.md` to match, and explain why in your PR description.
+- Never silently delete historical material. If a question should leave the active bank, propose moving it to `Questions/systems-thinking/` only when it has a real problem-breakdown purpose; otherwise label it as background context in the relevant doc, per `AGENTS.md`.
 
 ---
 
@@ -218,7 +218,7 @@ Your card should pass these checks:
 ## What We Won't Accept
 
 - Questions about protected characteristics, personal circumstances, cultural conformity, or an arbitrary preferred background
-- Brainteasers, market-sizing puzzles, or abstract design exercises without a defensible scoring rubric (see [`Questions/legacy/`](Questions/legacy/) for examples that didn't clear this bar)
+- Brainteasers, market-sizing puzzles, or abstract design exercises without a defensible scoring rubric (see [`Questions/systems-thinking/`](Questions/systems-thinking/) for examples that need a stronger systems-thinking rubric before active use)
 - Company-specific or product-specific trivia
 - Duplicate content — check [`docs/question-index.md`](docs/question-index.md) first
 - Self-promotion or copyrighted content submitted without permission

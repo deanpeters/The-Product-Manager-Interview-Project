@@ -1,4 +1,4 @@
-> **Legacy material.** Preserved for historical context, not recommended as a standalone hiring signal — see [`docs/question-bank-triage.md`](../../docs/question-bank-triage.md). This is an open-ended product-design brainstorm without real constraints or a defensible scoring rubric; use it only if you have established a specific, scoreable purpose for it.
+> **Systems-thinking candidate.** Preserved as raw material for a future problem-breakdown exercise — see [`docs/systems-thinking-exercises.md`](../../docs/systems-thinking-exercises.md) and [`docs/question-bank-triage.md`](../../docs/question-bank-triage.md). In its current form, this is still an open-ended product-design brainstorm without enough constraints or scoring anchors for active hiring use. Its future value is in mapping the vending-machine system: actors, incentives, supply, operations, payment, data, replenishment, regulation, and useful precedents.
 
 # Vending Machine Innovations
 > "Design a vending machine 2.0.  What are some big, innovative changes you can bring to vending machines and the vending machine industry to really disrupt the market"
@@ -35,4 +35,3 @@
 * Shannon derived this from classic Microsoft/Google questions of "Design an X".  I'm sure others have asked the same thing before - not revolutionary, but as with most questions, it's the journey that matters.
 
 ## Additional Reading
-

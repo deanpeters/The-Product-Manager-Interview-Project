@@ -34,7 +34,7 @@ Questions/
   judgment/                       Trade-offs, ethics, ambiguity, decisions
   method/                         Targeted execution or craft questions
   ai/                             Optional AI-competency layer (domain-based; added later as AI traffic grew)
-  legacy/                         Preserved historical prompts, clearly labelled
+  systems-thinking/               Problem breakdown, systems mapping, and Precedents Thinking candidates
 ```
 
 Each current question should eventually become a complete interview card, not merely a prompt. The card should contain:
@@ -70,8 +70,8 @@ Avoid using as primary assessment:
 Do not delete the old questions merely because they are dated. They document the project's original shape and may still be useful as teaching examples or secondary exercises.
 
 - Keep and rewrite the strongest behavior-oriented prompts first: building trust with a new team, responding to paradigm shifts, and distinguishing vanity metrics from actionable metrics.
-- Move broad design prompts and estimation puzzles into `Questions/legacy/` unless a future rubric establishes a specific, defensible use for them.
-- Label retained legacy prompts clearly: historical material, not recommended as a standalone hiring signal.
+- Move broad design prompts and estimation puzzles into `Questions/systems-thinking/` only when their real value is problem breakdown, systems mapping, estimation-as-modeling, or Precedents Thinking. Otherwise, leave them as background context rather than active interview material.
+- Label retained systems-thinking candidates clearly: useful for future exercise design, not recommended as standalone hiring signals until rewritten with a defensible rubric.
 - Replace the current boilerplate with the interview-card template before adding new questions.
 
 ## Phased Work
@@ -87,7 +87,7 @@ Do not delete the old questions merely because they are dated. They document the
 
 1. ~~Tag every existing prompt as retain-and-rewrite, legacy, or retire.~~ See [question-bank-triage.md](question-bank-triage.md).
 2. ~~Rewrite the three strongest retained prompts as exemplar interview cards.~~ Building Trust, Seismic Paradigm Shifts, Vanity Metrics.
-3. ~~Move legacy material without changing its historical text, adding a short context note where needed.~~ See `Questions/legacy/`.
+3. ~~Move historical material without changing its original text, adding a short context note where needed.~~ Later refined: these two prompts now live in `Questions/systems-thinking/` because their best future use is problem breakdown and systems modeling.
 4. ~~Add an index so contributors can find questions by competency and type.~~ See [question-index.md](question-index.md).
 
 The two remaining retained prompts (Alarm Clock for the Blind, Technical Sizing Sanity Check) were also rewritten into full cards, beyond the plan's original three-exemplar minimum.
@@ -101,7 +101,7 @@ The two remaining retained prompts (Alarm Clock for the Blind, Technical Sizing 
 
 A further pass added a 4-level pressure taxonomy (`constructive`/`skeptical`/`resistant`/`hostile-room`, adapted from a private adversarial-review tool with an explicit Candidate Safety Cap since a real candidate hasn't consented to adversarial rehearsal) and [interviewer-voices.md](interviewer-voices.md), four named interviewer personas built on those levels — see [evidence-and-pressure-standard.md](evidence-and-pressure-standard.md).
 
-The original 12 AI-competency cards were then moved from `judgment/`/`method/` into a new `Questions/ai/` folder, a peer to `behavioral/`/`situational/`/`judgment/`/`method/` rather than nested inside them — anticipating that AI-specific questions will see disproportionately frequent traffic and may eventually warrant splitting into their own repository as the AI-PM discipline stabilizes. `ai/` is domain-based, not format-based (each card still records its own Type internally) — the same kind of exception `legacy/` already was. The folder grew to 18 cards after a later mining pass — see the Phase 3 history above.
+The original 12 AI-competency cards were then moved from `judgment/`/`method/` into a new `Questions/ai/` folder, a peer to `behavioral/`/`situational/`/`judgment/`/`method/` rather than nested inside them — anticipating that AI-specific questions will see disproportionately frequent traffic and may eventually warrant splitting into their own repository as the AI-PM discipline stabilizes. `ai/` is domain-based, not format-based (each card still records its own Type internally). The folder grew to 18 cards after a later mining pass — see the Phase 3 history above. `Questions/systems-thinking/` is now the other domain-style exception: not active cards, but a deliberate lane for problem-breakdown, systems-mapping, and Precedents Thinking exercises.
 
 ### Phase 4: Publish With Provenance — Done
 

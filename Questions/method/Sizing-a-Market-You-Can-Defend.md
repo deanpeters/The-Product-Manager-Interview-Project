@@ -14,7 +14,7 @@ Method
 
 ## Why This Matters
 
-Unlike a generic "how many pianos are in this building" estimation puzzle — see [`Questions/legacy/Number-of-Pianos.md`](../legacy/Number-of-Pianos.md), which tests general Fermi-estimation reasoning rather than real market-sizing method — this card tests whether a candidate can actually build a defensible market model: bottom-up per segment, not a top-down percentage of a big number, with sourced inputs and honest uncertainty. This is the "future rubric" earlier flagged in [`docs/question-bank-triage.md`](../../docs/question-bank-triage.md) as the condition for bringing a market-sizing exercise back into active use.
+Unlike a generic "how many pianos are in this building" estimation puzzle — see [`Questions/systems-thinking/Number-of-Pianos.md`](../systems-thinking/Number-of-Pianos.md), which is now treated as an estimation-as-modeling candidate rather than a market-sizing method card — this card tests whether a candidate can actually build a defensible market model: bottom-up per segment, not a top-down percentage of a big number, with sourced inputs and honest uncertainty. This is the "future rubric" earlier flagged in [`docs/question-bank-triage.md`](../../docs/question-bank-triage.md) as the condition for bringing a market-sizing exercise back into active use.
 
 ## Neutral Follow-Up Probes
 

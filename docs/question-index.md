@@ -4,7 +4,7 @@
 
 Find a question by type, core competency, AI competency, or people-management competency. See [competency-model.md](competency-model.md), [ai-competency-model.md](ai-competency-model.md), and [people-management-competency.md](people-management-competency.md) for what each competency means, [question-bank-triage.md](question-bank-triage.md) for how each file was categorized, and [core-interview-loop.md](core-interview-loop.md) for how these 58 active cards assemble into a runnable interview loop.
 
-All active cards below are **(rewritten)** — they follow the full interview-card structure in [`Questions/Interview Question Boilerplate.md`](../Questions/Interview%20Question%20Boilerplate.md). Legacy cards are preserved as historical material and are not part of the active bank. The twelve AI-competency cards and four people-management cards are optional layers — only use them for roles where they're genuinely relevant; see [ai-competency-model.md](ai-competency-model.md) and [people-management-competency.md](people-management-competency.md).
+All active cards below are **(rewritten)** — they follow the full interview-card structure in [`Questions/Interview Question Boilerplate.md`](../Questions/Interview%20Question%20Boilerplate.md). Systems-thinking candidates are preserved separately and are not part of the active bank until rewritten as full cards. The 18 AI-competency cards and four people-management cards are optional layers — only use them for roles where they're genuinely relevant; see [ai-competency-model.md](ai-competency-model.md), [people-management-competency.md](people-management-competency.md), and [systems-thinking-exercises.md](systems-thinking-exercises.md).
 
 ## By Type
 
@@ -88,10 +88,13 @@ All active cards below are **(rewritten)** — they follow the full interview-ca
 - [Getting a Room Full of Strangers to Care](../Questions/people-management/Getting-a-Room-Full-of-Strangers-to-Care.md) — Behavioral
 - [Leading Through a Bad Quarter](../Questions/people-management/Leading-Through-a-Bad-Quarter.md) — Behavioral
 
-### Legacy — Historical prompts, not a standalone hiring signal
+### Systems Thinking Candidates — Problem breakdown exercises, not active cards
 
-- [Vending Machine Innovations](../Questions/legacy/ProductDesign-VendingMachine.md)
-- [Number of Pianos at the ECU School of Music](../Questions/legacy/Number-of-Pianos.md)
+- [Map the Ecosystem](../Questions/systems-thinking/Map-the-Ecosystem.md)
+- [The Precedent That Transfers](../Questions/systems-thinking/The-Precedent-That-Transfers.md)
+- [One Fix, Three Side Effects](../Questions/systems-thinking/One-Fix-Three-Side-Effects.md)
+- [Vending Machine Innovations](../Questions/systems-thinking/ProductDesign-VendingMachine.md)
+- [Number of Pianos at the ECU School of Music](../Questions/systems-thinking/Number-of-Pianos.md)
 
 ## By Core Competency
 

@@ -19,8 +19,8 @@ Before editing, inspect:
 ## Repository Shape (for a new agent picking this up cold)
 
 - `Questions/behavioral/`, `situational/`, `judgment/`, `method/` — format-based folders, the core (non-optional) bank.
-- `Questions/ai/` and `Questions/people-management/` — domain-based folders, peers to the format folders rather than nested inside them (the same kind of exception `Questions/legacy/` already was). Each card in these still records its own format Type internally. Both are optional layers — only relevant for AI-heavy or manager-track roles respectively; see `docs/ai-competency-model.md` and `docs/people-management-competency.md`.
-- `Questions/legacy/` — preserved historical prompts, not part of the active bank, never deleted.
+- `Questions/ai/` and `Questions/people-management/` — domain-based folders, peers to the format folders rather than nested inside them. Each card in these still records its own format Type internally. Both are optional layers — only relevant for AI-heavy or manager-track roles respectively; see `docs/ai-competency-model.md` and `docs/people-management-competency.md`.
+- `Questions/systems-thinking/` — problem-breakdown, systems-mapping, and Precedents Thinking candidates. These are not part of the active 58-card bank until rewritten as full cards; see `docs/systems-thinking-exercises.md`.
 - `docs/` — the full editorial and operational apparatus: competency models (core, AI, people-management), the scoring rubric, the evidence/pressure standard, interviewer voices, negotiation signals, the scorecard template, the core interview loop, role-loop presets, the question index, the triage history, the research audit, and this roadmap. Skim `docs/question-index.md`'s "Purpose" line for how they all connect — most docs cross-link the others rather than repeating content.
 - Every doc that states a card count (`README.md`, `docs/core-interview-loop.md`, `docs/role-loop-presets.md`, `docs/question-index.md`, `docs/question-bank-triage.md`) must be updated together whenever a card is added, moved, or retired — they're expected to agree. Run the relative-link check described in Verification below before committing, since a missed rename or move breaks a link silently otherwise.
 
@@ -54,7 +54,7 @@ Avoid using brainteasers, abstract design exercises, and market-sizing puzzles a
 
 ## Repository Care
 
-- Preserve historical questions; move or label them as legacy instead of deleting them without explicit direction.
+- Preserve historical questions; move or label them as systems-thinking candidates or background context instead of deleting them without explicit direction.
 - Keep changes focused. Do not rewrite the full bank in a cosmetic pass.
 - Keep Markdown readable in plain text and on GitHub.
 - Do not add dependencies, build tooling, or automation unless there is a concrete maintenance or user benefit.

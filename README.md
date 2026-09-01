@@ -18,7 +18,7 @@
   58 interview cards • 4 core rounds + 2 optional rounds • Public Preview
 ```
 
-**A ready-to-run interview toolkit that tests product judgment — not memorized frameworks, brainteasers, or a performance of confidence.**
+**A ready-to-run interview toolkit for Product Manager interviews that tests product judgment — not memorized frameworks, brainteasers, or a performance of confidence.**
 
 > **Public preview.** This toolkit hasn't been through a formal internal pilot — real usage in real interviews *is* the pilot. Try a card, report what happened, help make it better. See [Report What You Find](#report-what-you-find) below.
 
@@ -38,28 +38,34 @@ This toolkit is different in three ways:
 
 ## Get Your First Win
 
-You don't need to read the whole repository before using it. Find your situation below.
+You don't need to read the whole repository before using it. The fastest path is:
+
+1. Open the four starter cards below.
+2. Ask them as written, including the neutral follow-up probes.
+3. Capture evidence on the [scorecard template](docs/interview-scorecard-template.md) before you debrief with anyone else.
+
+That is enough to run a cleaner Product Manager interview than a loose list of favorite questions. Once that works, use the table below to tailor the loop to the role.
 
 | Your situation | Start here |
 |---|---|
 | **I'm interviewing someone soon and need questions now** | Jump to [Your First 4 Questions](#your-first-4-questions) below, or pick the closest [role-loop preset](docs/role-loop-presets.md) |
 | **I know the role but not which cards fit** | Browse [`docs/question-index.md`](docs/question-index.md) by type or competency |
 | **I'm hiring across a full loop with multiple interviewers** | Use the [core interview loop](docs/core-interview-loop.md) — assign one round per interviewer |
-| **I'm hiring an AI-focused PM** | Read [`docs/ai-competency-model.md`](docs/ai-competency-model.md), then add the optional AI round from the [AI Product PM preset](docs/role-loop-presets.md#preset-ai-product-pm) |
+| **I'm hiring an AI-focused Product Manager** | Read [`docs/ai-competency-model.md`](docs/ai-competency-model.md), then add the optional AI round from the [AI Product PM preset](docs/role-loop-presets.md#preset-ai-product-pm) |
 | **I'm hiring a Director or VP** | Use the [Director/VP preset](docs/role-loop-presets.md#preset-director--vp-level-any-domain) layered on top of the domain preset that fits — add the optional [people-management round](docs/people-management-competency.md) only if the role actually manages other PMs |
 | **I want to understand the philosophy before I touch anything** | Read [`docs/MODERNIZATION-PLAN.md`](docs/MODERNIZATION-PLAN.md) and [`AGENTS.md`](AGENTS.md) |
 | **I tried a card and something felt off** | See [Report What You Find](#report-what-you-find) below |
 
 ### Your First 4 Questions
 
-No preset, no setup — four cards you can ask in your very next interview, one from each core round:
+No preset, no setup — start with one card from each core round:
 
 1. **[The Feature That Wasn't the Problem](Questions/behavioral/Feature-That-Wasnt-The-Problem.md)** (Customer Understanding) — tests whether a candidate separates a stakeholder's request from the real underlying problem.
 2. **[Deciding Before You're Certain](Questions/judgment/Deciding-Before-Youre-Certain.md)** (Product Judgment) — tests how they reason under incomplete information.
 3. **[Influence Without Authority](Questions/behavioral/Influence-Without-Authority.md)** (Collaboration) — tests how they get things done through people they don't manage.
 4. **[A Decision You Got Wrong](Questions/behavioral/A-Decision-You-Got-Wrong.md)** (Self-Awareness) — tests real ownership, not a rehearsed success story.
 
-Ask each question as written, use its neutral follow-up probes, and log evidence on the [scorecard template](docs/interview-scorecard-template.md) as you go. That's it — you're running a structured interview.
+Each card already includes why the question matters, what to listen for, warning signs, neutral probes, and 1-5 scoring anchors. Ask fewer questions and go deeper; the signal is in the follow-up evidence, not in racing through the bank.
 
 ---
 
@@ -86,10 +92,10 @@ Questions/
   method/        Targeted craft or execution questions
   ai/            Optional AI-competency layer, AI-heavy roles only (domain-based, not format-based)
   people-management/  Optional layer for manager-track roles only (domain-based, not format-based)
-  legacy/        Historical prompts retained for context, not a standalone hiring signal
+  systems-thinking/  Problem breakdown, systems mapping, and Precedents Thinking candidates
 ```
 
-All 58 active cards follow the full interview-card structure (question, type, competencies assessed, why it matters, neutral probes, strong evidence, warning signs, scoring anchors) described in [`docs/MODERNIZATION-PLAN.md`](docs/MODERNIZATION-PLAN.md) and the [interview-card template](Questions/Interview%20Question%20Boilerplate.md). See [`docs/question-index.md`](docs/question-index.md) to find one by type or competency, and [`docs/question-bank-triage.md`](docs/question-bank-triage.md) for how each file was categorized, including the two moved to `Questions/legacy/`.
+All 58 active cards follow the full interview-card structure (question, type, competencies assessed, why it matters, neutral probes, strong evidence, warning signs, scoring anchors) described in [`docs/MODERNIZATION-PLAN.md`](docs/MODERNIZATION-PLAN.md) and the [interview-card template](Questions/Interview%20Question%20Boilerplate.md). See [`docs/question-index.md`](docs/question-index.md) to find one by type or competency, and [`docs/question-bank-triage.md`](docs/question-bank-triage.md) for how each file was categorized. `Questions/systems-thinking/` holds five problem-breakdown exercise candidates, including three newer cards on ecosystem mapping, Precedents Thinking, and second-order effects; see [`docs/systems-thinking-exercises.md`](docs/systems-thinking-exercises.md).
 
 The research that informed the refresh is in [`Research/`](Research/). It is working material, not yet a publication-ready bibliography — see [`docs/research-audit.md`](docs/research-audit.md) for what still needs citation cleanup before any of it is repeated as fact in public guidance.
 
@@ -107,7 +113,7 @@ Contributions should make an interviewer more consistent and a candidate experie
 - Explain the competency the question assesses and why it belongs in the process.
 - Provide neutral follow-ups and a clear basis for scoring.
 - Avoid prompts that depend on trivia, protected characteristics, or conformity to a particular personal style or background.
-- Preserve and clearly label legacy material rather than silently removing project history.
+- Preserve historical material and clearly label whether it is an active card, a systems-thinking candidate, or background context.
 
 The editorial contract for future work lives in [AGENTS.md](AGENTS.md).
 

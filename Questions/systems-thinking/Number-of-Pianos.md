@@ -1,4 +1,4 @@
-> **Legacy material.** Preserved for historical context, not recommended as a standalone hiring signal — see [`docs/question-bank-triage.md`](../../docs/question-bank-triage.md). This is a market-sizing/estimation puzzle; use it only where quantitative estimation is genuinely central to the role.
+> **Systems-thinking candidate.** Preserved as raw material for a future estimation-as-modeling exercise — see [`docs/systems-thinking-exercises.md`](../../docs/systems-thinking-exercises.md) and [`docs/question-bank-triage.md`](../../docs/question-bank-triage.md). In its current form, this is not an active interview card. Its future value is in watching how someone decomposes an unfamiliar facility system, names assumptions, identifies missing information, and tests whether the model is useful for a real product or operational decision.
 
 # Number of Pianos at the ECU School of Music
 > How many pianos are physically located at the East Carolina School of Music? Walk us through the steps.

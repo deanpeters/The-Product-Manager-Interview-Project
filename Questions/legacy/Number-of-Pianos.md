@@ -1,3 +1,5 @@
+> **Legacy material.** Preserved for historical context, not recommended as a standalone hiring signal — see [`docs/question-bank-triage.md`](../../docs/question-bank-triage.md). This is a market-sizing/estimation puzzle; use it only where quantitative estimation is genuinely central to the role.
+
 # Number of Pianos at the ECU School of Music
 > How many pianos are physically located at the East Carolina School of Music? Walk us through the steps.
 

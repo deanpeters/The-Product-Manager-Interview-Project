@@ -1,3 +1,5 @@
+> **Legacy material.** Preserved for historical context, not recommended as a standalone hiring signal — see [`docs/question-bank-triage.md`](../../docs/question-bank-triage.md). This is an open-ended product-design brainstorm without real constraints or a defensible scoring rubric; use it only if you have established a specific, scoreable purpose for it.
+
 # Vending Machine Innovations
 > "Design a vending machine 2.0.  What are some big, innovative changes you can bring to vending machines and the vending machine industry to really disrupt the market"
 

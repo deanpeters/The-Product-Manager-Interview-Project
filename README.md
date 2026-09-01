@@ -1,45 +1,67 @@
-# The-Product-Manager-Interview-Project
+# The Product Manager Interview Project
 
-Inspired out of a conversation on hiring product managers in the [Triangle Area Product Slack room](triproduct.slack.com), we're hoping this project provides the product management community a useful enumeration of community qualified interview questions and exercises.
+A practical, open collection for running better Product Manager interviews.
 
-## How it works
+This repository is being updated from a flat catalogue of prompts into a structured interview toolkit. The focus is product judgment in context: how someone understands customers, makes decisions with incomplete information, works through trade-offs, collaborates, learns, and delivers outcomes.
 
-The idea here is to treat questions and exercises like code. Here's how ... at least for now:
+It is not designed to reward memorized frameworks, brainteasers, or a performance of confidence.
 
-1. Create directories for questions and exercises
-2. Focus first on questions for the first few iterations
-3. Submit all questions as .md files, using the [Github markdown format](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
-4. Treat question submissions like code by:
-  * Leveraging the Github [pull request process](https://help.github.com/articles/reviewing-changes-in-pull-requests/) for reviewing submissions
-  * Encouraging community conversations to determine whether or not a question should be accepted, rejected, or modified
-5. Once we know what we're doing with interview questions, explore and expand an exercises directory
+## Start Here
 
-## Rules of the Road
+If you are running an interview, use the project in this order:
 
-* Let's not spam each other, instead impress us with question contributions and code-review participation.
-* Avoid using copyrighted material, but alway feel free to over-attribute or over-artifact submissions with copious linkage .
-* Let's strive for questions of high value to the interviewer, candidate, or both. 
-* Avoid questions that have little or nothing to do with product managment (i.e., what's your greatest weakness?).
-* Use this as an opportunity to learn Github. Meaning, kvetching about the tools we're using will likely be ignored.
-* Make mistakes, and don't jump ugly with others when they do. We're still nudging this process towards perfection.
-* Share what you've learned, either through awesome errors or cool tools you've discovered along the way.
-* Have fun! The interview process is hard enough for all of us on all sides of the operation.
+1. Read the [modernization plan](docs/MODERNIZATION-PLAN.md) to understand the direction and what is still being built.
+2. Use the [core interview loop](docs/core-interview-loop.md) — a ready-to-run 14-question core bank organized into four interviewer rounds — or select individual questions from [`docs/question-index.md`](docs/question-index.md) that match the role and the decisions the person will need to make.
+3. Ask the same core questions consistently across comparable candidates.
+4. Use neutral follow-ups to understand the candidate's specific contribution, reasoning, evidence, and learning.
+5. Record evidence before assigning a score. Score against the [shared rubric](docs/scoring-rubric.md) rather than an overall impression.
 
-## Useful URLs
+See [`docs/structured-interview-guide.md`](docs/structured-interview-guide.md) for the full process — assembling a loop, running each interview, and debriefing.
 
-* [How to prepare for a product management interview at Google](http://bit.ly/product-school_google-pm-interview-prep)
-* [The Ultimate Guide to Product Manager Interview Questions](http://bit.ly/ultimate-pm-interview-guide)
-* [Ken Norton's classic "How to Hire a Product Manager"](http://bit.ly/ken-norton-how2hire-pms)
-* [Virtual PM Interview Practice tool](http://bit.ly/pm-interview-practice)
+## What We Assess
 
-## Cool Tools
-* [Dillinger.io](http://dillinger.io/) an online Markdown Editor so you can see you work
-* [PanDoc](http://pandoc.org/) a command-line tool that convert files from one  format into another, including Word (.DOCX) to Markdown (.MD) and back.
+A strong Product Manager interview normally looks for evidence across several areas:
 
-## Books 
-* [Cracking the PM Interview: How to Land a Product Manager Job in Technology](http://bit.ly/cracking-pm-interview-book)
-* [User Story Mapping: Discover the Whole Story, Build the Right Product](http://bit.ly/the-user-story-mapping-book)
-* [PM Interview Workbook: Over 160 Problems and Solutions for Product Management Interview Questions](http://bit.ly/pm-interview-workbook-book)
-* [The Product Manager's Survival Guide: Everything You Need to Know to Succeed as a Product Manager](http://bit.ly/pm-survival-guide-book)
-* [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](http://bit.ly/the-lean-startup-book-link)
-* [The Innovator's Dilemma: The Revolutionary Book That Will Change the Way You Do Business ](http://bit.ly/innovators-dilemma-book-link)
+- Customer understanding and discovery
+- Product judgment, strategy, and prioritization
+- Metrics, outcomes, and learning
+- Delivery, execution, and ownership
+- Influence, collaboration, and communication
+- Ethics, self-awareness, and responsible decision-making
+
+No single question can assess all of these well. Use a short, deliberate interview loop with clear ownership across interviewers.
+
+## Repository Status
+
+The [`Questions/`](Questions/) directory is now organized by type:
+
+```text
+Questions/
+  behavioral/    Past-work evidence
+  situational/   Judgment in a realistic future scenario
+  judgment/      Trade-offs, ambiguity, and responsible decisions
+  method/        Targeted craft or execution questions
+  legacy/        Historical prompts retained for context, not a standalone hiring signal
+```
+
+All 14 active cards follow the full interview-card structure (question, type, competencies assessed, why it matters, neutral probes, strong evidence, warning signs, scoring anchors) described in [`docs/MODERNIZATION-PLAN.md`](docs/MODERNIZATION-PLAN.md) and the [interview-card template](Questions/Interview%20Question%20Boilerplate.md). See [`docs/question-index.md`](docs/question-index.md) to find one by type or competency, and [`docs/question-bank-triage.md`](docs/question-bank-triage.md) for how each file was categorized, including the two moved to `Questions/legacy/`.
+
+The research that informed the refresh is in [`Research/`](Research/). It is working material, not yet a publication-ready bibliography — see [`docs/research-audit.md`](docs/research-audit.md) for what still needs citation cleanup before any of it is repeated as fact in public guidance.
+
+See [`docs/competency-model.md`](docs/competency-model.md), [`docs/scoring-rubric.md`](docs/scoring-rubric.md), and [`docs/structured-interview-guide.md`](docs/structured-interview-guide.md) for what to assess, how to score it, and how to run the loop.
+
+## Contributing
+
+Contributions should make an interviewer more consistent and a candidate experience more respectful. See [`CONTRIBUTING.md`](CONTRIBUTING.md) for the full process — how to add or edit a question, what review criteria apply, and how to contribute research responsibly.
+
+- Propose questions that elicit evidence, context, decisions, and learning.
+- Explain the competency the question assesses and why it belongs in the process.
+- Provide neutral follow-ups and a clear basis for scoring.
+- Avoid prompts that depend on trivia, protected characteristics, or conformity to a particular personal style or background.
+- Preserve and clearly label legacy material rather than silently removing project history.
+
+The editorial contract for future work lives in [AGENTS.md](AGENTS.md).
+
+## Scope
+
+This is an interviewing aid, not legal guidance or a substitute for interviewer training, a thoughtfully designed hiring process, or human judgment.

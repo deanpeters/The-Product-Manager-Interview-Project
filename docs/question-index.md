@@ -93,8 +93,8 @@ All active cards below are **(rewritten)** — they follow the full interview-ca
 - [Map the Ecosystem](../Questions/systems-thinking/Map-the-Ecosystem.md)
 - [The Precedent That Transfers](../Questions/systems-thinking/The-Precedent-That-Transfers.md)
 - [One Fix, Three Side Effects](../Questions/systems-thinking/One-Fix-Three-Side-Effects.md)
-- [Vending Machine Innovations](../Questions/systems-thinking/ProductDesign-VendingMachine.md)
-- [Number of Pianos at the ECU School of Music](../Questions/systems-thinking/Number-of-Pianos.md)
+- [Map the Vending Machine System](../Questions/systems-thinking/ProductDesign-VendingMachine.md)
+- [Model the Facility Before You Count](../Questions/systems-thinking/Number-of-Pianos.md)
 
 ## By Core Competency
 

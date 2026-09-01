@@ -20,15 +20,15 @@ Dispositions:
 | `Vanity-Analytics_vs_Action-Metrics.md` | Vanity metrics vs. actionable analytics | Judgment / Method | **Retain & rewrite (exemplar)** | Named explicitly in the plan. Clear, well-sourced rubric (Actionable/Accessible/Auditable) and directly assesses Metrics, Outcomes, And Learning — a named competency. Already has real attributions to rework into the new card format. |
 | `AlarmClock-Design4Blind.md` | Designing an alarm clock for blind users | Situational | **Retain & rewrite** | Unlike the vending-machine prompt, this has real constraints (accessibility, a specific user) and a rubric centered on discovery questions before design — it primarily tests Customer Understanding And Discovery, not open-ended ideation. Rewrite to foreground the discovery-question behavior as the pass/fail signal, per `AGENTS.md`'s caution on abstract design exercises. |
 | `technicalSizing.01.md` | Sanity-checking engineering size estimates | Method | **Retain & rewrite** | Narrow, has a clear rubric and a specific defensible use (engineer-run technical sanity check), which is exactly the exception `AGENTS.md` allows for craft/execution questions. Keep as a `method/` card; note in Role/Level Notes that it's best run by or with an engineer. |
-| `ProductDesign-VendingMachine.md` | Open-ended "disrupt the vending machine industry" ideation | Systems Thinking | **Systems-thinking candidate** | Abstract product-design brainstorm without real constraints or a scoring rubric beyond "broad/deep/excited" — not active-card ready, but useful raw material for a future exercise about mapping the vending-machine ecosystem, actors, incentives, operations, data flows, and possible precedents. |
-| `Number-of-Pianos.md` | Market-sizing / estimation puzzle | Systems Thinking | **Systems-thinking candidate** | Classic estimation puzzle. Not active-card ready as a hiring signal, but useful raw material for a future estimation-as-modeling exercise about decomposing an unfamiliar facility system, surfacing assumptions, and connecting the model to a real product or operational decision. |
+| `ProductDesign-VendingMachine.md` | Mapping the vending-machine ecosystem before proposing interventions | Systems Thinking | **Systems-thinking candidate** | Reframed from the original open-ended "disrupt the vending machine industry" prompt into a systems-thinking card about actors, incentives, constraints, flows, precedents, and intervention points. |
+| `Number-of-Pianos.md` | Modeling a facility system before estimating inventory | Systems Thinking | **Systems-thinking candidate** | Reframed from the original counting puzzle into an estimation-as-modeling card about decomposing an unfamiliar facility system, surfacing assumptions, validating the model, and tying the estimate to a real product or operational decision. |
 | `Interview Question Boilerplate.md` | N/A — template, not a question | — | **N/A (template)** | Already replaced with the interview-card template in this pass; not part of the question bank triage. |
 
 ## Summary
 
 - **3 exemplars** to rewrite first: Building Trust, Seismic Paradigm Shifts, Vanity Metrics.
 - **2 additional active rewrites**: Alarm Clock for the Blind, Technical Sizing Sanity Check.
-- **5 systems-thinking candidates**: Map the Ecosystem, The Precedent That Transfers, One Fix Three Side Effects, Vending Machine, Number of Pianos.
+- **5 systems-thinking candidates**: Map the Ecosystem, The Precedent That Transfers, One Fix Three Side Effects, Map the Vending Machine System, Model the Facility Before You Count.
 - **0 retirements.**
 
 ## Next Steps
@@ -64,4 +64,4 @@ A final six cards ([Which Customer Said This?](../Questions/ai/Which-Customer-Sa
 
 The active bank is now 58 cards (36 core + 18 optional AI-competency + 4 optional people-management).
 
-This table should be updated if a disposition changes — e.g., if a specific systems-thinking rubric is later developed that would justify moving `Number-of-Pianos.md` or `ProductDesign-VendingMachine.md` into active use.
+This table should be updated if a disposition changes — e.g., if a promotion decision later moves `Number-of-Pianos.md` or `ProductDesign-VendingMachine.md` into the active bank and updates the core-loop count.

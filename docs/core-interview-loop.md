@@ -2,13 +2,13 @@
 
 ## Purpose
 
-A stable, 34-question core bank and a suggested loop structure for running it — the "usable core loop" called for in [MODERNIZATION-PLAN.md](MODERNIZATION-PLAN.md) Phase 3. Pairs with [competency-model.md](competency-model.md) (what to assess), [ai-competency-model.md](ai-competency-model.md) (the optional AI-specific layer), [scoring-rubric.md](scoring-rubric.md) (how to score it), [evidence-and-pressure-standard.md](evidence-and-pressure-standard.md) (how to grade the evidence in an answer and, for senior candidates, how to apply pressure responsibly), [interviewer-voices.md](interviewer-voices.md) (optional named personas for a consistent round style), [interview-scorecard-template.md](interview-scorecard-template.md) (the fillable worksheet an interviewer actually uses during a round), and [structured-interview-guide.md](structured-interview-guide.md) (how to run any interview in the loop). See [question-index.md](question-index.md) for the full catalogue, including legacy material not part of this core set.
+A stable, 40-question core bank and a suggested loop structure for running it — the "usable core loop" called for in [MODERNIZATION-PLAN.md](MODERNIZATION-PLAN.md) Phase 3. Pairs with [competency-model.md](competency-model.md) (what to assess), [ai-competency-model.md](ai-competency-model.md) (the optional AI-specific layer), [scoring-rubric.md](scoring-rubric.md) (how to score it), [evidence-and-pressure-standard.md](evidence-and-pressure-standard.md) (how to grade the evidence in an answer and, for senior candidates, how to apply pressure responsibly), [interviewer-voices.md](interviewer-voices.md) (optional named personas for a consistent round style), [interview-scorecard-template.md](interview-scorecard-template.md) (the fillable worksheet an interviewer actually uses during a round), and [structured-interview-guide.md](structured-interview-guide.md) (how to run any interview in the loop). See [question-index.md](question-index.md) for the full catalogue, including legacy material not part of this core set.
 
-The original 14 cards draw on the research synthesis in [`Research/gpt.pm-interview-and-behavioral-questions.md`](../Research/gpt.pm-interview-and-behavioral-questions.md). Six more were added, adapted from decision-review and competitive-intelligence practice used elsewhere in this project owner's tooling. Ten AI-specific cards were added next, adapted from [`Research/AI Product Management Assessment.md`](../Research/AI%20Product%20Management%20Assessment.md). A final four cards were added last — a defensible market-sizing method, a premortem risk exercise, and two more AI cards (agentic-system governance, external risk scanning) — each adapted from a distinct external source; see each card's Attributions section for specifics. All thirty-four were written originally for this project, not copied from any source.
+The original 14 cards draw on the research synthesis in [`Research/gpt.pm-interview-and-behavioral-questions.md`](../Research/gpt.pm-interview-and-behavioral-questions.md). Six more were added, adapted from decision-review and competitive-intelligence practice used elsewhere in this project owner's tooling. Ten AI-specific cards were added next, adapted from [`Research/AI Product Management Assessment.md`](../Research/AI%20Product%20Management%20Assessment.md). Four more cards followed — a defensible market-sizing method, a premortem risk exercise, and two more AI cards (agentic-system governance, external risk scanning). A final six cards were added from *The Dangerous Animals of Product Management* (Productboard, in partnership with Dean Peters, 2022) and its companion 2021 ProductCamp talk — real, publicly published stakeholder-pressure archetypes (HiPPO, RHiNO, ZEbRA, WoLF, Seagull Manager, CoBRA), each grounded in a real named case study; see each card's Attributions section for specifics. All forty were written originally for this project, not copied from any source.
 
-## Do Not Ask All 34 In One Interview
+## Do Not Ask All 40 In One Interview
 
-34 questions is the size of the *bank*, not of any one conversation. A single interviewer should ask roughly 3-4 questions in a 45-60 minute slot, chosen from the group they own below, and go deep with follow-up probes rather than rushing through more questions shallowly.
+40 questions is the size of the *bank*, not of any one conversation. A single interviewer should ask roughly 3-4 questions in a 45-60 minute slot, chosen from the group they own below, and go deep with follow-up probes rather than rushing through more questions shallowly.
 
 ## The Core Bank By Round
 
@@ -20,6 +20,7 @@ Owns: does the candidate get curious before getting clever?
 - [Designing for a Constraint You Don't Share](../Questions/situational/AlarmClock-Design4Blind.md) — Situational
 - [The Loaded Ask](../Questions/situational/The-Loaded-Ask.md) — Situational
 - [A Critique You'd Stand Behind](../Questions/judgment/A-Critique-Youd-Stand-Behind.md) — Judgment
+- [The One Deal That Needs One Feature](../Questions/situational/The-One-Deal-That-Needs-One-Feature.md) — Situational
 - [Assumptions Worth Testing First](../Questions/judgment/Assumptions-Worth-Testing-First.md) — Judgment *(also relevant to Round 2; pick whichever round has room)*
 
 ### Round 2 — Product Judgment, Strategy, And Prioritization / Metrics, Outcomes, And Learning
@@ -47,7 +48,13 @@ Owns: can the candidate get things done through people they don't manage, and se
 - [Influence Without Authority](../Questions/behavioral/Influence-Without-Authority.md) — Behavioral
 - [Prepping for a Room You Don't Control](../Questions/behavioral/Prepping-for-a-Room-You-Dont-Control.md) — Behavioral
 - [Dealing with Seismic Paradigm Shifts](../Questions/behavioral/Dealing-with-Seismic-Paradigm-Shifts.md) — Behavioral
+- [Overruling the HiPPO](../Questions/situational/Overruling-the-HiPPO.md) — Situational
+- [A Confident Opinion With No Evidence](../Questions/situational/A-Confident-Opinion-With-No-Evidence.md) — Situational
+- [Negotiating the Technical-Debt Fire](../Questions/situational/Negotiating-the-Technical-Debt-Fire.md) — Situational
+- [The Weekend Code Drop](../Questions/behavioral/The-Weekend-Code-Drop.md) — Behavioral
 - [Technical Sizing Sanity Check](../Questions/method/technicalSizing.01.md) — Method *(optional add-on for technical/web-related roles; best run by or with an engineer)*
+
+This round has also grown into a large pool — pick 3-4 based on the role and the kind of stakeholder pressure it involves (a sales-heavy org might favor The One Deal That Needs One Feature in Round 1 and Overruling the HiPPO here; a platform role might favor Negotiating the Technical-Debt Fire and the technical sizing check).
 
 ### Round 4 — Ethics, Self-Awareness, And Responsible Decision-Making
 
@@ -55,8 +62,9 @@ Owns: does the candidate hold themselves accountable, and weigh user trust along
 
 - [A Decision You Got Wrong](../Questions/behavioral/A-Decision-You-Got-Wrong.md) — Behavioral
 - [When Growth Could Harm Customers](../Questions/judgment/When-Growth-Could-Harm-Customers.md) — Judgment
+- [Catching Your Own Bias](../Questions/behavioral/Catching-Your-Own-Bias.md) — Behavioral
 
-Round 4 is intentionally the shortest — go deep on these two rather than padding the round with unrelated questions borrowed from elsewhere.
+Round 4 is intentionally short — go deep on 2-3 of these rather than padding the round with unrelated questions borrowed from elsewhere.
 
 ### Round 5 — AI Product Judgment (Optional, AI-Heavy Roles Only)
 
@@ -87,7 +95,7 @@ Twelve cards for one round is deliberately more than any single interview needs 
 
 ## Coverage Note
 
-The original 14-question bank was assembled to close the gap [question-index.md](question-index.md) previously flagged: no card primarily assessed Product Judgment/Strategy/Prioritization. Round 2 now covers that directly, and heavily — it's the largest round by design, since defending a decision under scrutiny is a large part of the job at every level. The final four cards closed two more specific gaps: a genuinely defensible market-sizing method (distinct from the legacy estimation puzzle in `Questions/legacy/`) and agentic-system governance and external risk-scanning within the AI layer. If future roles surface a competency this bank underserves, add a new card to the relevant type folder and this document, rather than stretching an existing card to cover ground it wasn't designed for.
+The original 14-question bank was assembled to close the gap [question-index.md](question-index.md) previously flagged: no card primarily assessed Product Judgment/Strategy/Prioritization. Round 2 now covers that directly, and heavily — it's the largest round by design, since defending a decision under scrutiny is a large part of the job at every level. Four more cards closed two specific gaps: a genuinely defensible market-sizing method (distinct from the legacy estimation puzzle in `Questions/legacy/`) and agentic-system governance and external risk-scanning within the AI layer. The final six cards added named, real-world stakeholder-pressure scenarios to Rounds 1, 3, and 4 — a candidate's ability to handle a HiPPO, a RHiNO, a ZEbRA, or a Seagull Manager by name is exactly the kind of situational judgment a résumé can't show. If future roles surface a competency this bank underserves, add a new card to the relevant type folder and this document, rather than stretching an existing card to cover ground it wasn't designed for.
 
 ## Real-World Feedback
 

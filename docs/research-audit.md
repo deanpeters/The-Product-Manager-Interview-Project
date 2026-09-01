@@ -50,6 +50,10 @@ This is a proprietary PM self-assessment worksheet, not AI-synthesized research 
 
 Added after the pass above — another proprietary leveling framework, this one for ten AI-specific PM competencies (AI Fundamentals through AI Strategy & Competitive Advantage), each benchmarked 1-5 by role level. Same treatment as the CSV: no citation needed since it isn't making an external claim, but it should be attributed as an internal source, not a validated external standard, wherever it's used. It directly informed [`docs/ai-competency-model.md`](ai-competency-model.md), the optional AI-PM benchmark table in [`docs/interview-scorecard-template.md`](interview-scorecard-template.md), and the ten AI-competency interview cards indexed in [`docs/question-index.md`](question-index.md).
 
+### `Research/EBOOK-Dangerous-Animals-of-Product-Management.pdf` and `Research/ProductCamp-2021.Dean-Peters-Presents.Dangerous-Animals-of-Product-Management.Transcript.txt` — Publicly published, real citations used
+
+Unlike the private repos cited elsewhere in this project, these two are genuinely public works: *The Dangerous Animals of Product Management* is a Productboard publication co-authored by Dean Peters (2022), and the transcript is from Dean Peters's 2021 ProductCamp talk of the same name. Both are cited by name in the six cards adapted from them, with a link to productboard.com (the real, verifiable publisher) — no specific deep-link URL was fabricated for the ebook or talk recording itself since none was available to verify. Each card's real-world case study (JCPenney/Ron Johnson, ScaleFactor, Blockbuster/Netflix, Knight Capital, Dunkin' Donuts/Robert Rosenberg) is drawn directly from the source material, not invented.
+
 ## Recommendation
 
 All four Research files with external claims (`gpt...md`, `plex...md`, `gem...md`) plus the question-bank file (`copilot...md`) are now audited:

@@ -1,0 +1,456 @@
+ I'm going to introduce here, Dean Peters.
+ Dean, I'm excited for this one.
+ I love the way you framed this, the dangerous animals of product management, and we've all
+ been a part of that for some time.
+ So take it away.
+ It's all yours and I'll be the moderator.
+ So folks, if you have questions, feel free to put them in the chat.
+ You can hit me direct or hit everyone and we'll go from there.
+ Dean, take it away.
+ All right.
+ Thank you for that intro, Chris.
+ I'm going to hit my timer here because I certainly want to leave time for your questions and
+ welcome to the dangerous animals of product management.
+ The subtitle is the art of managing stakeholders while staying true to your product strategy.
+ So let's move forward on the deck here and please say thank you to our sponsors.
+ Visit them.
+ Okay.
+ I'm going to be handing out this deck.
+ So if you're trying to scribble and take screenshots, you don't need to because, hey, this is being
+ recorded and B, I will share this deck.
+ All righty.
+ Just a quick introduction of who this guy is in the safari hat.
+ I am an experienced agile product manager and a recovering programmer.
+ I've got about 30 years into this game, about 15 on each.
+ Wrapping up at Icoovia, just the other day, and I got a big new adventure happening on
+ July 6th.
+ So for those of you who follow me on LinkedIn, you'll get to see where my new place of employment
+ is.
+ Uh, I enjoy building great products first by building great teams.
+ Oh, and I forgot to add another bullet point there.
+ And by having great conversations, uh, I've done a lot of work over the past decade and
+ especially in the area of artificial intelligence, natural language processing, and in my spare
+ time, I try not to crash my mountain bike here on the trails here in apex, North Carolina,
+ outside of Raleigh while turning my entire backyard into a vegetable garden.
+ Uh, for me, I'm going to try this summer to get a podcast started.
+ I think that'll be a lot of fun as well, but let's talk about what your needs are now.
+ So on the menu today, of course, we introduced myself.
+ We're going to talk about the dangerous animals one-on-one just introduced them very quickly
+ here.
+ We're going to talk about influence without authority, because I think that is a key point.
+ There's some key facts.
+ I want to talk about that.
+ And then we're going to get into a process that's sort of surrounding around some frameworks
+ for very simple to use frameworks for, to help the prioritization process.
+ And in doing so, I think you'll, you'll have a way of having these guided conversations
+ here.
+ Put a little more light on this subject here.
+ There we go.
+ Alrighty.
+ So let's, let's keep moving on with the conversation.
+ Thank you for letting me make that adjustment here.
+ So who are these wild beasts who trample our backlog, our product vision and our strategic
+ roadmap?
+ And this is where we welcome, and you've seen or heard of some of these and some of you
+ may not, and that's alright.
+ Let's talk first about the hippo.
+ I think this one's been around for at least 20 years in various acts of writing, and we
+ know it to be the highest paid person's opinion.
+ And I'm not going to read each of these bullet points here.
+ Like I said, we've got to leave behind here, but I think we're familiar that it's usually
+ the CEO or maybe the CPO or founders or other senior executives and VPs.
+ And since they do have a lot of authority, there is the danger where they could push
+ things down and those things may not be validated.
+ Those things may be sort of outcome based rather, I mean, output based rather than outcome
+ based.
+ But even though their intentions are good, again, it creates a lot of context switching
+ and some really good examples of some really bad outcomes.
+ For example, Ron Johnson, who had helped set up the genius stores for Apple.
+ And before that, I believe he worked with e-commerce at someplace like Target.
+ And of course, he came to JCPenney with a lot of cognitive bias based off of past experience
+ here and pushed ideas down on his teams and JCPenney, well, they went into bankruptcy.
+ So he took a somewhat almost profitable group here and just drove it straight into the ground.
+ Even though he had a background of success.
+ When you may not be here as much as the really high value new opportunity, that's the Rhino.
+ These are people coming out of sales, out of marketing, sometimes the chief financial
+ officer, all of them, again, good intentions, but they're optimizing on features because
+ they're trying to, they feel that's the way they can drive revenue.
+ And so if you've ever read like the first chapter of Melissa Perry's book, and she talks
+ about this sales driven type of product, you know, our sales driven type organization,
+ this is definitely, you know, Rhino driven.
+ And what you see this happening is a lot of startups and that's fine to get the ball rolling,
+ but where it doesn't play very well is when you try to expand into, you know, into that
+ growth stage and move forward to scale.
+ And it's ironically enough, a company whose name is scale factor actually resorted this
+ to the point where scalability became so hard that they went ahead and were actually hired
+ staff offshore.
+ So as part of their product, as people were asking questions of the product and looking
+ for reports, they actually had analysts instead of the algorithms answering the question.
+ And of course that doesn't scale.
+ And even though they had a hundred million in seed money, they ran out of runway and
+ went broke.
+ All righty, here's one that's always my favorite zero evidence, but really arrogant, the zebra.
+ Okay.
+ Now you have the, um, these are sometimes the, the stakeholders, we have a lot of domain
+ experience, uh, power players with a new organization, sometimes deep pocketed or our big enterprise
+ type customers who are helped keeping the business afloat.
+ And while they bring their, their big egos or their big wallets and their domain expertise,
+ they are also politically savvy, which means when you start pushing back, you don't do
+ it right.
+ You can expect some upstream escalations.
+ And this is where some of the motivations are a little bit suspect here.
+ So you might have ignorance.
+ You might have overconfidence.
+ You'd certainly have a cognitive bias.
+ The best example is I can think of, uh, is, is the block, you know, blockbuster CEO, John
+ Antioco, who, when Netflix was trying to sell, uh, Netflix to Blockbuster for just a few
+ million, uh, managed to laugh them out of the room out loud.
+ And cause we see that really ended well for the people at Blockbuster.
+ All right, moving forward.
+ Works on latest fire.
+ And this is less of a personality and more of a situation, and it involves DevOps engineering
+ QA, and even us in product management, meaning while we have the ability to drive influence
+ on, on, on the actual implementation here, because we're dealing with time commitments,
+ because we're dealing with limitations, either in technical limitations or dealing with resource
+ limitations or people limitations, we tend to cheat.
+ And it's almost like taking out a loan from a loan shark, which, okay, it may solve my
+ problem right away, but at some point that mobster is going to show up in the middle
+ of the night with a two by four, uh, looking at your kneecaps for payment.
+ And it's interesting because I think the most, the most salient example of technical debt
+ was night capital.
+ Now this organization had feature flags for trading features, and they had one.
+ Normally with you, you create technical debt when you have feature flags and feature flags
+ are good.
+ I'm a big fan.
+ However, they need to be managed.
+ And after nine years of code, one of these unmanaged feature flags was accidentally turned
+ on at the cost of $460 million in 45 minutes.
+ And finally, our favorite, the swoop and poop that Seagull manager.
+ And I found in the past, and I'll just give you an example here.
+ It's usually that manager who's risen through the ranks probably has a lot of technical
+ expertise or other domain expertise.
+ I experienced one with a senior VP of technology who rose through the ranks, starting with
+ an intern as a programmer.
+ And after 15 years was the senior VP and more than once he came to my teams with, Hey, I
+ spent the weekend writing this code.
+ Can you put it in your, your, uh, you know, the system here you're working on.
+ And I understand his, his, his intentions were good.
+ I understand.
+ He thinks he was helping because of his technical knowledge, but because of his impatience,
+ I was trying to explain to him that this creates some context switching for the engineers gets
+ them out of their flow.
+ And it also creates what I call an unscalable situation, a bolt on software, which I refer
+ to as Frank and soft.
+ And there's just so many example this, so you just need to go to about every third Dilbert
+ cartoon or every fifth market Tunis cartoon, and you'll see the type of disruption that
+ this can create.
+ Okay.
+ So we've, we've gone through who the players are.
+ Let's talk about how do we approach these beasts?
+ And I want to just sort of dive into influence without authority because we hear that term
+ throw it out and we've also heard it phrased or couch differently than we may call it a
+ soft skills or diplomacy.
+ And I just want to talk about it in terms of just some practical tactical, because I
+ agree with that.
+ And I agree that you need to start with empathy.
+ So you need to understand their perspective and you're saying of home and it, and so that's
+ just it.
+ Who is the perspective of the end user?
+ I prefer to start with the end user and work my way in.
+ I just really don't like these situations where we're working on one side and trying
+ to work out.
+ So you have that.
+ And then, then you have the perspective of perhaps who the hippo is.
+ You need to understand what their situation might be or, or the rhino, again, some of
+ these people have good intentions, just not so great execution here.
+ So let's align their motivations with our product goals.
+ Let's go ahead and work with the hippos and the rhinos and the seagull managers who are
+ inflict this on us.
+ Then we want to embrace transparency.
+ I think part of the deal here is trust.
+ So we don't want to just surface the what, but the why.
+ And I think that's really important that we do that because when we provide the transparency
+ of the trade-offs, for example, the opportunity costs or the cost between going one direction
+ or another, or the decisions we make or the, or the customer insights we've been managed
+ to collect, or even the, you know, that, and along with that quantitative data, that qualitative
+ data, maybe the quantitative data we collect through analytics or data mining and more.
+ We don't hurt ourselves by making that all very transparent and being willing to discuss
+ it.
+ But just remember when you put it out there, be willing to discuss it.
+ And what this does is it gives context to the conversation.
+ I mean, we want data informed decisions and ideas.
+ I try to avoid data driven decisions here because I think quantitative data without
+ qualitative data really gets us into a pickle here.
+ And so they need to be balanced.
+ And this works across the different wild animals in their prioritization to just keep that
+ in mind and keep things transparent.
+ We want to empower the stakeholders with technical know-how.
+ Now, before we go to detail, let me put some guard rails on this.
+ We want to demonstrate really what we're after is, hey, this technical debt or these technical
+ hurdles and technical debt can manifest its way in many forms.
+ It impedes our ability to scale and grow, which ultimately impedes our ability to bring
+ a revenue.
+ Now you don't have to get into the weeds of the geeky detail.
+ What you do need to do is paint that picture through real world example, what's gone wrong
+ in the past for others or ourselves and what could potentially happen for us.
+ You could be in a situation where you hear back from DevOps that we possibly painted
+ ourselves into a corner or that we've done so much feature, feature, feature, feature
+ that now the product is just sort of barely holding on.
+ And this really helps with the conversations with avoid the working on latest fire, but
+ also sort of holding back a bit that charging rhino or hippo.
+ We want to engage in tiny acts of discovery or TADs as I like to call them here.
+ And this is a phrase that I sort of rolled out an idea I've been sort of pulling a thread
+ on since about pandemonium in 2019 and it's trying to give those data informed decisions
+ or some challenges to the assumptions that they're built on here.
+ And when I say tiny acts of discovery, I really mean that.
+ A paper prototype, simple data mining, an online survey, something that's very low res,
+ something that's incredibly fast, something that's inexpensive.
+ I've worked in some situations, in fact, I was with one or really talented UX person
+ who we were able to get out just an online survey of just four screenshots, four different
+ mockups of the same screen.
+ It was very simple.
+ Which one do you feel gets you to X?
+ And that was it.
+ It was very highly focused.
+ It was very simple and the users were able to respond.
+ We sent it out to about 30 people.
+ We got about 24 respondents within the same night.
+ It just said, did it the same day, got out the same night.
+ It was interesting because the system that we're using to do that, and I'd have to go
+ ask about the name of it because it gets away from me, but there's several that can do this.
+ We found that of the 24, 20 of them responded in under 60 seconds.
+ Now I think that's a strong enough signal to say, I think we might have something here.
+ There are other types of tests that can save you a lot of pain and money.
+ And I think one of the things we want to remember is we can use these tests, such as canary
+ tests, painted door features, similar experiments in a tiny of a segment.
+ So if you've got good feature flagging, this is one of the reasons why products like split
+ or lunch darkly are so effective because they allow you to do this very targeted.
+ So for example, if I just wanted to target just a few users in the APAC region in the
+ middle of the night, so if I have a new release, I can put this out there in a canary release.
+ So I'm now looking at maybe 5% of my user base.
+ It's off hours because it's aimed at a particular segment of the globe and servers there.
+ I can quickly see that maybe, wow, this messaging system, it creates a great user interface,
+ but we didn't realize it's going to have this impact on the back end.
+ Now you can just turn the feature flag off.
+ Usually that 5% is not online, and if they are, you can reach out to them directly.
+ And the rest of the user base is spared you trying to roll out a much larger rollout that's
+ going to impact everyone.
+ And then of course your customer support loves you because they're not getting hammered because
+ you put out a release to 100% of the population in all your server farms and just managed
+ to just blow up everything horribly.
+ Again, it's about controlling the blast radius, limiting the experience to small, I should
+ say tiny user or server segments here, but tiny acts of discovery works across all the
+ players here.
+ All right.
+ So just keep that in mind.
+ And then we want to train them to be like product managers, the stakeholder, now keep
+ in mind, we're not asking them to do our job, but get back to this again, paint a vivid
+ picture of the end user when every chance you have start out and paint, it could be
+ a sprint demo, it could be a retrospective, it could be a vision and strategy meeting,
+ it could be a business case meeting, it could be a meeting with the board, start by painting
+ a vivid picture, not of the buyer, not of the stakeholder, but of the end user.
+ In this way, we set ourselves in a position where we can use some of these frameworks
+ I'm going to talk about in the next couple of minutes.
+ And we can use those then to evaluate these new ideas and sort of flesh them out.
+ It also helps with the validation.
+ And it means then that you can engage these dangerous animals, these exercises, and you
+ can be ready to surface things like the opportunity, the monetary costs behind these.
+ Really, this is helpful for the rhinos and the zebras and seagull managers, I should
+ probably put the hippo as well.
+ Okay, most of all, let's connect the proof with the purpose here.
+ Let's take the emotion and the ego out of the product decisions here.
+ Let's take the cognitive bias off the table here.
+ Again, this is why we always want to keep the company and that product vision and strategy
+ out in the forefront.
+ It starts with the user and you work your way in.
+ We want to present quantitative data for sure, but within it in a context of qualitative
+ feedback and vice versa.
+ I think all too often we, "Oh, I've got all these analytics," but they don't resonate
+ because you really can't pair things up.
+ The other end, and going the other way, "Oh, I got an MPS score."
+ Yeah, but what does the data say?
+ I like using what they call early adopter programs.
+ This is where I have a very small segment testing a very small set of features that
+ before we bring it out to the larger user base here, and it's usually with just one
+ or two clients.
+ Again, this is what a good feature flagging system will afford you.
+ And in doing so, they tell me what they want in weekly touch-based meetings, but I've also
+ looked at things instrumented with analytics, whether it's Amplitude or Pendo or some other
+ system here.
+ Because I've also found that what perhaps the leader in the room, the buyer, their manager
+ tells me doesn't necessarily reflect what their actual staff, their actual end users
+ are doing with the software.
+ So it's always good to have that balance of the two.
+ And again, present your arguments that support the outcomes, the outcomes for the end user
+ over the outputs.
+ Get out of the being in the feature factory.
+ Again, this helps you with your hippos and your rhinos and your zebra conversations here.
+ All right, so we've got about five more minutes to go here.
+ Let me see if I can get through there because, hey, you said you had a process for walking
+ through frameworks, and we certainly do here.
+ And I want to talk about four of them very quickly here.
+ All righty.
+ So first one is story mapping, and I won't go into it because I think we've heard a lot
+ of this, but we look at this, identify the persona, their pain points and desired outcome
+ here.
+ What you're trying to do is capture their end to end journey from the beginning of seeking
+ an outcome to the end.
+ How they go from point A to point Z and all the E and the F and the M and O in between
+ here.
+ And you do that, you can then create hypotheses for the outcomes.
+ You can then prioritize these.
+ You can then start finding your tiny acts of discovery to validate each of these, those
+ very quick tests here.
+ And once they're submitted, you get that list because now you have an idea of outcomes you're
+ after and you have some ideas for solutions.
+ And that takes you to Knifen, which I've misspelled, I put an extra I in there, my apologies.
+ And with Knifen, it helps you collaborate through by problem ideas, sort of to see what
+ are clear.
+ In other words, what's the most simple design, the no brainers, the low hanging fruit.
+ We certainly want that.
+ And if you'll notice in the diagram here, we're always trying to take everything that's
+ in that, if clear is the best, we want to take what's good and try moving it into the
+ best.
+ We want to take what's, what would you call it, complex and move it into complicated,
+ move into clear and so forth and move in that clockwise fashion towards the best practice.
+ And that means you try to get complicated to move into clear.
+ It's doable, but there are a few unknown unknowns, again, that may be where some experiments
+ are required to sort of unpack those and it may be further sessions of just sort of refining
+ and atomizing complex.
+ We know what it is, but there's unknown unknowns.
+ We want to go through the act of unpacking it.
+ This will probably take more experimentation, more research, and in doing so you take that
+ from complex into complicated.
+ And if you're really doing a good job with it, or if you're really starting things from
+ clearing up, you can get complicated into clear.
+ There's chaotic.
+ You know, there's something out there, but the cause and effect still aren't known.
+ Usually it's a bit more observation.
+ It's just sort of like, okay, we're just going to keep an eye on this now.
+ We're not so sure yet.
+ But still, it's worth trying to get that atomized enough so you can sort of get the cards out
+ on the table and have that conversation that gets you from chaotic to complex.
+ And then you have the disorderly, and it's just a crap show, and you do not want to touch
+ that.
+ That's your third rail.
+ Let it burn.
+ Just let it burn because that usually derails teams.
+ So again, it's one of those things where you just got to sort of say, no, we can't prioritize
+ to that.
+ Now here's my favorite because once you've gotten to that point here, and I've used this.
+ I remember inheriting a 6,000 JIRA story backlog that had been used as a black hole over several
+ years.
+ And they said, we're going from on-prem to SAST, so we need to sort of get control of
+ this.
+ And now it was around getting around Christmas and Thanksgiving and Christmas.
+ So usually the night before Thanksgiving and Christmas Eve and New Year's Eve, there were
+ some horrible accidents.
+ And what happened, tickets that were over a year old managed to get put on a won't do
+ status with a note saying, look, if you really want to do this thing, let's get customer
+ feedback.
+ We'll turn this back on.
+ I think out of, I think it was close to 5,000 stories closed, two came back, two.
+ And again, it's a simple scoring system we have here.
+ And Steve, you're the author of this.
+ So if I get this wrong, feel free to jump in, but I like this because you have this
+ nice little Fibonacci score here, one, two, three, five, and we get to look at the problem
+ through its impact.
+ How does this issue affect the customer here?
+ And we score that.
+ So on this line here, each row would be a feature, feature one, feature two, feature
+ three.
+ And looking at this gray bar, we're looking at feature three, what would the impact be?
+ And then we're going to multiply that against dissatisfaction.
+ Is this a big deal or a minor annoyance?
+ Because if it's a big deal, it's probably a big deal.
+ Evidence, do we have that qualitative and/or quantitative data to support this?
+ Because if it's low, it should be a low multiplier here.
+ And I think this is where the idea of you have those multipliers, it really helps come
+ into play here.
+ To what advantage is it to the business?
+ Yes, we need to build delightful software.
+ Whoops.
+ Okay.
+ That's telling me I need to start wrapping up here.
+ We need to build delightful software that's hard for our competitors to copy, but also
+ improves our margins here.
+ And then we divide that by the level of effort.
+ This is where you have to have talk with development and DevOps, where we divide it up.
+ Because as we bring these scores together here, now this gives us an idea.
+ In fact, I was able to wire this into Jira during that situation I was telling you that
+ we were dealing with here.
+ And I'd meet twice a week with the product managers and the product owners, and we went
+ through the scoring.
+ And after about two or three months of the remaining thousand tickets here, we were able
+ to find 100 out of that thousand of the top ideas, and from that, we identified about
+ 25 of the most valuable ideas.
+ And we took those ideas and walked into a process called buy a feature.
+ Now this is where we go ahead and we enumerate those 25 out of the, like I said, that we
+ had now with the highest value.
+ We assigned each a different dollar prices based off of what that value was from the
+ idea method.
+ We went ahead and got our stakeholders together.
+ We actually got them together with a couple of customers, that's your option.
+ We gave each participant not, you know, out of 25, you know, some amount, I believe was
+ a thousand dollars here.
+ Well, we only gave them $250 each, okay?
+ And we did that by design because you can't have everything you want.
+ We had them buy things, we said, look, microphones are open, negotiate.
+ So we had a situation, well, if I do this, will you do that?
+ Yeah, I mean, haggling, trying to convince others, and you give this time as they get
+ to scoring in and they're done, then you sum up, you know, the purchases, you do a review
+ of it, and you go ahead and encourage participants to discuss their purchases here.
+ And I think that brings to light the prioritization.
+ And now out of that 25, we may have those five that we can do in Q3, you know, those
+ three, and it may not be the top one, it may be like, well, we can't do the top one, there's
+ too much lift there.
+ But the next two, and then the fourth, and then the sixth one, yeah, we can get that
+ all done in the third quarter here.
+ Let's, let's go for that.
+ So again, now you've taken these four frameworks, and you strung them along to give you your
+ validation due to your prior, you know, your experiments, you've gone ahead and gone through
+ and scored them here, you've gotten them out in front of the stakeholders, you've made
+ a transparent here, and you've positioned yourself not to have arguments on emotion,
+ but these data-informed, highly transparent, highly engaged conversations that help you
+ get from point A to point B. So the thing is, collaborate, and then through
+ your shared understanding, whether, it doesn't matter which frame you use, there's a site
+ called Folding Tacos that has 24 of these frameworks that you can, that you can try
+ to use.
+ It does, the framework is not so much important, you know, come up with your own if you want,
+ but remove the emotion through experimentation and validation, continually show empathy,
+ be respectful of the sense of agency of others.
+ I cannot express to you when you're dealing with the hippos, the rhinos, and even the
+ zebras, try to make sure that even though you have to say no and say no a lot, never
+ take away their sense of agency, or they will escalate or work against you here, so just
+ be aware of that.
+ And remember, you don't want the dangerous animals to be more powerful than your customers.
+ Start with the end user, end with the end user, start with the outcome they're seeking,
+ end with the outcome that you're going to provide them.
+ And I think with that, we are ready to go ahead and have questions and answers.
+ I'm going to leave this up for a couple minutes, and then I'm going to switch over to the browser.
+ Chris, I think we've given ourselves good time for some questions and answers.
+ Sure have.
+ Dean, what a wonderful presentation.
+ I loved, loved, loved the tips, the exercises, and the use of the jungle animals, really
+ creative.
+ Some questions have come in, one that actually was on the top of mine as well, and I'll just
+ read it to you, "Thoughts on ways to tame the rhinos and hippos who believe that they
+ are, in fact, the Steve Jobs and say that there is no evidence because customers don't
+ yet really know what they know."
+ Yeah, I agree with that.
+ I mean, I've read that before, in fact, in studying this, there is that person as well,
+ what about the Steve Jobs here, and well, the Steve Jobs are rare.
+ They are very rare.
+ I'd mentioned Melissa Perry, who even mentions that in her book, Avoiding the Bill Trap here.
+ Oh, by the way, if you go to my blog, I list the various books I've used to support this
+ here.
+ I've actually got a blog post I did in 2018, which actually talks about the resources and
+ includes some of those, and they're rare though.
+ I mean, yes, that person may believe it.
+ I think because that person may be sort of zebra-ish, that, again, we need to make sure
+ that we come equipped with the quantitative and qualitative data, because if we don't
+ speak the truth of the data here, all this is going to be whoever can politically maneuver
+ better, or whoever has the loudest voice, whoever's the most extroverted, and we really
+ don't need that to happen.
+ Again, that's why some of these frameworks, and then usually stringing them together,
+ and these tiny acts of discovery are so powerful in helping diffuse some of that.

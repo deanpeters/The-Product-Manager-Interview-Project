@@ -67,7 +67,7 @@ All active cards below are **(rewritten)** — they follow the full interview-ca
 - [How Much Should the AI Decide](../Questions/ai/How-Much-Should-the-AI-Decide.md) — Judgment
 - [When the Model Is Wrong](../Questions/ai/When-the-Model-Is-Wrong.md) — Judgment
 - [The Line You Wouldn't Cross](../Questions/ai/The-Line-You-Wouldnt-Cross.md) — Judgment
-- [Build, Buy, or Wait](../Questions/ai/Build-Buy-or-Wait.md) — Judgment
+- [Build / Borrow / Buy](../Questions/ai/Build-Borrow-Buy.md) — Judgment
 - [Turning Usage Into a Better Model](../Questions/ai/Turning-Usage-Into-a-Better-Model.md) — Judgment
 - [AI as a Moat, or Not](../Questions/ai/AI-as-a-Moat-or-Not.md) — Judgment
 - [Governing an Agent That Acts on Its Own](../Questions/ai/Governing-an-Agent-That-Acts-on-Its-Own.md) — Judgment
@@ -124,7 +124,7 @@ See [competency-model.md](competency-model.md) for definitions. Most cards asses
 - [Explaining AI Limits to a Skeptic](../Questions/ai/Explaining-AI-Limits-to-a-Skeptic.md)
 - [Where AI Actually Helps](../Questions/ai/Where-AI-Actually-Helps.md)
 - [What the Model Needs to Know](../Questions/ai/What-the-Model-Needs-to-Know.md)
-- [Build, Buy, or Wait](../Questions/ai/Build-Buy-or-Wait.md)
+- [Build / Borrow / Buy](../Questions/ai/Build-Borrow-Buy.md)
 - [AI as a Moat, or Not](../Questions/ai/AI-as-a-Moat-or-Not.md)
 - [The Premortem](../Questions/situational/The-Premortem.md)
 - [Sizing a Market You Can Defend](../Questions/method/Sizing-a-Market-You-Can-Defend.md)
@@ -203,14 +203,14 @@ See [ai-competency-model.md](ai-competency-model.md). Only use these for roles w
 - **AI Experience & Human Agency** — [How Much Should the AI Decide](../Questions/ai/How-Much-Should-the-AI-Decide.md)
 - **AI Evaluation & Metrics** — [When the Model Is Wrong](../Questions/ai/When-the-Model-Is-Wrong.md)
 - **AI Risk, Safety & Responsible Use** — [The Line You Wouldn't Cross](../Questions/ai/The-Line-You-Wouldnt-Cross.md)
-- **AI Economics & Technical Tradeoffs** — [Build, Buy, or Wait](../Questions/ai/Build-Buy-or-Wait.md)
+- **AI Economics & Technical Tradeoffs** — [Build / Borrow / Buy](../Questions/ai/Build-Borrow-Buy.md)
 - **AI Product Operations & Learning** — [Turning Usage Into a Better Model](../Questions/ai/Turning-Usage-Into-a-Better-Model.md)
 - **AI Strategy & Competitive Advantage** — [AI as a Moat, or Not](../Questions/ai/AI-as-a-Moat-or-Not.md)
 - **AI Experience & Human Agency** (second card) — [Governing an Agent That Acts on Its Own](../Questions/ai/Governing-an-Agent-That-Acts-on-Its-Own.md), specifically for multi-step, autonomous agentic systems rather than single-turn AI features
 - **AI Risk, Safety & Responsible Use** (second card) — [Scanning External Forces Before You Bet on AI](../Questions/ai/Scanning-External-Forces-Before-You-Bet-on-AI.md), for external/regulatory risk rather than internally-discovered risk
 - **AI Fundamentals** (second card) — [Which Customer Said This?](../Questions/ai/Which-Customer-Said-This.md), for verifying AI-synthesized research against real source quotes
 - **AI Product Operations & Learning** (second card) — [Kill the Zombie Pilot](../Questions/ai/Kill-the-Zombie-Pilot.md), for portfolio-level stop decisions rather than a single product's feedback loop
-- **AI Economics & Technical Tradeoffs** (second card) — [The Lever the CFO Can See](../Questions/ai/The-Lever-the-CFO-Can-See.md), for translating AI value into a finance-legible lever rather than a build/buy/partner decision
+- **AI Economics & Technical Tradeoffs** (second card) — [The Lever the CFO Can See](../Questions/ai/The-Lever-the-CFO-Can-See.md), for translating AI value into a finance-legible lever rather than a Build / Borrow / Buy sourcing decision
 - **Data & Context Strategy** (second card) — [Twelve Tabs, Twelve Truths](../Questions/ai/Twelve-Tabs-Twelve-Truths.md), for context as shared team infrastructure rather than a single product's context needs
 - **AI Strategy & Competitive Advantage** (second card) — [Frankensoft or AI-First](../Questions/ai/Frankensoft-or-AI-First.md), for the prior architectural call (bolt-on vs. redesign) that precedes a moat question
 - **AI Risk, Safety & Responsible Use** (third card) — [The Storm You Could See in Week One](../Questions/ai/The-Storm-You-Could-See-in-Week-One.md), for internal/organizational AI-project risk rather than external/regulatory risk

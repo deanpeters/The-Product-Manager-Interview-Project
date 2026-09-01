@@ -177,6 +177,7 @@ Your card should pass these checks:
 - Write like you're briefing an experienced colleague, not a junior intern
 - Use short sentences and active voice
 - Name trade-offs, not just "best practices"
+- Preserve memorable named language when it carries meaning: phrases like `Build / Borrow / Buy` are part of the toolkit's teaching value, not decoration to be sanded smooth
 - Make Strong Evidence and Warning Signs concrete enough that two interviewers would score the same answer the same way
 
 ### Don't Do This:

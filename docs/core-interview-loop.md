@@ -85,7 +85,7 @@ Owns: does the candidate reason well about AI-specific product judgment — see 
 - [How Much Should the AI Decide](../Questions/ai/How-Much-Should-the-AI-Decide.md) — Judgment (AI Experience & Human Agency)
 - [When the Model Is Wrong](../Questions/ai/When-the-Model-Is-Wrong.md) — Judgment (AI Evaluation & Metrics)
 - [The Line You Wouldn't Cross](../Questions/ai/The-Line-You-Wouldnt-Cross.md) — Judgment (AI Risk, Safety & Responsible Use)
-- [Build, Buy, or Wait](../Questions/ai/Build-Buy-or-Wait.md) — Judgment (AI Economics & Technical Tradeoffs)
+- [Build / Borrow / Buy](../Questions/ai/Build-Borrow-Buy.md) — Judgment (AI Economics & Technical Tradeoffs)
 - [Turning Usage Into a Better Model](../Questions/ai/Turning-Usage-Into-a-Better-Model.md) — Judgment (AI Product Operations & Learning)
 - [AI as a Moat, or Not](../Questions/ai/AI-as-a-Moat-or-Not.md) — Judgment (AI Strategy & Competitive Advantage)
 - [Governing an Agent That Acts on Its Own](../Questions/ai/Governing-an-Agent-That-Acts-on-Its-Own.md) — Judgment (AI Experience & Human Agency)
